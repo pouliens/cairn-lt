@@ -204,17 +204,17 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 
 <p></p>
 
-## Name & Background (d20)
+## Vardai ir Profesijos (d20)
 
-#### Female Names
+#### Moterų Vardai
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
-|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
-|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
-|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
-|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
+|   |          |    |          |    |           |    |         |
+| - | -------- | -- | -------- | -- | --------- | -- | ------- |
+| 1 | Agripina | 6  | Elgilė   | 11 | Jogundė   | 16 | Sibilė  |
+| 2 | Aguona   | 7  | Eulogija | 12 | Lauksminė | 17 | Širlė   |
+| 3 | Angelė   | 8  | Gaivilė  | 13 | Lirana    | 18 | Venaina |
+| 4 | Aurika   | 9  | Grija    | 14 | Morgvena  | 19 | Žibutė  |
+| 5 | Beatriče | 10 | Henainė  | 15 | Pestila   | 20 | Žiedė   |
 
 #### Male Names
 
