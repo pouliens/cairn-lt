@@ -216,91 +216,91 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | 4 | Aurika   | 9  | Grija    | 14 | Morgvena  | 19 | Žibutė  |
 | 5 | Beatriče | 10 | Henainė  | 15 | Pestila   | 20 | Žiedė   |
 
-#### Male Names
+#### Vyrų Vardai
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
-|2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
-|3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
-|4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
-|5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
+|   |          |    |          |    |            |    |            |
+| - | -------- | -- | -------- | -- | ---------- | -- | ---------- |
+| 1 | Ainis    | 6  | Erdvilas | 11 | Mudeika    | 16 | Saulėnas   |
+| 2 | Algirdas | 7  | Gaudys   | 12 | Narimantas | 17 | Steponas   |
+| 3 | Aras     | 8  | Girėnas  | 13 | Oginskis   | 18 | Traidenis  |
+| 4 | Baltrus  | 9  | Jaunutis | 14 | Palemonas  | 19 | Utenis     |
+| 5 | Džiugas  | 10 | Labutis  | 15 | Ringaudas  | 20 | Žygimantas |
 
-#### Surnames
+#### Pavardės
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
+|   |         |    |         |    |          |    |         |
+| - | ------- | -- | ------- | -- | -------- | -- | ------- |
+| 1 | Abišala | 6  | Būta    | 11 | Praleika | 16 | Šerepka |
+| 2 | Adamkus | 7  | Dabušis | 12 | Raila    | 17 | Urla    |
+| 3 | Bakša   | 8  | Gylys   | 13 | Sruoga   | 18 | Yla     |
+| 4 | Bogušas | 9  | Kolys   | 14 | Stakvila | 19 | Zuba    |
+| 5 | Budrys  | 10 | Kuosa   | 15 | Šerna    | 20 | Žvirėla |
 
-#### Background
+#### Profesijos
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|   |             |    |                   |    |              |    |               |
+| - | ----------- | -- | ----------------- | -- | ------------ | -- | ------------- |
+| 1 | Alchemikas  | 6  | Kalnakasys        | 11 | Magas        | 16 | Prekybininkas |
+| 2 | Atlikėjas   | 7  | Kalvis            | 12 | Mėsininkas   | 17 | Samdinys      |
+| 3 | Dailidė     | 8  | Kišenvagis        | 13 | Medžiotojas  | 18 | Tarnas        |
+| 4 | Dvasininkas | 9  | Kontrabandininkas | 14 | Nusikaltėlis | 19 | Žolininkas    |
+| 5 | Duobkasys   | 10 | Lošėjas           | 15 | Plėšikas     | 20 | Žvalgas       |
 
 <p></p>
 
-## Character Traits (d10)
+## Personažo bruožai (d10)
 
-#### Physique
+#### Sudėjimas
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+|   |               |    |                 |
+| - | ------------- | -- | --------------- |
+| 1 | Aukštas(-a)   | 6  | Pečiuitas(-a)   |
+| 2 | Ištįsęs(-usi) | 7  | Raumeningas(-a) |
+| 3 | Kaip statula  | 8  | Stambus(-i)     |
+| 4 | Liesas(-a)    | 9  | Suglebęs(-usi)  |
+| 5 | Mažas(-a)     | 10 | Tvirtas(-a)     |
 
-#### Skin
+#### Oda
 
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+|   |               |    |                 |
+| - | ------------- | -- | --------------- |
+| 1 | Apgamuota     | 6  | Raukšlėta       |
+| 2 | Drimbanti     | 7  | Rausva          |
+| 3 | Įdegusi       | 8  | Švelni          |
+| 4 | Ištatuiravota | 9  | Tamsi           |
+| 5 | Randuota      | 10 | Vėjo nugairinta |
 
-#### Hair
+#### Plaukai
 
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+|   |             |    |           |
+| - | ----------- | -- | --------- |
+| 1 | Garbanoti   | 6  | Šiurkštūs |
+| 2 | Ilgi        | 7  | Šiurkštūs |
+| 3 | Plika galva | 8  | Supinti   |
+| 4 | Ploni       | 9  | Susitaršę |
+| 5 | Riebūs      | 10 | Vešlūs    |
 
-#### Face
+#### Veidas
 
-|  |           |      |          |
-| ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+|   |                  |    |                  |
+| - | ---------------- | -- | ---------------- |
+| 1 | Apvalus ir mažas | 6  | Nepriekaištingas |
+| 2 | Blyškus          | 7  | Pailgas          |
+| 3 | Įdubęs           | 8  | Raukšlėtas       |
+| 4 | Kampuotas        | 9  | Smailus          |
+| 5 | Liesas           | 10 | Sulaužytas       |
 
-#### Speech
+#### Kalba
 
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+|   |             |    |              |
+| - | ----------- | -- | ------------ |
+| 1 | Aiški       | 6  | Monotoniška  |
+| 2 | Ceremoninga | 7  | Neaiški      |
+| 3 | Cypsinti    | 8  | Šnabždanti   |
+| 4 | Griausminga | 9  | Tiesmuka     |
+| 5 | Kimi        | 10 | Užsikertanti |
 
-#### Clothing
+#### Rūbai
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
@@ -310,312 +310,310 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | 4        | Filthy  | 9    | Rancid |
 | 5        | Foreign | 10   | Soiled |
 
-#### Virtue
+#### Vertybės
 
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+|   |                  |    |                          |
+| - | ---------------- | -- | ------------------------ |
+| 1 | Apdairus(-a)     | 6  | Garbingas(-a)            |
+| 2 | Ambicingas(-a)   | 7  | Kuklus(-a)               |
+| 3 | Drausmingas(-a)  | 8  | Mėgstantis(-i) kompaniją |
+| 4 | Drąsus(-i)       | 9  | Santūrus(-i)             |
+| 5 | Gailestingas(-a) | 10 | Tolerantiškas(-a)        |
 
-#### Vice
+#### Ydos
 
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+|   |                |    |                   |
+| - | -------------- | -- | ----------------- |
+| 1 | Agresyvus(-i)  | 6  | Pagiežingas(-a)   |
+| 2 | Bailus(-i)     | 7  | Pasipūtęs(-i)     |
+| 3 | Gobšus(-a)     | 8  | Tingus(-i)        |
+| 4 | Grubus(-i)     | 9  | Apgaulingas(-a)   |
+| 5 | Kerštingas(-a) | 10 | Nerimastingas(-a) |
 
-#### Reputation
+#### Reputacija
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+|   |                |    |                 |
+| - | -------------- | -- | --------------- |
+| 1 | Ambicingas(-a) | 6  | Dykinėtojas(-a) |
+| 2 | Artistas(-ė)   | 7  | Gerbiamas(-a)   |
+| 3 | Bjaurus(-i)    | 8  | Išmintingas(-a) |
+| 4 | Chamas(-ė)     | 9  | Keistuolis(-ė)  |
+| 5 | Doras(-a)      | 10 | Pavojingas(-a)  |
 
-#### Misfortunes
+#### Bėdos
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+|   |                                |    |                          |
+| - | ------------------------------ | -- | ------------------------ |
+| 1 | Apgautas(-a)                   | 6  | Ištremtas(-a)            |
+| 2 | Apleistas(-a)                  | 7  | Pasmerktas(-a)           |
+| 3 | Diskredituotas(-a)             | 8  | Pažemintas(-a) pareigose |
+| 4 | Įklimpęs(-usi) į priklausomybę | 9  | Prakeiktas(-a)           |
+| 5 | Išsižadėtas(-a)                | 10 | Šantažuojamas(-a)        |
 
 <p></p>
 
-## Starting Gear (d20)
+## Pradiniai daiktai (d20)
 
-#### Armor
+#### Šarvai
 
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| Jokių  | Odiniai | Grandininiai | Plieniniai |
 
-#### Helmets & Shields
+#### Šalmas ir skydas
 
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+| 1-3   | 4-16   | 17-19  | 20               |
+| ----- | ------ | ------ | ---------------- |
+| Jokių | Šalmas | Skydas | Šalmas ir skydas |
 
-#### Weapons
+#### Ginklas
 
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :------------------: |------------------------------: |
-|          1-5          |       6-14       |          15-19       |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| 1-5            | 6-14                             | 15-19                      | 20                            |
+| -------------- | -------------------------------- | -------------------------- | ----------------------------- |
+| Durklas, Lazda | Kardas, Vėzdas, Paprastas Kirvis | Lankas, Arbaletas, Laidynė | Alebarda, Kūjis, Kovos Kirvis |
 
-#### Expeditionary Gear
 
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+#### Papildomi reikmenys
 
-#### Tools
+|   |                 |    |                               |    |                                           |    |                                                |
+| - | --------------- | -- | ----------------------------- | -- | ----------------------------------------- | -- | ---------------------------------------------- |
+| 1 | Alyva           | 6  | Grandinė (3m)                 | 11 | Lešiklis (padeda rasti vandens telkinius) | 16 | Vilkabalsis (nuodinga augalinė medžiaga)       |
+| 2 | Atbaidiklis     | 7  | Kabliukas                     | 12 | Oro pūslė                                 | 17 | Virbelis (virba, kai esi šalia ieškomo daikto) |
+| 3 | Degtukai        | 8  | Kinkinys (+4 vietos, didelis) | 13 | Pančiai                                   | 18 | Virvė (10m)                                    |
+| 4 | Didelis maišas  | 9  | Kirtiklis                     | 14 | Priešnuodis                               | 19 | Virvė su kabliu                                |
+| 5 | Didelis Spąstai | 10 | Lazda (3m)                    | 15 | Spynų kirtikliai                          | 20 | Žiūronas                                       |
 
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
-| 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
+#### Įrankiai
 
-#### Trinkets
+|   |                                        |    |           |    |                      |    |                  |
+| - | -------------------------------------- | -- | --------- | -- | -------------------- | -- | ---------------- |
+| 1 | Dumplės                                | 6  | Kibiras   | 11 | Metalinė Dildė       | 16 | Smėlio laikrodis |
+| 2 | Grąžtas                                | 7  | Klijai    | 12 | Pjūklas              | 17 | Tinklas          |
+| 3 | Kaltas                                 | 8  | Kreida    | 13 | Plaktukas            | 18 | Vinys            |
+| 4 | Kaltropa (spąstai žirgams ar vežimams) | 9  | Laužtuvas | 14 | Riebalai             | 19 | Virimo puodai    |
+| 5 | Kastuvas                               | 10 | Meškerė   | 15 | Sandarinimo medžiaga | 20 | Žnyplės          |
 
-|      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
-| 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
-| 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
-| 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+#### Smulkmenos
 
-#### 																		Bonus Item (roll on table indicated)
+|   |              |    |                       |    |                      |    |                   |
+| - | ------------ | -- | --------------------- | -- | -------------------- | -- | ----------------- |
+| 1 | Butelis      | 6  | Metalinė Dildė        | 11 | Ragas                | 16 | Tinklas           |
+| 2 | Kastuvas     | 7  | Muzikinis intrumentas | 12 | Riebalai             | 17 | Veido dažai       |
+| 3 | Kortų kaladė | 8  | Netikri papuošalai    | 13 | Sandarinimo medžiaga | 18 | Vinys             |
+| 4 | Kvepalai     | 9  | Pjūklas               | 14 | Smėlio laikrodis     | 19 | Žaidimo kauliukai |
+| 5 | Linzė        | 10 | Plaktukas             | 15 | Stiklo rutuliukai    | 20 | Žnyplės           |
+
+#### 	Papildomi daiktai (ridenk atitinkamoje lentelėje)
 
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| Įrankis arba smulkmena | Papildomi reikmenys | Ginklas arba Šarvas | Burtų Knygą |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 	Burtų Knyga (d100)
 
-|||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+| 1  | Animuoti objektą      | 26 | Gravitacijos valdymas | 51 | Mirusiųjų Prikėlimas           | 76  | Statulos Iškvietimas   |
+| -- | --------------------- | -- | --------------------- | -- | ------------------------------ | --- | ---------------------- |
+| 2  | Antromorfizacija      | 27 | Greitumas             | 52 | Nakties Sfera                  | 77  | Stebuklinga Vila       |
+| 3  | Apkeitimas Vietomis   | 28 | Gyvūno forma          | 53 | Nematomas ryšis                | 78  | Sudaiktėjimas          |
+| 4  | Apkurtinimas          | 29 | Hipnozė               | 54 | Nesibiantys stiklo rutuliukais | 79  | Sugluminimas           |
+| 5  | Apsauga               | 30 | Ilgarankis            | 55 | Nuotolinis Stebėjimas          | 80  | Šuolis                 |
+| 6  | Apšvietimas           | 31 | Iliuzijų Spektaklis   | 56 | Nuraminimas                    | 81  | Supratimas             |
+| 7  | Apžavėjimas           | 32 | Įniršis               | 57 | Oro kontroliavimas             | 82  | Šviesulys              |
+| 8  | Arkaniška akis        | 33 | Įrenginys iš piešinio | 58 | Pamišimas                      | 83  | Taikinio Nukreipimas   |
+| 9  | Astralinis kalėjimas  | 34 | Jėgos siena           | 59 | Perkėlimas                     | 84  | Tarpdimensiniai vartai |
+| 10 | Atrakinimas           | 35 | Klastotė              | 60 | Portalas veidrodyje            | 85  | Telekinezė             |
+| 11 | Atspindėjimas         | 36 | Krūmas                | 61 | Praraja                        | 86  | Telepatija             |
+| 12 | Atstūmimas            | 37 | Kūno apkeitimas       | 62 | Prasiveržimas                  | 87  | Teleportavimas         |
+| 13 | Augalų kontroliavimas | 38 | Laiko Kontrolė        | 63 | Prikabinimas                   | 88  | Tikras Žvilgsnis       |
+| 14 | Burbėjimas            | 39 | Ledinis prisilietimas | 64 | Pritraukimas                   | 89  | Tinklas                |
+| 15 | Burtų Pjūklas         | 40 | Levitavimas           | 65 | Putų fontanas                  | 90  | Uoslė                  |
+| 16 | Burtų Ženklas         | 41 | Lipnumas              | 66 | Rekonstrukcija                 | 91  | Uždanga                |
+| 17 | Daugiarankis          | 42 | Magijos aptikimas     | 67 | Rentgeno Regėjimas             | 92  | Užgesinimas            |
+| 18 | Dūmų Forma            | 43 | Magijos slopiklis     | 68 | Rūkas                          | 93  | Užvaldymas             |
+| 19 | Dvasių Prikėlimas     | 44 | Magnetas              | 69 | Rūšiavimas                     | 94  | Vizijas                |
+| 20 | Elastiškumas          | 45 | Maskaradas            | 70 | Savininko atpažinimas          | 95  | Vizualinė Iluzija      |
+| 21 | Evoliucijos Šuolis    | 46 | Materijos Formavimas  | 71 | Skydas                         | 96  | Voro Kojos             |
+| 22 | Fobija                | 47 | Materijos Jautimas    | 72 | Skystas oras                   | 97  | Žaizdų gydymas         |
+| 23 | Garsinė iliuzija      | 48 | Miegas                | 73 | Slidumas                       | 98  | Želė Forma             |
+| 24 | Gera klausa           | 49 | Minčių Skaitymas      | 74 | Smirdanti gėlė                 | 99  | Žemės drebėjimas       |
+| 25 | Godumas               | 50 | Miniaturizavimas      | 75 | Spiečius                       | 100 | Žemės Kubas            |
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+## Daiktų Sąrašas (kaina auksu)
 
-#### Armor
+#### Šarvai
 
-||     |
-|--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|||
+| ------------------------------------ | -- |
+| Skydas (+1 šarvai)                   | 10 |
+| Šalmas (+1 šarvai)                   | 10 |
+| Gambesonas (+1 šarvai)               | 15 |
+| Briuginė (1 šarvai, sunkūs)          | 20 |
+| Grandininė Kelnės (2 šarvai, sunkūs) | 40 |
+| Plieniniai Šarvai (3 šarvai, sunkūs) | 60 |
 
-#### Weapons
+#### Ginklai
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
-|Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+| Durklas, kuoka, pjautuvas, lazdas ir kt. (d6 žala)               | 5  |
+| Ietis, kardas, kirvis ir kt. (d8 žala)                           | 10 |
+| Alebarda, karo plaktukas, ilgas kardas ir kt. (d10 žala, sunkus) | 20 |
+| Laidynė (d4 žala)                                                | 5  |
+| Lankas (d6 žala)                                                 | 20 |
+| Arbaletas (d8 žala, sunkus)                                      | 30 |
 
-#### Gear & Tools
+#### Įrankiai
 
 | |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+| Antrankiai                  | 10 | Miegmaišis                       | 50  |
+| Arklys (+4 vietos)          | 75 | Muilas                           | 1   |
+| Asilas (+6 vietos, lėtas)   | 30 | Odinis maišas                    | 5   |
+| Deglas                      | 1  | Oro pūslė                        | 5   |
+| Degutas                     | 10 | Palapinė (dviems žmonėms, sunki) | 20  |
+| Didelė Kempinė              | 5  | Pjūklas                          | 5   |
+| Dideli Spąstai              | 20 | Plaktukas                        | 5   |
+| Dumplės                     | 10 | Plunksna ir rašalas              | 10  |
+| Grandinė (3m)               | 10 | Ragas                            | 10  |
+| Gręžtuvas (rankinis)        | 10 | Skriemulys                       | 10  |
+| Kablys su virve             | 25 | Smaigalys                        | 5   |
+| Kaltas                      | 5  | Smailūs spąstai (caltrops)       | 10  |
+| Kastuvas                    | 5  | Smėlio laikrodis                 | 50  |
+| Kibiras                     | 10 | Smilkalai                        | 10  |
+| Kinkinys (4 vietos, sunkus) | 30 | Spygliuoti Batai                 | 5   |
+| Kirtiklis                   | 10 | Spynų kirtikliai                 | 25  |
+| Klijai                      | 5  | Stiklo Karoliukai                | 5   |
+| Knyga                       | 5  | Švęstas vanduo                   | 25  |
+| Kopėčios (sunkios, 3m)      | 10 | Taukai                           | 10  |
+| Kreida                      | 1  | Tinklas                          | 10  |
+| Laužtuvas                   | 10 | Ugnies Aliejus                   | 10  |
+| Lazda (3m)                  | 5  | Veido dažai                      | 10  |
+| Lęšis                       | 10 | Veidrodis                        | 5   |
+| Maišas                      | 5  | Vežimas (+8 vietos, lėtas)       | 200 |
+| Maisto racionas (3 dienoms) | 10 | Virimo puodai                    | 10  |
+| Mėlynoji kurpelė            | 10 | Virvė (10m)                      | 5   |
+| Meškerė                     | 10 | Žibintas ir alyva                | 10  |
+| Metalinė Dildė              | 5  | Žiūronas                         | 40  |
 
 <p></p>
 
-## Optional Gear Packages
+## Nuotykių Ieškotojų Arsenalas
 
-#### Cleric
+#### Dvasininkas
 
 |                                   |
 | --------------------------------- |
-| War Hammer (d10, bulky)           |
-| Chainmail (2 Armor, bulky)        |
-| Gauntlets (+1 Armor)              |
-| Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| Kovos kūjis (1d10 žalos, sunkus)   | Galingas ginklas artimai kovai                                                                      |
+| Grandiniai šarvai (2 šarvo, sunki) | Tvirti, sunkūs šarvai                                                                               |
+| Šarvinė pirštinė (2 šarvo, sunki)  | Papildoma rankų ir pirštų apsauga                                                                   |
+| Šventas peilis (1d6 žalos)         | Ceremoninis peilis ar ritualinis ginklas                                                            |
+| Šventas Simbolis                   | Objektas, simbolizuojantis žynio dievybę bei suteikiantis magišką apsaugą. Apsaugo kartą per dieną. |
+| Ordino apsiaustas                  | Išskirtinis simbolis, parodantis, kad žynys priklauso konkrečiai klerikų organizacijai              |
 
-#### Dowser
+#### Žiniuonis
 
 |                                           |
 |-------------------------------------------|
-|Sickle (d6)                                |
-|Patchwork Doublet (+1 Armor)               |
-|Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
-|Worn Map                                   |
-|Spyglass                                   |
+| Pjautuvas (1d6 žalos)             | Paprastas darbinis ginklas ir įrankis javams pjauti                                |
+| Lopais siūta striukė (+1 Šarvams) | Dėvėta, bet atspari striukė, suteikianti šiokią tokią apsaugą                      |
+| Švytuoklė                         | Padeda rasti vandens telkinius)                                                    |
+| Akies akmuo                       | Sustpirina visus jutimas, jei patalpintas į gėlą vandenį                           |
+| Pasidėvėjęs žemėlapis             | Padeda žiniuoniui geriau susigaudyti kelionėse                                     |
+| Žiūronai                          | Leidžia stebėti aplinką iš toli, ieškoti vandens šaltinių ar orientuotis kelionėse |
 
-#### Dwarf
-
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
+#### Nykštukas
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
+| Dygi Šaknis (1d6 žalos)      | Gali būti naudojama kaip paprastas ginklas arba kaip magiškas ingredientas |
+| Žvyniniai Šarvai (1 šarvams) | Lengvi, iš gamtinių medžiagų pagaminti šarvai                              |
+| Kastuvas                     | Universalus įrankis darbams žemėje                                         |
+| Miško skruzdėlių stiklainis  | Gali turėti įvairų panaudojimą - nuo atakos iki alchemijos                 |
+| Nuodingi grybai              | Panaudojamas priešams nunuodyti ar alcheminiuose procesuose                |
+| Rankinis grąžtas             | Įrankis uolienai gręžti, spąstams montuoti ar statybai                     |
 
-#### Fighter
+#### Elfas
+
+||
+|-----------------------------------------|
+| Elegantiškas kardas (d8 žalos)             | Lengvas ir tikslus ginklas artimoms kautynėms |
+| Išlenktas lankas (d8 žalos)                | Tradicinis elfų ginklas šaudymui iš toli      |
+| Paauksuota liemenė (1 šarvams)             | Lengvi ir puošnūs šarvai                      |
+| Burtų knyga (Kerai arba Magijos aptikimas) | Magijų rinkinys                               |
+| Auksinė fleita                             | Naudojama muzikavimui ar magiškiems ritualams |
+| Oro pūslė                                  | Pūsto arba siurbia orą                        |
+
+#### Karys
 
 ||
 |---------------------------------------|
-|Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+| Ietis (d10, gremėzdiška) | Ilgas ginklas, skirtas galingiems smūgiams iš toli      |
+| Lenktas kardas (d8)      | Lengvas ginklas greitam ir tiksliam fechtavimui         |
+| Trumpas kardas (d6)      | Lengvas ginklas artimoms kautynėms                      |
+| Trumpas kardas (d6)      | Atsarginis ginklas arba skirtas naudoti antroje rankoje |
+| Tabako dėklas ir pypkė   | Atgaiva ir poilsis tarp mūšių                           |
+| Kauliukų rinkinys        | Laisvalaikiui ir žaidimams                              |
 
-#### Friar
+#### Keliaujantis Vienuolis
 
 ||
 |-------------------------------|
-|Scepter (d6)                   |
-|Deceptive Robes (+1 Armor)     |
-|Censer & Holy Water            |
-|Jug of Honey Wine              |
-|Folk Songbook                  |
-|Cart (+4 slots, bulky)         |
+| Skeptras (d6)                     | Gali simbolizuoti valdžią, naudoti savigynai (galimai ceremoninis)            |
+| Klaidinanti mantija (+1 šarvams)  | Apsiaustas, užburtas taip, kad dėvėtoją būtų sunkiau pamatyti ar nusitaikyti. |
+| Smilkytuvas ir šventasis vanduo   | Gali būti panaudotas įvairioms dvasinėms ceremonijoms                         |
+| Ąsotis medaus vyno                | Atgaiva, taip pat tinka apeigoms ar dovanoms                                  |
+| Liaudies dainynas                 | Religinių himnų ar istorinių baladžių rinkinys                                |
+| Vežimas (+4 vietos, gremėzdiškas) | Didesnių daiktų transportavimui, kelionėms                                    |
 
-#### Knight
+#### Riteris
 
 |                            |
 | -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1 Armor)          |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+| Ilgasis kalavijas (d10, gremėzdiškas)       | Galingas ginklas, tačiau sunkus ir nepatogus.             |
+| Grandininis šarvas (2 šarvai, gremėzdiškas) | Suteikia gerą apsaugą, tačiau sunkus ir nelankstus.       |
+| Šalmas (+1 šarvas)                          | Apsaugo galvą nuo smūgių.                                 |
+| Heraldikos apsiaustas                       | Rodo riterio kilmę ir herbą.                              |
+| Antrankiai                                  | Naudojami suimtiems kaliniams surakinti.                  |
+| Tvirta virvė                                | Naudinga kopimui, daiktų tvirtinimui ir kitiems tikslams. |
 
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see **Relics**)              |
-
-#### Thief
+#### Magas
 
 ||
 |-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
+| Išblėsusi lazda (d8, gremėzdiška)    | Galbūt anksčiau turėjo galių, dabar tik didelis ginklas           |
+| Durklas (d6)                         | Paprastas, savigynai skirtas ginklas                              |
+| Burtų knyga (atsitiktinis burtas)    | Su viena užrašyta magija                                          |
+| Burtų knyga (atsitiktinis burtas)    | Su dar viena, nežinoma magija                                     |
+| Dėvėti drabužiai (paslėptos kišenės) | Patogūs ir netrukdantys, su vietomis ingredientams ar smulkmenoms |
+| Žemės kristalas (x2, žr. Relikvijos) |                                                                   |
 
-#### Ranger
+#### Vagis
+
+||
+|-----------------------------------------|
+| Du durklai (k6+k6)               | Puolant abiem iškart gali padaryti dvigubą žalą, metant po kauliuką d6 už kiekvieną durklą. |
+| Gobtuvuotas megztinis (1 Šarvai) | Lengvas šarvas, suteikiantis tam tikrą apsaugą nuo fizinės žalos.                           |
+| Atrakinimo įrankiai              | vairūs įrankiai, skirti atrakinti užraktus bei spynas.                                      |
+| Trikampiai dygliai               | Maži metaliniai dygliai, mėtomi ant žemės. Užlipus ant jų, auka sulėtinama ar sužeidžiama.  |
+| Kablio virvė                     | Virvė su specialiu kabliu gale, naudojama kopimui ar daiktų pritraukimui.                   |
+| Metalinė dildė                   | Įrankis, metalo apdirbimui. Galbūt naudojamas grandinėms perkąsti ar spynoms laužti.        |
+
+#### Miško Sargybinis
 
 ||
 |------------------------------------------|
-|Longbow (d8, bulky)                       |
-|Hatchet (d6)                              |
-|Padded Leathers (1 Armor)                 |
-|Large Trap                                |
-|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
-|Thundering Horn                           |
+| Ilgas lankas (d8, gremėzdiškas) | Galingas ginklas, skirtas šaudyti iš toli                |
+| Kirvis (d6)                     | Lengvas ginklas artimoms kautynėms                       |
+| Paminkštintas šarvas (1 Šarvai) | Lengva apsauga, leidžianti išlikti judriam                  |
+| Dideli spąstai                  |                                |
+| Kraujošunis                          | Šuo seklys, gebantis sekti pagal kvapą | 2 GT, 12 VIK, kanda (d6) |
+| Griausmingas ragas              | Naudojamas signalizuoti ar priešams gąsdinti             |
 
 [back to index](#index)
 <p></p>
