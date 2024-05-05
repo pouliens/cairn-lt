@@ -56,7 +56,7 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškinti j
 ### Bendri tikslai
 Žaidėjai pasitiki vienas kitu kurdami bendrą pasaulį. Jie dažniausiai turi bendrus tiklus ir kartu sprendžia įvairias uždutis kaip viena komanda. Žaidimo Vedlys nėra žaidėjų priešas, bet jis padeda sukurti kėblias situacijas ir konfliktus, kurie padeda benrai kuriamai istorijai nesustoti.
 
-[grįžti į turinį](#index)
+[Grįžti į turinį](#index)
 <p></p>
 
 ## Patarimai Žaidimo Meistrui
@@ -105,7 +105,7 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškinti j
 - Tokiais atvejairs ridenk 1d6. 4 ir daugiau dažniausiai reiškia palankų rezultatą žaidėjų atžvilgiu.
 - 3 ir mažiau dažniausiai reiškia blogą sėkmę žaidimo personažams ir jų bendrininkams.
 
-[grįžti į turinį](#index)
+[Grįžti į turinį](#index)
 <p></p>
 
 ## Patarimai Žaidėjui
@@ -148,7 +148,7 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškinti j
 - Nesitikėk nieko gauti už dyką. Užsitarnauk savo reputaciją.
 - Stenkis visad judėti į priekį ir palaikyti žaidimo tempą.
 
-[grįžti į turinį](#index)
+[Grįžti į turinį](#index)
 <p></p>
 
 ## Personažo Kūrimas
@@ -615,7 +615,7 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | Kraujošunis                          | Šuo seklys, gebantis sekti pagal kvapą - 2 GT, 12 VIK, kanda (d6) |
 | Griausmingas ragas              | Naudojamas signalizuoti ar priešams gąsdinti             |
 
-[grįžti į turinį](#index)
+[Grįžti į turinį](#index)
 <p></p>
 
 ## Taisyklės
@@ -763,13 +763,12 @@ Jei personažo gyvybės taškai nukrenta lygiai iki 0, jie įgija **Randą**, ku
 
 |      |                                                              |
 |------ |---|
-| 1 | **Ilgalaikis randas:** Ridenk 1d6 | 1: Kaklas, 2: Plaštakos, 3: Akis, 4: Krūtinė, 5: Kojos, 6: Ausis. Jei rezultatas yra didesnis nei tavo maksimalūs GT (gynybos taškai  - HP), šis skaičius bus tavo naujas GT. |
+| 1 | **Ilgalaikis randas:** Ridenk 1d6; 1: Kaklas, 2: Plaštakos, 3: Akis, 4: Krūtinė, 5: Kojos, 6: Ausis. Jei rezultatas yra didesnis nei tavo maksimalūs GT (gynybos taškai  - HP), šis skaičius bus tavo naujas GT. |
 | 2 | **Sukrečiantis smūgis:** Tu esi pasimetęs ir sutrikęs. Apibūdink, kaip tu atgauni koncentraciją. Ridenk 1d6. Jei rezultatas yra didesnis nei tavo maksimalūs GT (gynybos taškai  - HP), šis skaičius bus tavo naujas GT. |
 | 3 | **Sutrenkimas:** Smūgis tave nubloškia kelis metrus atgal ir tu nusileidu veidu ant žemės, pritrenktas. Tu būsi išsekęs kol keletą valandų negalėsi pailsėti. Tada ridenk 1d6. Pridėk šį rezultatą prie savo maksimalių GT (Gynybos taškų - HP). |
-| 4 | **Sulaužyta galūnė:** Mesk 1k6 | 1-2: Koja, 3-4: Ranka, 
-5: Šonkaulis, 6: Kaukolė. Lūžiui sugijus, mesk 2k6. Jei rezultatas yra didesnis už tavo maksimalius GT (gyvybės taškai - HP), šis skaičius bus tavo naujas GT. |
+| 4 | **Sulaužyta galūnė:** Mesk 1k6; 1-2: Koja, 3-4: Ranka, 5: Šonkaulis, 6: Kaukolė. Lūžiui sugijus, mesk 2k6. Jei rezultatas yra didesnis už tavo maksimalius GT (gyvybės taškai - HP), šis skaičius bus tavo naujas GT. |
 | 5 | **Susirgimas:** Tave vargina šlykšti, nemaloni infekcija. Kai pasveiksi, mesk 2k6. Jeigu bendra suma yra didesnė, negu tavo maksimalūs gyvybės taškai (HP), šis skaičius bus tavo naujas GT. |
-| 6 | **Smegenų sumušimas:** Ridenk 1k6 | 1-2: JĖG, 3-4: VIK 5-6: VAL. Ridenk 3k6. Jeigu bendra suma yra didesnė nei esama savybės reikšmė, šis skaičius bus tavo nauja savybė. |
+| 6 | **Smegenų sumušimas:** Ridenk 1k6; 1-2: JĖG, 3-4: VIK 5-6: VAL. Ridenk 3k6. Jeigu bendra suma yra didesnė nei esama savybės reikšmė, šis skaičius bus tavo nauja savybė. |
 | 7 | **Trūkęs raištis:** Kol negausi rimtos pagalbos, tau bus labai sunku judėti. Po pasveikimo ridenk 3k6. Jei bendra suma yra didesnė nei tavi maksimalus Vikrumas (VIK), šis skaičius bus tavo naujas VIK. |
 | 8 | **Apkurtintas:** Tu nieko negirdi, kol negausi pagalbos. Nepaisant to, atlik Valios (VAL) išbandymą. Jei šį išbandymą išlaikysi, padidink savo maksimalią VAL reiškmę 1k4. |
 | 9 | **Gilus smegenų sutrenkimas:** Smūgis buvo toks stiprus - atrodo, kad dalis tavo sąmonės atitrūko nuo tavo smegenų. Ridenk 3k6. Jei bendra suma yra didesnė neghu tavo maksimali Valia (VAL), šis skaičius bus tavo nauja Valia. |
@@ -790,7 +789,7 @@ Didelės grupės panašių kovotojų, besikaunančių kartu, yra laikomos vienu 
 Pasprukimas iš pavojingos situacijos visada reikalauja sėkmingo Vikrumo (VIK) išbandymo, taip pat saugios vietos, kur būtų galima atsitraukti.
 
 
-[grįžti į turinį](#index)
+[Grįžti į turinį](#index)
 <p></p>
 
 ## Priešų sąrašas
@@ -862,7 +861,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 - Vikrus? Suteik jiems aukštą VIK atributą.
 - Charizmatiškas? Suteik jiems aukštą VAL reikšmę.
 
-[grįžti į turinį](#index)
+[Grįžti į turinį](#index)
 <p></p>
 
 ## 100 Burtų
@@ -970,7 +969,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 | 99 | Žvėries Pavidalas | Tu ir tavo daiktai pavirsta paprastu gyvūnu. |
 | 100 | Žybtelėjimas | Ryškus energijos kamuolys iššauna šviesos ruožą į dangų, kuris atskleidžia tavo būvimo vietą tiek draugams tiek priešams. |         | 
 
-[grįžti į turinį](#index)
+[Grįžti į turinį](#index)
 <p></p>
 
 # Taisyklių Santrauka
