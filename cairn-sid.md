@@ -1019,9 +1019,6 @@ Niekas negali turėti daugiau nei 3 Šarvus.
 Jei yra koks nors **trukdis** atakai, žalos kauliukas yra sumažinimas iki 1k4, neatsižvelgiant į ginklą. Jei ataka yra sustiprinta, puolėjas ridena 1k12. Atakos su **sprogimo efektu** veikia visus taikinius paveikiamoje zonoje, o žala metama atskirai kiekvienam taikiniui.
 
 **ŽALA**  
-Jei ataka sumažina žaidėjo veikėja Gynybos Taškus (GT) iki 0, jis gauna randą.
-
-
 Jei ataka sumažina žaidėjo veikėja Gynybos Taškus (GT) iki 0, tada jis gauna [randą](#randai).
 
 Žala, sumažinanti taikinio Gynybos Taškus (GT) **žemiau** 0, tuo pačiu sumažina taikinio JĖG (Jėgą) likusia suma. Po to jis turi atlikti JĖG išbandymą su likusia Jėga, kad išvengtų **kritinės žalos**. Nesėkmės atveju žaidėjas personažas yra pašalinamas iš kovos; jei jis negauna pagalbos greitu metu, jis miršta.
