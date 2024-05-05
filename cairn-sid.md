@@ -612,403 +612,419 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | Kirvis (d6)                     | Lengvas ginklas artimoms kautynėms                       |
 | Paminkštintas šarvas (1 Šarvai) | Lengva apsauga, leidžianti išlikti judriam                  |
 | Dideli spąstai                  |                                |
-| Kraujošunis                          | Šuo seklys, gebantis sekti pagal kvapą | 2 GT, 12 VIK, kanda (d6) |
+| Kraujošunis                          | Šuo seklys, gebantis sekti pagal kvapą - 2 GT, 12 VIK, kanda (d6) |
 | Griausmingas ragas              | Naudojamas signalizuoti ar priešams gąsdinti             |
 
-[back to index](#index)
+[grįžti į turinį](#index)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+## Taisyklės
+### Gebėjimai
+Kiekvienas iš trijų pagrindinių **gebėjimų** naudojamas skirtingais atvejais (žr. **išbandymus**, apačioje).
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Jėga** (JĖG): Naudojama išbandymams, reikalaujantiems fizinės jėgos, tokiems kaip vartų pakėlimas, strypų sulenkimas, atsparumas nuodams ir t.t.
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Vikrumas** (VIK): Naudojamas išbandymams, reikalaujantiems greičio ir refleksų, tokiems kaip išsisukimas, laipiojimas, sėlinimas, balansavimas ir t.t.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Valia** (VAL): Naudojama išbandymams, skirtiems įtikinėti, apgauti, tardyti, bauginti, žavėti, provokuoti, manipuliuoti burtais ir t.t.
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+### Išbandymai
+Išbandymai yra kauliukų metimai mėginant išvvengti blogų pasėkmių, su kuriomis galima susidurti dėl rizikingų pasirinkimų ar aplinkybių. Žaidėjo veikėjas (angl. player character, PC) meta d20 atinkamai savybei. Jeigu jie išridena skaičių, lygų arba mažesnį nei jų tikrinimas gebėjimas, jie išlaiko šį išbandymą sėkmingai. Priešingu atveju, jie neišlaiko šio išbandymo. Išridentas 1 visada reiškia sėkmę, o 20 - nesėkmę.
 
 <details markdown="block">
   <summary>
-Expand For Example
+    Pavyzdys
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+    Bėja susiduria su grupe ginkluotų goblinų, kurie saugo tunelio įėjimą. Jos personažas apsvarsto savo pasirinkimus ir nusprendžia, kad geriausia būtų prasliūkinti pro šiuos sargybinius pasinaudojant savo 13 VIK. Ji atlieka Vikrumo išbandymą ridendama d20 ir išridena 10. Tai reiškia sėkmę - ji sėkmingai prasliūkina pro sargybinius.
 </details>
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+### Gydymas
+Trumpas poilsis ir gurkšnis vandens atstato praprastus Gyvybės Taškus (angl. Hit Protection, HP), tačiau palieka personažus neapsaugotus. Savybių praradimą paprastai galima atstatyti po savaitės poilsio, padedant gydytojui arba aplankant atitinkamas vietas. Kai kurios iš šių paslaugų yra nemokamos, o magiškos ar greitesnės gydytmo priemonės gali kainuoti.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### Išsekimas ir nuovargis
+Žaidėjo veikėjas negalintis patenkinti savo svarbiausių poreikių (tokių kaip alkis ir poilsis) negali atgauti Gynybos Taškų (GT) ir Gebėjimų Taškų. Jei personažas yra išsekęs ilgiau nei vieną dieną, jis prideda Nuovargį į savo inventorių už kiekvieną tokią dieną. Kiekvienas nuovargis užima vieną vietą inventoriuje ir juo negalima atsikratyti, kol veikėjas neras progas pailsėti ir sustiprėti (pavyzdžiui pamiegoti saugioje vietoje). Veikėjas taip pat patiria/gauna nuovargį leisdamas kerus arba dėl kitokių žaidimo pasaulyje vykstančių įvykių.
 
-### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+### Šarvai
+- Prieš apskaičiuodamas žalą padarytą Gynybos Taškams(GT), atimk **Šarvų** reikšmę iš žalos metimo rezultato. Skydai ir kiti šarvai suteikia papildomą apsaugą (pavyzdžiui +1 Šarvams), bet tik jeigu jie yra laikomi ar dėvimi.
+- Niekas negali turėti daugiau nei 3 Šarvų.
+- Skydai, pirštines ir šalmai gali suteikti ir kitokios naudos, o ne vien tik apsaugą nuo žalos.
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Reakcijos
+Žaidėjo veikėjui susidūrus su žaidimo personažais, kurių reakcija į žaidėją nėra akivaizdi, žaidimo meistras gali remtis žemiau esančia lentele (2d6), kad nustatytų šių personažų reakciją:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Priešiškas | Atsargus | Smalsus | Malonus | Paslaugus |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### Moralė
+Priešai netekę savo pirmo bendro ir netekę pusės savo grupės narių, turi išlaikyti VALIOS išbandymą, kad neišsibėgiotų. Kai kurios priešų grupės gali naudoti jų grupės vado VALIĄ šiems išbandymams. Atskiri priešai atlieka VALIOS išbandymą, kai jų gynybos taškai nukrenta iki 0. Moralė nedaro įtakos žaidėjų veikėjams.
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### Samdiniai
+Žaidėjų veikėjai gali pasisamdyti samdinius, kurie gali jiems padėti ekspedicijų metu. Norėdamas sukurti samdinį, mesk 3d6 kiekvienam savybės balui, duok jiems 1d6 gynybos taškų ir paprastą ginkl (d6). Tuomet ridnk personažo kūrimo lentelėse, kad suteiktum jiems daugiau detalių. Samdiniai kainuoja 1-3 aukso per dieną, arbą dalį bet kokio lobio, kurį suranda grupė.
 
 ### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+Dažniausia naudojama moneta yra auksinė (au), kuri yra lygi 10 sidabrinių monetų (si) ir 100 varinių monetų (va).
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Lobiai Kerne yra labai vertingi, dažniausiai didelių gabaritų ir retai kada naudingi kkiu kitu būdų, išskyrus savo turtinę vertę. Lobiai turėtų paskatinti žaidėjų personažus patraukti į pavojingas ir egzotiškas vietas. Dažnai jie yra saugomi bauginančių priešų.
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Kaimai, tvirtovės ir uostai prekiauja, remdamiesi vietiniu daikto ar prekės retumu ir verte.
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Magija
+**Burtų knygos** talpina vieną burtą ir užima vieną inventoriaus vietą. Jos negali būti perrašytos arba sukurtos; jos yra aptinkamos tokiose vietose kaip kapai, požemiai ir dvarai.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+Burtų knygos kartais pasižymi neįprastomis savybėmis ar apribojimais, pavyzdžiui, skleidžia nemalonų ar nežemišką kvapą atverstos, turi savitą intelektą, arba gali būti perskaitytos tik laikomos mėnesienoje.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Burtų knygos pritraukia tuos, kurie ieško jose slypinčios paslaptingos galios, todėl laikoma pavojinga jas atvirai demonstruoti.
 
-**Scrolls** are similar to Spellbooks, however:
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+**Burtų Raštai** yra panašūs į Burtų Knygas, tačiau jie:
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+- Neužima vietos inventoriuje
+- Nesukelia nuovargio
+- Dingsta po vienkartinio panaudojimo
 
-### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### Burtų Naudojimas
+Žaidėjų veikėjai norėdami naudoti burtus, turi laikyti burtų knygą abiejose rankose ir garsiai ją skaityti. Panaudojus burtus, jie turi pridėti Nuovargį į savo inventorių. Turėdami laiko ir būdami saugioje vietoje, žaidėjų personažai gali sustiprinti burto poveikį (pvz., paveikti kelis taikinius, padidinti jo galią ir pan.) be jokių papildomų reikalavimų. Jei žaidėjas yra pavargęs arba pavojuje, žaidimo meistras gali paprašyti žaidėjo atlikti Valios (VAL) išbandymą, kad išvengtų neigiamų burto naudojimo pasėkmių. Neišlaikius išbandymo, pasėkmės turėtų būti lygiavertės numatytam burto efektui. Jei burto efektas nebuvo itin galingas - žaidėjas nesėkmės atveju gali gauti tiesiog daugiau Nuovargio. Tačiau jei burtas buvo labai galingas ir žaidėjas neišlaikė VAL išbandymo, pasėkmės gali būti blogesnės - sunaikinta burtų knygą, sužeistas žaidėjas ar jo bendražygiai, o kai kurias atvejais galbūt net mirtis. 
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+### Relikvijos
+**Relikvijos** yra daiktai, persmelkti magiškų burtų ar mistinių galių. Jos nesukelia nuovargio. Relikvijos paprastai turi ribotą panaudojimo skaičių ir specifines "atsinaujinimo" sąlygas. Keletas pavyzdžių:
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**Medaus Sagtis**, 3 panaudojimai. Surūdijęs žiedas, sumažinantis jį nešiojantį asmenį iki 20 cm dydžio. Atsinaujinimas: įdėti į bičių pienelio puodelį.
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Sakalininko Draugas**, 1 panaudojimas. Varžto formos magiška lazdelė, talpinanti Skubos (Haste) burtą. Atsinaujinimas: iššauti iš arbaleto ir surasti.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Tylos Lazda**, 1 panaudojimas. Šis pajuodęs strypas laikinai panaikina visą magiją 15m spinduliu. Atsinaujinimas: panardinti į vandenį pilnaties šviesoje.
 
-## Combat
+**Energetinis Grybas**, 1 panaudojimas. Bet kas, suvalgęs šį žalsvai dėmėtą grybą, praranda vieną Nuovargį, tačiau turi atlikti Valios (VAL) išbandymą, kad išvengtų jo priklausomybę sukeliančių savybių. Nepasisekus, žaidėjo veikėjas **Išsekęs** ir nesugebantis susikaupti, kol nesuvalgys kito Energetinio Grybo, suteiksiančio tik trumpą atokvėpį nuo priklausomybės.
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+## Kova
 
-### Actions
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+### Raundai
+Žaidimas dažniausiai nereikalauja labai tikslaus laiko skaičiavimo. Kovos metu ar kitomis aplinkybėmis, kur laikas gali būti svarbus, remkitės raundais, kad išlaikytumėte įvykių seką. Vienas raundas atitinka maždaug dešimt žaidimo sekundžių ir yra sudarytas iš **Ėjimų**.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+### Veiksmai
+Savo ėjimo metu veikėjas gali nueiti iki 10 metrų ir atlikti vieną veiksmą. Tai gali būti burtažodžio skaitymas, puolimas, antras ėjimas ar kitas logiškas veiksmas.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+Kiekvieną raundą, veikėjai paskelbia, ką darys, prieš metant kauliukus. Jei žaidėjo veikėjas bando kažką rizikingo, žaidimo meistras paprašo atlikti atitinkamos savybės išbandymą savo personažui arba kuriam nors žaidimo personažui (NPC).
 
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-</details>
-
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+### Ėjimai
+Žaidimo meistras turėtų pranešti apie labiausiai tikėtinus veiksmus, kuriuos gali atlikti nežeidėjų personažai arba pabaisos. Kovos pradžioje kiekvienas žaidėjo personažas turi atlikti Vikrumo (VIK) išbandymą. Išlaikius šį išbandymą, žaidėjas galės atlikti savo veiksmus prieš oponentus. Neišlaikius - oponentas eis pirmas.
 
 <details markdown="block">
   <summary>
-Expand For Example
+    Pavyzdys
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
+    _Miško Trolis užsimoja savo kuoka ir trenkia ja į Bea, kuri turi 5 gynybos taškus (HP). Kuoka daro 1d10 žalos ir žaidimimo meistras išridena 4. Nuo šio skaičiaus jie atima 1, nes Bea vilki odinius šarvus, kurie jai suteikia šia apsaugą. Miško Trolis tada padaro Bėjai 3 žalos ir jai lieka 2 Gynybos Taškai (HP)._
 </details>
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+### Puolimas ir Žala
+Puolantis žaidėjas ridena savo giklo kauliuką ir atima priešo šarvų reikšmę - likęs skaičius bus žala padaryta priešo ginybos taškams (GT). Ataka be ginklo (kumščiais) visada daro 1k4 žalos.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+<details markdown="block">
+  <summary>
+    Pavyzdys
+ </summary>
+    *Miško Trolis užsimoja savo kuoka ir trenkia ja į Bėja, kuri turi 5 gynybos taškus (HP). Kuoka daro 1d10 žalos ir žaidimimo meistras išridena 4. Nuo šio skaičiaus jie atima 1, nes Bėja vilki odinius šarvus, kurie jai suteikia apsaugos. Miško Trolis tada padaro Bėjai 3 žalos ir jai lieka 2 Gynybos Taškai (GT).*
+</details>
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+### Keli Puolėjai
+Jei keli puolėjai atakuoja tą patį priešą, meskite visus žalos kauliukus ir pasilikit tik didžiausią rezultatą.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Atakos Modifikatoriai
+*** Atakavimas iš silpnos pozicijos (pavyzdžiui, iš už uždangos ar surištomis rankomis)**: 
+Tokia ataka yra silpnesnė ir puolėjas turi mesti tik 1d4, nepaisant įprasto ginklo žalos kauliuko.
 
-### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+*** Atakavimas iš silpnos pozicijos (pavyzdžiui, iš už uždangos ar surištomis rankomis): **
+Tokia ataka yra silpnesnė ir puolėjas turi mesti tik 1d4, nepaisant įprasto ginklo žalos kauliuko.
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+### Dviejų Ginklų Naudojimas
+Jei žaidėjo veikėjas puola dviem ginklais, mesk abu žalos kauliukus ir pasilik tik didžiausią rezultatą.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+### Sprogimo Efektas
+Atakos turinčio **Sprogimo** efektą paveikia visus taikinius nurodytam plote. Žala kiekvienam paveiktam taikiniui metama atskirai. Sprogimu yra laikomos įvairios atakos - nuo įprastų sprogimų, iki kardų kurių didžiulis užmojis gali pasiekti keletą priešų, ar meteorito sprogimas paveikiantis keletą priešų. Jei nesi tikras, kiek taikinių bus paveikta sprogimo efekto, mesk ginklo ar burto žalos kauliuką - jo rezultatas bus paveiktų priešų skaičius.
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### Kritinė Žala
+Jei žaidėjo veikėjo ar priešo Gynybos Taškai (GT) nukrenta iki nulio - likutis yra atimimamas iš Jėgos (JĖG). Tada jie turi atlikti Jėgos išbandymą, kad išvengtų kritinės žalos. Be to, kai kurie priešai turės specialių sugebėjimų ar efektų, kurie suveiks, kai jų taikinys neišlaikys kritinės žalos išbandymo.
 
-### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+Žaidėjo veikėjas patyręs kritinę žalą, negali nieko daryti tik bejėgiškai ropoti, kabindamasis į gyvenimą. Jei jiems bus suteikta pagalba ir poilsis, jie stabilizuosis. Jei jie tos pagalbos negaus - mirs per valandą.
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+### Gebėjimų Taškų Praradimas
+Jei žaidėjo Jėga (JĖG) nukrenta iki 0 - jie miršta. Jei jų Vikrumas (VIK) nukrenta iki 0 - jie yra paraližuojami. Jei jų Valia (VAL) nukrenta iki nulio - jie išprotėja. Visiškas Vikrumo ir Valios praradimas padaro veikėją visiškai neveikliu, kol šie taškai nebus atstatyti ilgu poilsiu arba magija ar kitokiais ypatingais gebėjimais.
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### Randai
+Jei personažo gyvybės taškai nukrenta lygiai iki 0, jie įgija **Randą**, kuris juos negrįžtamai pakeičia. Įmanomi pokyčiai yra aprašyti [Randų lentelėje](#). Randas priklauso nuo personažui padarytos žalos, kuri prilygino ją nuliui. Randai turi tikimybę padaryti tavo personažą stipresniu.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
-
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
-
-### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
+<details markdown="block">
+  <summary>
+    Pavyzdys
+ </summary>
+    *Beata bandydama nukenksminti didžiulius spąstus skirtus meškoms, neišlaiko VIK išbandymo ir patira 4 žalos, kurie prilygina jos gynybos taškui iki lygiai 0. Dėl to ji gauna 4-ą randą iš randų lentelės.*
+</details>
 
 |      |                                                              |
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| 1 | **Ilgalaikis randas:** Ridenk 1d6 | 1: Kaklas, 2: Plaštakos, 3: Akis, 4: Krūtinė, 5: Kojos, 6: Ausis. Jei rezultatas yra didesnis nei tavo maksimalūs GT (gynybos taškai  - HP), šis skaičius bus tavo naujas GT. |
+| 2 | **Sukrečiantis smūgis:** Tu esi pasimetęs ir sutrikęs. Apibūdink, kaip tu atgauni koncentraciją. Ridenk 1d6. Jei rezultatas yra didesnis nei tavo maksimalūs GT (gynybos taškai  - HP), šis skaičius bus tavo naujas GT. |
+| 3 | **Sutrenkimas:** Smūgis tave nubloškia kelis metrus atgal ir tu nusileidu veidu ant žemės, pritrenktas. Tu būsi išsekęs kol keletą valandų negalėsi pailsėti. Tada ridenk 1d6. Pridėk šį rezultatą prie savo maksimalių GT (Gynybos taškų - HP). |
+| 4 | **Sulaužyta galūnė:** Mesk 1k6 | 1-2: Koja, 3-4: Ranka, 
+5: Šonkaulis, 6: Kaukolė. Lūžiui sugijus, mesk 2k6. Jei rezultatas yra didesnis už tavo maksimalius GT (gyvybės taškai - HP), šis skaičius bus tavo naujas GT. |
+| 5 | **Susirgimas:** Tave vargina šlykšti, nemaloni infekcija. Kai pasveiksi, mesk 2k6. Jeigu bendra suma yra didesnė, negu tavo maksimalūs gyvybės taškai (HP), šis skaičius bus tavo naujas GT. |
+| 6 | **Smegenų sumušimas:** Ridenk 1k6 | 1-2: JĖG, 3-4: VIK 5-6: VAL. Ridenk 3k6. Jeigu bendra suma yra didesnė nei esama savybės reikšmė, šis skaičius bus tavo nauja savybė. |
+| 7 | **Trūkęs raištis:** Kol negausi rimtos pagalbos, tau bus labai sunku judėti. Po pasveikimo ridenk 3k6. Jei bendra suma yra didesnė nei tavi maksimalus Vikrumas (VIK), šis skaičius bus tavo naujas VIK. |
+| 8 | **Apkurtintas:** Tu nieko negirdi, kol negausi pagalbos. Nepaisant to, atlik Valios (VAL) išbandymą. Jei šį išbandymą išlaikysi, padidink savo maksimalią VAL reiškmę 1k4. |
+| 9 | **Gilus smegenų sutrenkimas:** Smūgis buvo toks stiprus - atrodo, kad dalis tavo sąmonės atitrūko nuo tavo smegenų. Ridenk 3k6. Jei bendra suma yra didesnė neghu tavo maksimali Valia (VAL), šis skaičius bus tavo nauja Valia. |
+| 10 | **Nuplėšta galūnė:** Viena iš tavo galūnių buvo nuplėštą, suluošinta arba tapo visai nenaudinga. Žaidimo meistras nuspręs, kas jai nutiko. Tada atlik Valios (VAL) išbandymą. Išlaikius šį išbandymą, padidink savo maksimalią Valią 1d6. |
+| 11 | **Mirtina žaizda:** Tu esi išsekęs ir nebegali kovoti - mirsi per valandą, jei nebūsi išgydytas. Pasveikęs, ridenk 2k6. Šis rezultatas bus tavo nauja Gynybos Taškų (GT) reikšmė. |
+| 12 | **Pasmerkimas:** Mirtis buvo nepaprastai arti, tačiau kažkaip išgyvenai. Jei neišlaikysi sekančio išbandymo prieš kritinę žalą, mirsi siaubinga mirtimi. Jei išlaikysi šį išbandymą, ridenk 3k6. Jei bendra suma yra didesnė už tavo maksimalią Gynybos Taškų (GT) reikšmę, šis skaičius bus tavo naujas GT. |
 
-[back to index](#index)
+### Sąmonės Praradimas ir Mirtis
+Kai veikėjas miršta, žaidėjas gali laisvai sukurti naują veikėją arba perimti samdinio kontrolę. Naujas veikėjas ar samdinys nedelsiant prisijungia prie grupės, kad žaidėjui nereiktų laukti nieko neveikiant. Šis naujo veikėjo atsiradimas gali būti kaip nors įpintas į bendrai kuriamą istoriją. Galbūt kiti žaidėjai sutinka pasiklydusį karį, klajojantį šventiką ar išlaisvina plešikų pagrobtus įkaitus.
+
+### Būriai
+Didelės grupės panašių kovotojų, besikaunančių kartu, yra laikomos vienu būriu. Kai būrys patiria kritinę žalą, jis išsisklaido arba yra smarkiai susilpninamas. Kuomet būrio Jėga (JĖG) pasiekia 0, jis syra sunaikinamas.
+
+* Pavienių kovotojų atakos prieš būrius yra **susilpnintos** (išskyrus sprogmenų žalą).
+* Būrių atakos prieš pavienius kovotojus yra **sustiprintos** ir daro sprogimo žalą.
+
+### Atsitraukimas
+Pasprukimas iš pavojingos situacijos visada reikalauja sėkmingo Vikrumo (VIK) išbandymo, taip pat saugios vietos, kur būtų galima atsitraukti.
+
+
+[grįžti į turinį](#index)
 <p></p>
 
-## Bestiary
+## Priešų sąrašas
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+**Šakniastiebis Goblinas**
+4 GT, 8 JĖG, 14 VIK, 8 VAL, ietis (k6)
+- Vengia kovos, nebent turi pranašumą (pavyzdžiui, gausesnes pajėgas).
+- Saugo savo pavogtus daiktus iki mirties.
+- Vertina Užkeikimų Knygas; noriai jas išmainys.
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+**Raganiai su Gobtuvais**
+12 GT, 9 JĖG, 12 VIK, 14 VAL, burtų lazda (k8), Užkeikimų Knyga su vienu iš burtų (Ridenk 1d4: 1 - *Žavesys, 2 - Hipnozė, 3 - Pastūmimas/Patraukimas, 4 - Skydas*)
+- Miško Stebėtojai; kultas, kuris savo galią semią iš požėmių, runų ir kitų nešventų vietų ir daiktų.
+- Kritinė žala: išsiurbia dalį aukos sielos (1k4 VAL žalos).
 
-**Cobblehounds**  
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+**Akmeniniai Skalikai**
+12 GT, 2 Šarvai, 14 JĖG, 1 VIK, 8 VAL, įkandimas (k10)
+- Panašūs į nejudančias statulas, naudojamas didžių kapų ir šventovių suagojimui.
+- Atsparūs įprastiems įtikinėjimo metodamas - tačiau dievine gerą kaulą.
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+**Miško Trolis**
+12 GT, 15 JĖG, 12 VIK, 7 VAL, nagai ir dantys (k8+k8 sprogstanti žala)
+- Savo ėjimo metu gali atgauti prarastu Gynybos Taškus (GT), išnaudodamas savo veiksmą
+- Kritinė žala: samanos ir šakos pradeda augti iš aukos žaizdų.
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+**Šaltakraujis Elfas**
+14 GT, 1 Šarvai, 8 JĖG, 13 VIK, 14 VAL, ledo varveklio durklas (k6), Užkeikimų Knyga su vienu iš burtų (Ridenk 1d3: Miegas, Teleportacija, Magijos aptikimas)
+- Gražūs, amoralūs, ilgaamžiai.
+- Atsparūs daugumai magijos formų.
 
-**Boggart**  
-3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+**Pelkių Kaukas**
+3 GT, 4 JĖG, 17 VIK, 13 VAL, purvas (k4)
+- Laukinis, plaukuotas apgavikas, mėgstantis erzinti ir kelti sumaištį
+- Labiausiai vertina relikvijas ir blizgius niekučius, tačiau nenori jų mainyti į monetas.
+- Pelkių kaukai turi vardus, kurie apibūdina jų tikrąją prigimtį. Žinant tikrąjį kauko vardą, jį galima valdyti.
+- **Magija:** Pelkių Kaukas gali prikelti negyvus daiktusdaiktus, sėti sumaištį, kurti magiškas iliuzijas, naudoti telekinezę ir teleportaciją.
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+### Monstrų Kūrimas
+Kurdamas žaidimo priešus ar personažus gali naudoti šį šabloną:
 
-**Name**  
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+**Vardas**
+X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės)
+- Išvaizdos ir elgesio apibūdinimas
+- Keistenybė, taktika, ar ypatinga savybė, išskirianti šį priešą ar personažą
+- Specialus efektas arba kritinės žalos pasekmė
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+**Bendri Principai**
+**Savybės**: 3 yra nevisavertis, 6 yra silpnas, 10 yra vidutiniškas, 14 yra išskirtinis gerai, 18 yra legendinis lygis. Pritaikyk šiuos skaičius pagal savo žaidimo poreikį.
+- Vidutinėms būtybėms suteikite 3 GT, atsparesnėms - 6 GT, o rimtai pavojingoms - 10 ar daugiau GT.
+- Suteik personažam unikalių savybių, kad jie būtų įsimintesni. Žaidėjai lengviau įsimins kiaulės veido humanoidą, ieškantį savo dingusios avies, nei įprastą goblinų lankininką.
+- Kritinė žala turėtų atspindėti priešų agresyvių priešų grėsmę ir keistumą.
+- Atmink, kad GT yra apsauga nuo smūgių (**Gynybos Taškai**), o ne Gyvybės Taškai (Hit Points)**.** Tai atsparumo, sėkmės ir atkaklumo – ne sveikatos – matas.
 
-**Converting from OSR Games**
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+<details markdown="block">
+  <summary>
+    Konvertavimas iš OSR (Old School Revival) Žaidimų
+ </summary>
+    - 1 HP už kiekvieną 1 HD daugumai monstrų
+    *(HP: Gynybos Taškas - GT) (HT: Hit Dice - Gyvybės Kauliukai)*
+    - Dauguma žmogiškų padarų turi bent 4 GT
+    - Moralė taip pat gali būti naudojama kaip bazinis GT (Gynybos Taškai)
+    - Žalos kauliukai dažniausiai yra panašūs tarp Cairn ir OSR ir nereikalauja vertimo. Tačiau atakos ginklu dažniausiai daro bent 1d6 žalos.
+</details>
 
-Some pointers:
-- Is it good at avoiding a hit? Give it HP.
-- Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+**Keletas patarimų priešų kūrimui:**
+- Priešas puikiai išvengia tavo smūgių? Suteik jam daugiau GT (Gynybos Taškų).
+- Labai atsparus įvairiai žalai? Suteik didelę Šarvų reikmę.
+- Stiprus? Suteik jiems aukštą JĖG atributą.
+- Vikrus? Suteik jiems aukštą VIK atributą.
+- Charizmatiškas? Suteik jiems aukštą VAL reikšmę.
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
-
-[back to index](#index)
+[grįžti į turinį](#index)
 <p></p>
 
-## 100 Spells
+## 100 Burtų
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 1 | [Animuoti Objektą](#animuoti-objektą) | Objektas geriausiai kaip įmanydamas paklūsta tavo komandoms. |
+| 2 | Antropomorfizuoti | Gyvūnas vienai dienai įgauna arba žmogaus intelektą, arba žmogaus išvaizdą. |
+| 3 | Apkurtimas | Visi aplinkiniai padarai apkursta. |
+| 4 | Apkvailinimas | Pasirinktas padaras kurį laiką negali formuoti naujų trumpalaikių prisiminimų (kol veikia burtas). |
+| 5 | Apsauga | Ant žemės atsiranda 15 metrų skersmens sidabrinis apskritimas. Pasirink vieną būtybių rūšį, kuri negali jo peržengti. |
+| 6 | Apsiaustas | Būtybė, kurią palieti, tampa nematoma, iki tol kol nepajuda. |
+| 7 | Apšvietimas | Plūduriuojanti šviesa juda pagal tavo komandą. |
+| 8 | Arkanos Akis | Gali matyti per magišką sklandantį akies obuolį, kuris skraido vykdydamas tavo komandas. |
+| 9 | Astralų Kalėjimas | Objektas yra įšaldytas laike ir erdvėje nepažeidžiamo krištolinio kiauto viduje. |
+| 10 | Atidarymas | Netoliese esanti įprasta arba magiška spyna garsiai atsirakina. |
+| 11 | Atpažinti Savininką | Virš liečiamo objekto atsiranda raidės, nurodančios objekto savininko vardą, jei toks yra. |
+| 12 | Atstumti | Du šalia esantys objektai yra magnetiškai atstumiami vienas nuo kito iki 3m atstumo. |
+| 13 | Augalų Valdymas | Aplinkiniai augalai ir medžiai paklūsta tau ir įgyja gebėjimą lėtai judėti. |
+| 14 | Burtininko ženklas | Iš tavo piršto iššauna ugnies spalvos energijos srautas, matomas tik tau. Gali jį stebėti bet kokiu atstumu, net per kietus objektus. |
+| 15 | Burtų Pjūklas | Iš tavo krūtinės išskrieja besisukantys ašmenys išvalantys bet kokią augalinę medžiagą. Ašmenys nedaro jokios žalos kitiems objektams. |
+| 16 | Daugiarankis | Trumpam laikui įgiji papildomą ranką. |
+| 17 | Drebučių/Želė Forma | Tu tampi gyvu ir sąmoningu želė. |
+| 18 | Dūmų Forma | Tavo kūnas virsta gyvais dūmais, kuriuos tu gali valdyti. |
+| 19 | Duobė | Žemėje atsiveria 3 metrų pločio ir 3 metrų gylio duobė. |
+| 20 | Dvaras | Prieš tavo akis išdygas tvirtas, apstatytas namas. Jis egzistuos 12 valandų. Tu gali leisti arba uždrausti į jį patekti. |
+| 21 | Elastingumas | Tavo kūnas gali išsitempti iki 3 metrų. |
+| 22 | Fobija | Netoliese esanti būtybė ima paniškai bijoti tavo pasirinkto daikto. |
+| 23 | Gamtos jėgų siena | Iš žemės iškyla ledo arba ugnies siena, kurios ilgis 15 metrų, o aukštis - 3 metrai. |
+| 24 | Godumas | Būtybė yra užvaldoma nenumaldomu troškimu turėti pasirinktą matomą daiktą. |
+| 25 | Gravitacijos poslinkis | Tu galite pakeisti gravitacijos kryptį, bet tik sau. |
+| 26 | Hipnozė | Būtybė pasineria į transą ir sąžiningai atsako į vieną taip/ne klausimą. |
+| 27 | Inkaras | Tvirta viela išdygsta iš tavo rankų, prisitvirtindama prie dviejų taškų, esančių 15 metrų atstumu abiejose pusėse. |
+| 28 | Įsakymas | Tavo pasirinktas padaras paklųsta vienam nurodymui iš trijų žodžių, kuris jam nepadarys žalos. |
+| 29 | Įtūžis | Netoliese esanti būtybė įniršta į smurto siautulį. |
+| 30 | Jutimas | Pasirink vienos rūšies daiktą (raktą, auksą, strėlę, ąsotį ir pan.). Tu gali pajausti artimiausią [tokio daikto] egzempliorių. |
+| 31 | Klausos Iliuzijos | Tu sukuri iliuzinius garsus, kurie, atrodo, sklinda iš tavo pasirinktos krypties. |
+| 32 | Kūnų Apsikeitimas | Tu apsikeiti kūnais su padaru, kurį palieti. Jei vienas kūnas miršta, kitas taip pat miršta. |
+| 33 | Laiko kontrolė | Laikas 15 metrų burbule sulėtėja arba pagreitėja 10% 30 sekundžių. |
+| 34 | Ledo prisilietimas | Liečiamą paviršių padengia storas ledo sluoksnis iki 3 metrų spinduliu. |
+| 35 | Lipdyti elementus | Negyva medžiaga tavo rankose įgyja molio savybes ir gali būti lipdoma. |
+| 36 | Magijos Aptikimas | Gali matyti arba girdėti aplinkines magiškas auras. |
+| 37 | Magijos slopintuvas | Visų netoliese esančių magiškų efektų veiksmingumas sumažėja perpus. |
+| 38 | Masalo Žiedas | Iš žemės išdygsta augalas, skleidžiantis pūvančios mėsos kvapą. |
+| 39 | Maskuotė | Tu gali pakeisti vieno iš veikėjų išvaizdą, bet jie turi išlikti žmonėmis. Bandymai klonuoti vieną iš egzistuojančių žaidimo personažų ar veikėjų atrodys nevykę. |
+| 40 | Maskuotė | Veikėjo išvaizda ir balsas tampa identiški priliesto veikėjo savybėms. |
+| 41 | Miegas | Matoma būtybė panyra į lengvą miegą. |
+| 42 | Nakties sfera | Prieš tave atsiranda 15 metrų skersmens tamsos sfera, kurioje atvaizduotas naktinis dangus. |
+| 43 | Neapykanta | Tavo pasirinktą būtybę užlieja didžiulė neapykanta kitai būtybei arba grupei, kartu atsiranda noras ją sunaikinti. |
+| 44 | Nematomas diržas | Du objektai negali nutolti vienas nuo kito daugiau kaip 3 metrai. |
+| 45 | Netikras regėjimas | Tu gali kontroliuoti, ką būtybė mato. |
+| 46 | Nuraminimas | Netoliese esanti būtybė pradeda jausti didelį priešiškumą smurtui. |
+| 47 | Oro Valdymas | Tu gali pakeisti esamą orą, bet neturi kitokios įtakos jam. |
+| 48 | Pavirtimas daiktu | Tu tampi bet kokiu negyvu objektu, kurio dydis yra nuo obuolio iki fortepijono. |
+| 49 | Pirmykštis antplūdis | Būtybė greitai evoliucionuoja į būsimą savo rūšies versiją. |
+| 50 | Plepumas | Tavo pasirinktas padaras privalo garsiai ir aiškiai atkartoti viską, ką tu galvoji. Kitais atvejais jis yra nebylus. |
+| 51 | Poslinkis | Tavo pasirinktas objektas atrodys esąs už 5 metrų nuo jo tikrosios būvimo vietos. |
+| 52 | Prikelti dvasią | Netoliese esančio negyvėlio dvasia pasireiškia priešais tave ir atsako į 1 klausimą. |
+| 53 | Prikelti skeletą | Iš žemės pakyla tau paklūstantis skeletas. Skeletai yra nepaprastai kvaili ir gali vykdyti tik paprastus nurodymus. |
+| 54 | Prilipimas | Objektas pasidengia ypatingai lipiu gleivių sluoksniu. |
+| 55 | Pritraukti | Du objektai yra magnetiškai pritraukiami vienas prie kito, jei atsiduria maždaug 3 metrų atstumu vienas nuo kito. |
+| 56 | Prototipas | Primityvi nupiešto įrankio ar daikto versija atsiranda prieš tave ir po trumpo laiko išnyksta. Ji atrodo kaip tikras daiktas, bet nefunkcionuoja kaip jis. |
+| 57 | Putų Kūgis | Iš tavo rankos ištrykšta tankios putos, padengiančios pasirinktą taikinį. |
+| 58 | Regėjimas | Tu gali matyti akimis būtybės, prie kurios šiandien buvai prisilietęs. |
+| 59 | Reginys | Aiškiai netikra, bet vis vien įspūdinga iliuzija pasirodo priešais tave. Ji gali būti net iki rūmų dydžio. |
+| 60 | Rentgeno regėjimas | Gali matyti kiaurai sienas, purvą, drabužius ir pan. |
+| 61 | Rūko debesis | Aplink tave pasklinda tirštas rūkas. |
+| 62 | Rūšiavimas | Negyvi daiktai išsirikiuoja pagal tavo nustatytas kategorijas. |
+| 63 | Šaltinis | Šalia tavęs pasirodo jūros vandens šaltinis. |
+| 64 | Skaityti mintis | Tu gali girdėti paviršutiniškas šalia esančių būtybių mintis. |
+| 65 | Skilimas | Tu gali atskirti bet kurią savo kūno dalį nuo savęs ir vėliau ją vėl prijungti, nejausdamas skausmo ar žalos. Tu gali kontroliuoti atskirtą kūno dalį. |
+| 66 | Sklandymas | Objektas gali sklęsti vieną metrą virš žemės ir išlaikyti vieną žmogų ant jo. |
+| 67 | Skuba | Tavojudėjimo greitis patrigubėja. |
+| 68 | Skydas | Būtybė, kurią palieti, vienai minutei yra apsaugota nuo paprastų atakų. |
+| 69 | Skystas oras | Oras aplink tave tampa toks, kad juo galima plaukti. |
+| 70 | Slidumas | Kiekvienas paviršius 10 metrų spinduliu tampa itin slidus. |
+| 71 | Šnabždesių girdėjimas | Tu girdi net ir pačius tyliausius šnabždesius. |
+| 72 | Spiečius | Tu tampi varnų, žiurkių ar piranijų spiečiumi. Tau gali pakenkti tik sporgstamosios atakos. |
+| 73 | Stabo iškvietimas | Iš žemės iškyla 2m dydžio išraižyta akmens statula. |
+| 74 | Stikliukų manija | Tavo kišenės pasidaro pilnos apvalių stikliukų; kad ir kiek jų betrauktum, kas trisdešimt sekundžių jos vėl prisipildo. |
+| 75 | Sukurti žemės kubą | Kartą per sekundę tu gali sukurti arba pašalinti 1 metro pločio žemės kubą. Nauji kubai turi būti pritvirtinti prie žemės arba prie kitų kubų. |
+| 76 | Sumaišymas | Dvi būtybės tavo matymo zonoje akimirksniu susikeičia vietomis. |
+| 77 | Sumažinimas | Būtybė, kurią tu prilieti, susitraukia iki pelės dydžio. |
+| 78 | Šuolis | Vieną kartą pašoki iki 3 metrų aukščio. |
+| 79 | Supratimas | Tu trumpam laisvai kalbi visomis kalbomis. |
+| 80 | Sužavėjimas | Tavo pasirinktas padaras elgiasi su tavimi kaip su draugu. |
+| 81 | Taikinio Pakeitimas | Paliestas objektas tampa bet kurio šalia esančio burto taikiniu. |
+| 82 | Tankumynas | Staiga užželia iki 15 metrų pločio medžių ir tankių krūmynų tankumynas. |
+| 83 | Telekinezė | Tu gali psichiškai judinti daiktą, sveriantį mažiau nei 30 kg. |
+| 84 | Telepatija | Dvi būtybės girdi viena kitos mintis, kad ir kaip toli viena nuo kitos būtų. |
+| 85 | Teleportacija | Matomas objektas arba asmuo yra transportuojamas iš vienos vietos į kitą 15 metrų spinduliu. |
+| 86 | Teleportacinis čiuptuvas | Matomas daiktas teleportuojasi į tavo rankas. |
+| 87 | Tikras Regėjimas | Tu gali lengvai atskirti šalia esančias iliuzijas. |
+| 88 | Traukimas/Stūmimas | Tu gali pritraukti arba pastumti bet kokio dydžio objektą net neprisiliesdamas prie jo vieno žmogaus jėga. |
+| 89 | Uoslė | Tu gali užuosti net silpniausius kvapų pėdsakus. |
+| 90 | Užgesinti | Akimirksniu užgesinamas bet koks matomas paprastas šviesos šaltinis. |
+| 91 | Vartai | Atsiveria portalas į atsitiktinę dimensiją. |
+| 92 | Veidrodinis atvaizdas | Atsiranda iliuzinė jūsų kopija, kurią galite valdyti. |
+| 93 | Veidrodinis perėjimas | Veidrodis tampa vartais į kitą veidrodį, kurį šiandien matei. |
+| 94 | Vizualinė iliuzija | Tu sukuria nejudančią, tylią, kambario dydžio iliuziją. |
+| 95 | Voratinklis | Tavo riešai šaudo storus voratinklius. |
+| 96 | Voro Kojos | Gali laipioti paviršiais kaip voras. |
+| 97 | Žaizdų Gydymas | Atstato 1k4 JĖG per dieną padarui prie kurio tu prisilieti. |
+| 98 | Žemės Drebėjimas | Žemė pradeda smarkiai drebėti. Statiniai gali būti apgadinti arba sugriūti. |
+| 99 | Žvėries Pavidalas | Tu ir tavo daiktai pavirsta paprastu gyvūnu. |
+| 100 | Žybtelėjimas | Ryškus energijos kamuolys iššauna šviesos ruožą į dangų, kuris atskleidžia tavo būvimo vietą tiek draugams tiek priešams. |         | 
 
-[back to index](#index)
+[grįžti į turinį](#index)
 <p></p>
 
-# Rules Summary
+# Taisyklių Santrauka
 
-**ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+**Veiksmai**  
+Savo ėjimo metu veikėjas nueiti iki  m ir atliki vieną veiksmą. Veiksmais yra laikomi burtų naudojimai, atakos, atnras ėjimas arba kiti pagrįsti veiksmai. Laikoma, kad žaidėjo veiksmai, puolimai ir judesiai vyksta vienu metu. Kai ėjimo tvarkar neaiški, veikėjai turėtų atlikti Vikrumo (VIK - DEX) išbandymą, kad išsiaiškintų ar jie eina prieš savo priešus.
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+**Pabėgimas** iš pavojingos sitaucijos visada reikalauja sėkmingo Vikrumo (VIK) išbandymo, pat pat saugios vietos, į kurią galima pabėgti.
 
-**ABILITIES**  
-**STR:** Brawn, prowess & resistance.   
-**DEX:** Dodging, sneaking & reflexes.   
-**WIL:** Persuasion, intimidation & magic.
+**GEBĖJIMAI**  
+**Jėga (JĖG)**: Fizinė jėga, meistriškumas ir atsparumas.
+**Vikrumas (VIK)**: Išsisukinėjimas, slapstymasis ir refleksai.
+**Valia (VAL)**: Įtikinėjimas, bauginimas ir magija.
 
-**SAVES**
-- Roll a d20 equal to or under an ability.
-- 1 is always a success, 20 is always a failure.
+**IŠBANDYMAI**
+- Ridenk K20; jei rezultas yra lygus arba mažesnis už tavo gebėjimą, tu išlaikai išbandymą, jei didesnis - neišlaikai.
+- 1 visada yra sėkmė, 20 visada yra nesėkmė.
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**GYNYBOS TAŠKAI (GT)**  
+**GT** nurodo veikėjo gebėjimą išvengti sužeidimų. Jie yra prarandami mūšio metu, bet gali būti atstatyti pasibaigus mūšiui, po kelių akimirkų poilsio.
 
-**INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+**INVENTORIUS**  
+Veikėjai turi 10 inventoriaus vietų: keturias ant kūno ir šešias kuprinėje (kuri gali tarnauti kaip miegmaišis, ją iškrovus). Dauguma daiktų užima vieną vietą, bet mažesnius daiktus galima sugrupuoti. Stambūs daiktai užima dvi vietas ir yra nepatogūs ar sunkiai nešami.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+Užpildžius visas dešimt inventoriasu vietų, veikėjo gynybos taškai (GT) sumažėja iki 0. Veikėjai negali neštis daugiau, nei leidžia jų inventorius. Arkliai ir vežimai gali padidinti inventoriaus vietų skaičių.
 
-**DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**IŠSEKIMAS**  
+**Išsekę** veikėjai negali atgauti Gynybos Taškų. Jei išsekimas tęsias ilgiau nei dieną, į veikėjo inventorių yra pridedamas Nuovargis. **Nuovargis** užima vieną inventoriaus vietą ir tęsiasi tol, kol veikėjas gali saugiai atsigauti. Kiekviena diena praleista išsekimo būsenoje prideda naują Nuovargį į veikėjo inventorių.
 
-**HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+**GYDYMAS**  
+Trumpas poilsis ar gurkšnis vandens akuria prarasus GT (Gynybos Taškus), tačiau veikėjai gali būti pažeidžiami šio poilsio metu. Norint atstatyti prarastas Savybes prireiks ilgesnio poilsio ir įgudusio gydūno pagalbos.
 
-**SPELLBOOKS**  
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+**BURTŲ KNYGOS**  
+Burtų knygos talpiną vieną kerą ir užima vieną inventoriaus vietą. Bet kas gali naudoti kerus laikydamas burtų knygą abiejose rankose ir garsiai skaitydamas ją. burtų naudojimas sukuria **Nuovargį** veikėjo inventoriuje.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+Turėdami laiko ir būdami saugioje vietoje, žaidėjų veikėjai gali patobulinti sustiprinti turimų burtų poveikį be papildomų išlaidų. Jei jie yra išsekę arba pavojuje, žaidėjai turi atlikti VAL išbandymą, kad išvengtų neigiamų burtų pasėkmių.
 
-**COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+**KOVA**  
+Puolantis veikėjas ridena savo ginklo kauliuką ir atima savo atakos taikinio Šarvus; likutis bus žala priešininko Gynybos Taškams.
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Skydai ir šarvai suteikia papildomos apsaugos (pavyzdžiui +1 Šarvams), bet jie yra veiksmingi tik tada kai veikėjas jais naudojasi, o ne laiko inventoriuje.
 
-No one can have more than 3 Armor.
+Niekas negali turėti daugiau nei 3 Šarvus.
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+**Atakos plikomis rankomis** (unarmed) visada daro 1k4 žalos. Jeigu keli veikėjai atakuoja tą patį priešą, ridenk visus žalos kauliukus ir pasilik tik didžiausią rezultatą.  Jeigu tuo pačiu metu veikėjas atakuoja dviem ginklais, mesk du žalos kauliukai, pasilik vieną didžiausią rezultatą.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+Jei yra koks nors **trukdis** atakai, žalos kauliukas yra sumažinimas iki 1k4, neatsižvelgiant į ginklą. Jei ataka yra sustiprinta, puolėjas ridena 1k12. Atakos su **sprogimo efektu** veikia visus taikinius paveikiamoje zonoje, o žala metama atskirai kiekvienam taikiniui.
 
-**DAMAGE**  
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
- 
-Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
+**ŽALA**  
+Jei ataka sumažina žaidėjo veikėja Gynybos Taškus (GT) iki 0, jis gauna randą.
 
-Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+
+Jei ataka sumažina žaidėjo veikėja Gynybos Taškus (GT) iki 0, tada jis gauna [randą](#randai).
+
+Žala, sumažinanti taikinio Gynybos Taškus (GT) **žemiau** 0, tuo pačiu sumažina taikinio JĖG (Jėgą) likusia suma. Po to jis turi atlikti JĖG išbandymą su likusia Jėga, kad išvengtų **kritinės žalos**. Nesėkmės atveju žaidėjas personažas yra pašalinamas iš kovos; jei jis negauna pagalbos greitu metu, jis miršta.
+
+0 Jėgos reiškia mirtį; 0 Vikrumo  – paralyžių; 0 Valios – kliedesius.
