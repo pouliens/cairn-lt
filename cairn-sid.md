@@ -103,7 +103,7 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškintum 
 - Kad žaidimas neprarastų savo tempo, palaikyk prasmingą dialogą su žaidėjais.
 - Pasistenk, kad žaidėjų poelgiai visada turėtų pasekmes žaidimo pasaulyje.
 
-### Likimo kauliukas
+### Atsitiktinumai
 - Kartas nuo karto tau pravers ir atsitiktinumas (psl 10) pavyzdžiui: žaidimo personažo nusiteikimas žaidėjų atžvilgiu, ar keliaudami naktį žaidėjai pasiklys ar ne, ir t.t.)
 - Tokiais atvejais ridenk 1k6. 4 ir daugiau reikš palankų rezultatą žaidėjų atžvilgiu.
 - 3 ir mažiau reikš nesėkmę žaidėjų personažams arba jų sąjungininkams.
