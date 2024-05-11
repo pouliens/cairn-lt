@@ -30,80 +30,83 @@ nav_order: 2
 
 ## Apžvalga
 
-**Kernas** buvo parašytas laikantis šių principų:
+**Kèrnas** buvo parašytas laikantis šių principų:
 
 ### Neutralumas
-Vedlio paskirtis yra perteikti taisykles, situacijas, žaidimo personažus ir istoriją aiškiai, išliekant neutraliu žaidėjų atžvilgiu.
+Žaidimo meistro paskirtis yra perteikti taisykles, situacijas, žaidimo personažus ir istoriją aiškiai, išliekant neutraliu žaidėjų atžvilgiu.
 
 ### Klasių nebūvimas
-Personažo įgudžiai nėra apriboti vienos klasės. Jų įrankai, daiktais ir patirtys nulems jų specialybę (Šventikas gali išmokti kautis ir vagis gali išmokti kerėti).
+Personažo įgūdžiai nėra apriboti vienos klasės. Jų įrankiai, daiktais ir patirtys nulems jų specialybę (Šventikas gali išmokti kautis ir vagis gali išmokti kerėti).
 
-### Mirtis
-Žaidimo personažai gali būti galingi ir stiprūs, bet jie vis vien visada bus pažeidžiami. Šiame pasaulyje tūno daug pavojų. Mirtis visada yra šalia, bet ji niekada neturi būti atsitiktinė ar be perspėjimo.
+### Mirtingumas
+Žaidimo personažai gali būti stiprūs, bet jie visada yra pažeidžiami. Šiame pasaulyje tūno daug pavojų. Mirtis yra visada šalia, bet ji niekada nėra atsitiktinė ar be perspėjimo.
 
-### Pirmenybė teikiama istorijai
-Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškinti jos eigą. Kartais geriau dialogo forma išsprręsti kokia bus vieno ar kito žaidėjo poelgio pasėkmė
+### Pirmenybė Istorijai
+Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškintum jos eigą. Kartais geriau dialogo forma išspręsti kokia bus vieno ar kito žaidėjo poelgio pasekmė.
 
 ### Augimas
-Žaidimo veikėjai keičiasi ir tobulėja tyrinėdami pasaulį, įgaudami naujų įgūdžių ir gebėjimų. Įveikdami kėblias situacijas ir iššūkius jie tampa stipresni.
+Žaidimo veikėjai keičiasi ir tobulėja tyrinėdami pasaulį, įgaudami naujų įgūdžių ir gebėjimų. Įveikdami keblias situacijas ir iššūkius jie tampa stipresniais.
 
-### Žaidėjo laisvė
-Žaidėjui visada turėtų būti aiškios jo veiksmų pasėkmės. Jis neturėtų spėlioti koks laukia rezultatas priėmus vienokį ar kitokį sprendimą. Informacija apie potencialą riziką, spąstus ir kitas žaidėjo tykančias negandas taip pat turėtų būti pateikiama dažnai ir laisvai.
+### Žaidėjo Laisvė
+Žaidėjui visada turėtų būti aiškios jo veiksmų pasekmės. Jis neturėtų spėlioti koks laukia rezultatas priėmus vienokį ar kitokį sprendimą. Meistras neturėtų vengti dalintis informacija apie riziką. Informacija apie potencialius spąstus ir kitas žaidėjo tykančias negandas taip pat turėtų būti pateikiama dažnai ir be jokių išlygų.
 
 ### Taisyklės
-Žaidimo Vedlys ir žaidėjai laikosi taisyklių, kurios jiems padeda sukurti žaidimo aplinką pagrįsta kritiniu mąstymu, tyrinėjimu ir iš to kylančiu istorijų kūrimu.
+Žaidimo meistras ir žaidėjai laikosi taisyklių, kurios jiems padeda sukurti žaidimo aplinką pagrįsta kritiniu mąstymu, tyrinėjimu ir iš to kylančiu istorijų kūrimu.
 
-### Bendri tikslai
-Žaidėjai pasitiki vienas kitu kurdami bendrą pasaulį. Jie dažniausiai turi bendrus tiklus ir kartu sprendžia įvairias uždutis kaip viena komanda. Žaidimo Vedlys nėra žaidėjų priešas, bet jis padeda sukurti kėblias situacijas ir konfliktus, kurie padeda benrai kuriamai istorijai nesustoti.
+### Bendri Tikslai
+Žaidėjai pasitiki vienas kitu ir įsitraukia į bendrą žaidimo pasaulį (arba scenarijų), veikėjų tikslus bei komandos iššūkius. Dėl šios priežasties, jie paprastai dirba vieningai siekdami bendro tikslo. Žaidimo meistras nėra žaidėjų priešas, bet jis padeda sukurti keblias situacijas ir konfliktus, kurie padeda bendrai kuriamai istorijai rutuliotis.
 
 [Grįžti į turinį](#index)
 <p></p>
 
 ## Patarimai Žaidimo Meistrui
 ### Informacija
-- Žaidėjams tyrinėjant žaidimo pasaulį, pateik jiems naudingos informacijos, kuri padės jį geriau suprasti
-- Žaidėjai neturėtų ridenti kauliukų tam, kad išsiaiškintu situacijos aplinkybes. Jų smalsumo turėtų būti gana.
-- Vedlys su savo atsakymais gali padėti nukreipti žaidėjus tinkama linkme
-- Leisk žaidėjams klausinėti daug klausimų ir atsakinėk į juos nuoširdžiai ir pastoviai
+- Žaidėjams tyrinėjant pasaulį, pateik jiems naudingos informacijos, kuri jiems	padės geriau suprasti esamą situaciją.
+- Žaidėjai, norėdami sužinoti apie savo aplinkybes, neprivalo ridenti kauliukų. Jų smalsumo turėtų būti gana.
+- Būk paslaugus ir paprastai atsakyk į žaidėjų klausimus.
+- Nupasakok žaidimo situacijas nuosekliai ir visada leisk žaidėjams suprasti, kad jie gali daugiau klausinėti.
 
 ### Sudėtingumas
-- Pirmenybė turėtų būti teikiama istorijos kontektui ir realizmui, o ne žaidimo mechanikai ir kauliukų ridenimams
-- Jei žaidėjas nori atlikti veiksmą, kuris yra visiškai neįmanomas, joks sėkmingas ridenamis neleis jam to padaryti.
+- Pirmenybė turėtų būti teikiama istorijos kontekstui ir realizmui, o ne žaidimo mechanikai ar kauliukų ridenimams.
+- Jei žaidėjas nori atlikti veiksmą, kuris yra visiškai neįmanomas, joks sėkmingas ridenimas neleis jam to padaryti.
 - Ar žaidėjo norimas atlikti veiksmas yra logiškas ir prasmingai dera su esama situacija? Leisk jam jį atlikti be jokio kauliukų ridenimo.
-- Išbandymai bus naudingi rizikingose situacijose ir jie labiausiai pravers kai žaidėjas norės atlikti kokį nors rizikinga veiksmą.
+- Išbandymai bus naudingi rizikingose situacijose ir jie labiausiai pravers, kai žaidėjas norės atlikti kokį nors rizikinga veiksmą.
 
 ### Pasiruošimas
-- Žaidimo pasaulis yra organiškas, besikeičiantis ir su prieskoniu atsitiktinumo. Jis neleidžia žaidėjams per ilgai užsibūti vienoje vietoje - tam padeda aštrūs istorijos posūkiai.
+- Žaidimo pasaulis yra organiškas, besikeičiantis ir su prieskoniu atsitiktinumo. Jame yra daug aštrių istorijos posūkių.
 - Improvizuodamas naujas situacijas gali pasitelkti į pagalbą atsitiktinių įvykių, aprašymų ir daiktų lenteles. Jos padės tau sukurti įvairias naujas situacijas, kurios bus nenuspėjamos tiek pačiam Vedliui tiek žaidėjams. Per daug pasiruošimo gali sumažinti istorijos spontaniškumą ir organiškumą.
-- Žaidimo pasaulyje gyvenantys personažai (NPC) atsimena žaidėjų poelgius ir pasakymus ir turi savo nuomonę apie žaidėjo veiksmus šiame pasaulyje.
+- Žaidimo pasaulyje gyvenantys personažai (NPC) atsimena žaidėjų poelgius bei pasakymus ir turi savo nuomonę apie žaidėjo veiksmus šiame pasaulyje.
 - Žaidimo personažai nenori numirti. Jie turi savo interesus ir norą išlikti ir klestėti šiame pasaulyje.
 
-### Dėmesys naratyvui
-- Svarbiausia yra įdomus ir įtraukiantis žaidėjų sąveikavimas su žaidimo pasauliu, o ne skaičiavimai ar personažų sugebėjimai. Kad žaidėjų personažai galėtų tobulėti ir specializuotis, įtrauk į žaidimo pasaulį ginklų mokytojų personažus, kurie gali juos išmokyti naujų įgūdžių, sugalvok jiem asmeninių užduočių, kurias jie įvykdę galės patobulėti ar išmokti naujų įgūdžių.
-- Įsiklausyk į žaidėjų poreikius ir norus ir sukurk realistiškas progas jų kelyje įgyvendinti tuos norus.
+### Dėmesys Naratyvui
+- Svarbiausia yra įdomus ir įtraukiantis žaidėjų sąveikavimas su žaidimo pasauliu, o ne skaičiavimai ar personažų sugebėjimai. 
+- Kad žaidėjų personažai galėtų tobulėti ir augti, sugalvok jiems asmeninių užduočių, kurias jie įvykdę įgis naujų įgūdžių.
+- Įsiklausyk į žaidėjų poreikius ir norus ir sukurk realistiškas progas jų kelyje tuos norus įgyvendinti.
 - Durklas prie gerklės visad tave nužudys, kad ir kokius brangius šarvus ar įspūdingus kovos įgūdžius beturėtum.
 
 ### Pavojus
 - Žaidimo pasaulis visad kelia realų skausmo ir mirties pavojų žaidėjų personažams.
-- Pranešk žaidėjams apie rimto pavojaus tikimybę. Kuo pavojus didesnis, tuo jis turėtų būti akivaizdesnis.
-- Spąstai neturėtų atsirasti iš niekur. Leisk žaidėjams juos pastebėti ir duok šiek tiek laiko jiems sugalvoti, kaip su jais susidoroti.
+- Perspėk žaidėjus apie rimto pavojaus tikimybę. Kuo pavojus didesnis, tuo jis turėtų būti akivaizdesnis.
+- Spąstai neturėtų atsirasti iš niekur. Leisk žaidėjams juos pastebėti ir duok laiko jiems sugalvoti, kaip su jais susidoroti.
 - Suteik žaidėjams progų spęsti problemas ir sąveikauti su žaidimo pasauliu.
 
-### Lobis / Laimikis
-- Žaidimo laimikis tuėtų derėti prie aplinkos, kurioje jis yra randamas. Kad b ūtų įdomesnis ir atrodytų vertingesnis, jis turėtų būti įpintas į istorija.
-- Lobis yra labai vertingas, beveik visada didelis, ir retai kada turi papildomos naudos neįskatant prestižo ir turtų, į kuriuos jį galima paversti.
-- Relikvijos (psl 5) nėra lobis, bet jos dažniausiai yra naudingos ir įdomios.
+### Lobiai
+- Žaidėjų randami lobiai turėtų derėti prie aplinkos, kurioje jie yra randami. 
+- Lobiai yra vertingi, beveik visada dideli savo apimtimis, ir retai kada turi papildomos naudos neįskaitant prestižo ir turtų, į kuriuos juos galima iškeisti.
+- Relikvijos (psl 12) yra skirtingos nuo lobių; jos dažniausiai turi įdomią paskirtį.
+- Lobiai gali būti panaudoti kaip masalas, kuris gali pritraukti žaidėjus į egzotiškas vietoves, kurias saugo bauginantys priešai.
 
-### Pasirinikimai
+### Pasirinkimai
+- Kartais pravers ir atsitiktinumo elementas (pvz., orai, žaidimo veikėjų nusistatymas ar žinios ir pan.).
 - Suteik žaidėjams prasmingų pasirinkimų, kai istorijos tėkmė per daug sulėtėja.
-- Jei žaidėjų ketinimai nėrai aiškus, supaprastink viską ir paklausk ar jie renkasi A ar B?
-- Palaikyk prasmingą dialogą su žaidėjais, kad žaidimas neprarastų savo tempo.
-- Pasistenk, kad žaidėjai poelgiai visada turėtų pasėkmes žaidimo pasaulyje.
-### Likimo kauliukas
+- Jei žaidėjų ketinimai nėra aiškūs, supaprastink viską ir paklausk ar jie renkasi A ar B sprendimą?
+- Kad žaidimas neprarastų savo tempo, palaikyk prasmingą dialogą su žaidėjais.
+- Pasistenk, kad žaidėjų poelgiai visada turėtų pasekmes žaidimo pasaulyje.
 
+### Likimo kauliukas
 - Kartas nuo karto tau pravers ir atsitiktinumas (psl 10) pavyzdžiui: žaidimo personažo nusiteikimas žaidėjų atžvilgiu, ar keliaudami naktį žaidėjai pasiklys ar ne, ir t.t.)
-- Tokiais atvejairs ridenk 1d6. 4 ir daugiau dažniausiai reiškia palankų rezultatą žaidėjų atžvilgiu.
-- 3 ir mažiau dažniausiai reiškia blogą sėkmę žaidimo personažams ir jų bendrininkams.
+- Tokiais atvejais ridenk 1k6. 4 ir daugiau reikš palankų rezultatą žaidėjų atžvilgiu.
+- 3 ir mažiau reikš nesėkmę žaidėjų personažams arba jų sąjungininkams.
 
 [Grįžti į turinį](#index)
 <p></p>
