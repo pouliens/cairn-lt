@@ -35,7 +35,7 @@ nav_order: 2
 ### Neutralumas
 Žaidimo meistro paskirtis yra perteikti taisykles, situacijas, žaidimo personažus ir istoriją aiškiai, išliekant neutraliu žaidėjų atžvilgiu.
 
-### Klasių nebūvimas
+### Klasių Nebūvimas
 Personažo įgūdžiai nėra apriboti vienos klasės. Jų įrankiai, daiktais ir patirtys nulems jų specialybę (Šventikas gali išmokti kautis ir vagis gali išmokti kerėti).
 
 ### Mirtingumas
@@ -113,41 +113,34 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškintum 
 
 ## Patarimai Žaidėjui
 
-### Pasirinkimo laisvė
+### Pasirinkimo Laisvė
+- Tavo personažo **savybės** ir su jais susiję išbandymai neturėtų apriboti tavo pasirinkimų. Jie tėra įrankiai.
+- Neklausk tik to, ką darytų tavo personažas, klausk ir to, ką darytum tu pats.
+- Stenkis kūrybingai panaudoti savo personažą, jo daiktus ir aplinką.
 
-- Tavo personažo Savybės ir su jais susiję išbandymai neturėtų apriboti tavo pasirinkimų. Jie tėra įrankiai.
-- Neklausk tik ką darytų tavo personažas šioje situacijoje, bet ir ką darytum tu pats ?
-- Stenkis kūrybingai išnaudoti savo personažą, jo daiktus ir aplinką.
-
-### Komandinis darbas
-
+### Komandinis Darbas
 - Siek susitarimo su kitais žaidėjais prieš priimdamas reikšmingus sprendimus.
 - Stenkis suprasti savo bendražygių tikslus ir ribas, gerbk jų norus ir pasirinkimus - kartu jūs galite pasiekti daugiau.
 
 ### Tyrinėjimas
-
 - Smalsumas, žaidimo pasaulio tyrinėjimas, klausimų uždavinėjimas yra naudingesnis nei tavo personažo savybės, daiktai ar įgūdžiai.
-- Pasikliauk žaidimo meistor pateikiama informacija, bet nevenk užduoti daugiau klausimų.
+- Pasikliauk žaidimo meistro pateikiama informacija, bet nevenk užduoti daugiau klausimų.
 - Vieno teisingo kelio į priekį nėra; jų daug.
 
 ### Bendravimas
-
-- Elkis su žaidimo personažais kaip su tikrais žmonėmis ir pasikliauk savo smalsumu bandydamas geriau suprasti tiek žaidimo pasaulį, tiek jame gyvenančius žmones. Jis padės tau spręsti žaidime kylančius iššūkius.
+- Elkis su žaidimo personažais kaip su tikrais žmonėmis ir pasikliauk savo smalsumu bandydamas geriau suprasti tiek žaidimo pasaulį, tiek juos. Jis padės tau spręsti žaidime kylančius iššūkius.
 - Galbūt paaiškės, kad dauguma žaidimo personažų yra gan draugiškos ir įdomios būtybės, kurios geba išspręsti kylančius konfliktus taikiai, o net tik smurtaujant.
 
 ### Atsargumas
-
-- Kautis tėra vienas iš pasirinkimų kiekvienoje situacijoje. Jis nėra pats išmintingiausias konfliktų sprendimo būdas. Pagalvok ar yra kitų būdų, kuriais galėtum pasiekti savo tikslų.
+- Kovojimas yra pasirinkimas ir retai kada pats išmintingiausias konfliktų sprendimo būdas; apsvarstyk, ar smurtas yra geriausias būdas pasiekti savo tikslus.
 - Prieš pradėdamas bet kokią kovą, pagalvok ar persvara yra tavo pusėje ir nevenk pasitraukti iš kovos supratęs, kad priešas yra už tave pranašesnis.
 
 ### Planavimas
-
 - Stenkis kūrybingai apeiti kelyje pasitaikančias kliūtis. Pasinaudok žvalgyba, subtilumu ir tyrinėjimu.
-- Tyrinėk savo aplinką, žaidimo personažus ir jų motyvus. Geriau supratęs savo iššūkius, rasi kūrybingesnių būdų jiems išspręsti.
+- Domėkis savo aplinka, žaidimo personažais ir jų motyvais. Geriau supratęs savo iššūkius, rasi kūrybingesnių būdų jiems išspręsti.
 
 ### Ambicingumas
-
-- Išsikelk tikslus savo personažui ir naudokis savo menkais resursai, kad juos pasiektum.
+- Išsikelk tikslus savo personažui ir siek jų naudodamasis turimais resursais.
 - Nesitikėk nieko gauti už dyką. Užsitarnauk savo reputaciją.
 - Stenkis visad judėti į priekį ir palaikyti žaidimo tempą.
 
@@ -156,58 +149,54 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškintum 
 
 ## Personažo Kūrimas
 
-#### Vardas, istorija ir bruožai
-Pirmiausia, išsirink savo personažo vardą ir istoriją arba ridenk kauliukus šiose [lentelėse](#). Žaidėjo personažo istorija nulems jo potencialias žinias ir įgūdžius.
+#### Vardas, Istorija ir Bruožai
+Pirmiausia, išsirink savo personažo **vardą** ir **istoriją** arba ridenk kauliukus šiose [lentelėse](#). Žaidėjo personažo istorija nulems jo potencialias žinias ir įgūdžius.
 
 Tada, išsiridenk savo personažo bruožus (išvaizdą, kalbą, manieras, įsitikinimus, reputaciją ir kt.) [bruožų lentelėse](#).
 
 Tada, išsiridenk savo personažo **amžių** (2d20+10).
 
-#### Savybės
+#### Savybių Taškai
 Žaidėjo personažas (ŽP) turi tik tris savybes:
-
-**Jėga (JĖG)**, **Vikrumą (VIK)** ir **Valią (VAL)**. Kurdamas žaidimo personažą, žaidėjai ridena 3d6 paeiliui kiekvienai iš savybių. Tada jie gali sukeisti bet kuriuos du rezultatus.
-
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+**Jėga (JĖG)**, **Vikrumą (VIK)** ir **Valią (VAL)**. Kurdami žaidimo personažą, žaidėjai ridena 3k6 paeiliui kiekvienai iš savybių. Tada jie gali sukeisti bet kuriuos du rezultatus.
 
 <details markdown="block">
   <summary>
 Pavyzdys
  </summary>
-  Inesa ridena savo personažo **JĖG** ir išridena **2**, **4** ir **6** - bendroje sumoje **12**. Kitoms dviem savybėms ji išridena **9** **VIK** ir **13** **VAL**. Tada ji nusprendžia sukeisti **12** ir **9**. Jos personažas tada turės **9 JĖG**, **12 VIK** ir **13 VAL**.
+  Inesa ridena savo personažo **JĖG** ir išridena **2**, **4** ir **6** - bendroje sumoje **12**. Kitoms dviem savybėms ji išridena **9** **VIK** ir **13** **VAL**. Tada ji nusprendžia sukeisti **12** ir **9**. Jos personažas turės **9 JĖG**, **12 VIK** ir **13 VAL**.
 </details>
 
 ### Gynybos Taškai
-Ridenk 1d6 kad išsiaiškintum savo personažo pradinius **Gynybos Taškus** (GT). Nuo jų priklausys tavo gebėjimas išvengti žalos kovose. GT nėra žaidėjo personažo sveikata ar tvirtumas; personažas praranda Gynybos Taškus tik trumpam (daugiau informacijos **Gydyme**). Jei priešo ataka atima visus gynybos taškus ir prilygina juos 0, tada žaidėjas ridena kauliuką [**Randų**](#) lentelėje.
+Ridenk 1d6 kad išsiaiškintum savo personažo pradinius **Gynybos Taškus** (GT). Nuo jų priklausys tavo gebėjimas išvengti žalos kovose. 
 
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+Gynybos Taškai nėra personažo sveikata ar tvirtumas; dažniausiai jie prarandami tik trumpam (daugiau informacijos čia: [**Gydymas**](#)). Jei žala atima visus gynybos taškus ir prilygina juos 0, tada žaidėjas ridena kauliuką [**Randų**](#) lentelėje.
 
 #### Inventorius
 Žaidėjo personažas gali turėti 10 daiktų inventoriuje: šešios vietos kuprinėje, viena - kiekvienoje rankoje, dvi - viršutinei kūno daliai (diržas, šarvai ar šalmas). Kuprinė taip pat gali būti naudojama kaip miegmaišis ištuštinus jos turinį.
 
-Dauguma daiktų užima vieną inventoriaus vietą, o maži daiktai gali būti sugrupuoti. Iventoriaus ‘vietos’ yra šiek tiek abstrakčios ir jos gali būti šiek tiek lanksčios, pasitarus su žaidimo Vedliu.
+Dauguma daiktų užima vieną inventoriaus vietą, o maži daiktai gali būti sugrupuoti. Inventoriaus „vietos“ yra šiek tiek abstrakčios ir jų talpa gali būti „lanksti“, pasitarus su žaidimo meistru.
 
 **Sunkūs daiktai** užima dvi inventoriaus vietas, dažniausiai reikalauja dviejų rankų naudojimui ir yra nepatogūs nešti. Personažas turintis pilną inventorių (visas dešimt vietų) netenka visų gynybos taškų ir jie tampa lygūs nuliui.
 
-Personažas negali nešti daugiau daiktų nei telpa jo inventoriuje. Vežimai arba arkliai gali padidinti inventoriaus talpą. **Samdiniai** taip pat gali padėti gabenti personažo daiktus už užmokestį.
+Personažas negali nešti daugiau daiktų, nei telpa jo inventoriuje. Vežimai arba arkliai gali padidinti inventoriaus talpą. **Samdiniai** taip pat gali padėti gabenti personažo daiktus už užmokestį.
 
-#### Pradiniai daiktai
-Žaidėjo personažas pradeda žaidimą su šiais daiktais:
+#### Pradiniai Daiktai
+Visi personažai pradeda žaidimą su šiais daiktais:
 
 - Trijų dienų davinys (viena vieta)
 - Deglas (viena vieta)
-- 3d6 aukso monetos
+- 3k6 aukso monetos
 
-Ridenk po vieną kartą kiekvienoje [Pradinių Daiktų lentelėje](#), kad išsiaiškintum savo personažo šarvus, ginklą, įrankius ir turimus daiktus. Jei nurodyta, ridenk ir [Burtų Knygos](#) lentelėje su d100 (arba ridenk 2d10, vienas kauliukas bus vienetai, kitas dešimtys. Jei vienas kauliukas rodo 4, o kitas 7, tavo rezultatas būtų 47. Jei abu kauliukai rodo 0, tai bus - 100). To pasekoje tu turėsi po vieną daiktą iš kiekvienos kategorijos.
+Ridenk po vieną kartą kiekvienoje [Pradinių Daiktų lentelėje](#), kad išsiaiškintum savo personažo šarvus, ginklą, įrankius ir turimus daiktus. Jei nurodyta, ridenk ir [Burtų Knygos](#) lentelėje su k100 (arba ridenk 2k10, vienas kauliukas bus vienetai, kitas dešimtys. Jei vienas kauliukas rodo 4, o kitas 7, tavo rezultatas būtų 47. Jei abu kauliukai rodo 0, tai bus - 100). To pasekoje tu turėsi po vieną daiktą iš kiekvienos kategorijos.
 
-[**Daiktų Sąraše**](#) rasi daiktų apsaugą, žalą ir užimamą vietą tavo inventoriuje. Mažesni daiktai gali būti sugrupuoti ir sutalpinti į vieną inventoriaus vietą.
+[**Daiktų Sąraše**](#) rasi šarvų apsaugą, ginklų žalą ir užimamą vietą tavo inventoriuje. Mažesni daiktai gali būti sugrupuoti ir sutalpinti į vieną inventoriaus vietą.
 
 Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentelėje**](#).
 
 <p></p>
 
-## Vardai ir Profesijos (d20)
+## Vardai ir Profesijos (k20)
 
 #### Moterų Vardai
 
@@ -251,7 +240,7 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 
 <p></p>
 
-## Personažo bruožai (d10)
+## Personažo Bruožai (k10)
 
 #### Sudėjimas
 
@@ -270,7 +259,7 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | 1 | Apgamuota     | 6  | Raukšlėta       |
 | 2 | Drimbanti     | 7  | Rausva          |
 | 3 | Įdegusi       | 8  | Švelni          |
-| 4 | Ištatuiravota | 9  | Tamsi           |
+| 4 | Ištatuiruota | 9  | Tamsi           |
 | 5 | Randuota      | 10 | Vėjo nugairinta |
 
 #### Plaukai
@@ -278,7 +267,7 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 |   |             |    |           |
 | - | ----------- | -- | --------- |
 | 1 | Garbanoti   | 6  | Šiurkštūs |
-| 2 | Ilgi        | 7  | Šiurkštūs |
+| 2 | Ilgi        | 7  | Ištaigingi |
 | 3 | Plika galva | 8  | Supinti   |
 | 4 | Ploni       | 9  | Susitaršę |
 | 5 | Riebūs      | 10 | Vešlūs    |
@@ -307,11 +296,11 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1        | Antikvariniai | 6    | Apdrisę |
+| 2        | Kruvini  | 7    | Senamadiški |
+| 3        | Elegantiški | 8    | Beveik nauji |
+| 4        | Purvini  | 9    | Prastai kvepiantys |
+| 5        | Užsienietiški | 10   | Sutepti |
 
 #### Vertybės
 
@@ -350,12 +339,12 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | 1 | Apgautas(-a)                   | 6  | Ištremtas(-a)            |
 | 2 | Apleistas(-a)                  | 7  | Pasmerktas(-a)           |
 | 3 | Diskredituotas(-a)             | 8  | Pažemintas(-a) pareigose |
-| 4 | Įklimpęs(-usi) į priklausomybę | 9  | Prakeiktas(-a)           |
+| 4 | Priklausomas (-a)              | 9  | Prakeiktas(-a)           |
 | 5 | Išsižadėtas(-a)                | 10 | Šantažuojamas(-a)        |
 
 <p></p>
 
-## Pradiniai daiktai (d20)
+## Pradiniai daiktai (k20)
 
 #### Šarvai
 
@@ -364,74 +353,75 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 |  1-3  |    4-14    |   15-19   |  20   |
 | Jokių  | Odiniai | Grandininiai | Plieniniai |
 
-#### Šalmas ir skydas
+#### Šalmai ir Skydai
 
 | 1-3   | 4-16   | 17-19  | 20               |
 | ----- | ------ | ------ | ---------------- |
-| Jokių | Šalmas | Skydas | Šalmas ir skydas |
+| Jokių | Šalmas | Skydas | Šalmas ir Skydas |
 
-#### Ginklas
+#### Ginklai
 
 | 1-5            | 6-14                             | 15-19                      | 20                            |
 | -------------- | -------------------------------- | -------------------------- | ----------------------------- |
 | Durklas, Lazda | Kardas, Vėzdas, Paprastas Kirvis | Lankas, Arbaletas, Laidynė | Alebarda, Kūjis, Kovos Kirvis |
 
 
-#### Papildomi reikmenys
+#### Papildomi Reikmenys
 
 |   |                 |    |                               |    |                                           |    |                                                |
 | - | --------------- | -- | ----------------------------- | -- | ----------------------------------------- | -- | ---------------------------------------------- |
-| 1 | Alyva           | 6  | Grandinė (3m)                 | 11 | Lešiklis (padeda rasti vandens telkinius) | 16 | Vilkabalsis (nuodinga augalinė medžiaga)       |
-| 2 | Atbaidiklis     | 7  | Kabliukas                     | 12 | Oro pūslė                                 | 17 | Virbelis (virba, kai esi šalia ieškomo daikto) |
+| 1 | Alyva           | 6  | Grandinė (3m)                 | 11 | Lešiklis (padeda rasti vandens telkinius) | 16 | Vilkauogė (nuodings žolinis augalas)       |
+| 2 | Atbaidiklis     | 7  | Kabliukas                     | 12 | Oro Pūslė                                 | 17 | Virgulė (padeda rasti paslėptus objektus) |
 | 3 | Degtukai        | 8  | Kinkinys (+4 vietos, didelis) | 13 | Pančiai                                   | 18 | Virvė (10m)                                    |
-| 4 | Didelis maišas  | 9  | Kirtiklis                     | 14 | Priešnuodis                               | 19 | Virvė su kabliu                                |
-| 5 | Didelis Spąstai | 10 | Lazda (3m)                    | 15 | Spynų kirtikliai                          | 20 | Žiūronas                                       |
+| 4 | Didelis Maišas  | 9  | Kirtiklis                     | 14 | Priešnuodis                               | 19 | Virvė su Kabliu                                |
+| 5 | Dideli Spąstai | 10 | Lazda (3m)                    | 15 | Spynų Kirtikliai                          | 20 | Žiūronas                                       |
 
 #### Įrankiai
 
 |   |                                        |    |           |    |                      |    |                  |
 | - | -------------------------------------- | -- | --------- | -- | -------------------- | -- | ---------------- |
-| 1 | Dumplės                                | 6  | Kibiras   | 11 | Metalinė Dildė       | 16 | Smėlio laikrodis |
+| 1 | Dumplės                                | 6  | Kibiras   | 11 | Metalinė Dildė       | 16 | Smėlio Laikrodis |
 | 2 | Grąžtas                                | 7  | Klijai    | 12 | Pjūklas              | 17 | Tinklas          |
 | 3 | Kaltas                                 | 8  | Kreida    | 13 | Plaktukas            | 18 | Vinys            |
-| 4 | Kaltropa (spąstai žirgams ar vežimams) | 9  | Laužtuvas | 14 | Riebalai             | 19 | Virimo puodai    |
-| 5 | Kastuvas                               | 10 | Meškerė   | 15 | Sandarinimo medžiaga | 20 | Žnyplės          |
+| 4 | Metalinis Ežys | 9  | Laužtuvas | 14 | Riebalai             | 19 | Virimo Puodai    |
+| 5 | Kastuvas                               | 10 | Meškerė   | 15 | Sandarinimo Medžiaga | 20 | Žnyplės          |
 
 #### Smulkmenos
 
 |   |              |    |                       |    |                      |    |                   |
 | - | ------------ | -- | --------------------- | -- | -------------------- | -- | ----------------- |
-| 1 | Butelis      | 6  | Metalinė Dildė        | 11 | Ragas                | 16 | Tinklas           |
-| 2 | Kastuvas     | 7  | Muzikinis intrumentas | 12 | Riebalai             | 17 | Veido dažai       |
-| 3 | Kortų kaladė | 8  | Netikri papuošalai    | 13 | Sandarinimo medžiaga | 18 | Vinys             |
-| 4 | Kvepalai     | 9  | Pjūklas               | 14 | Smėlio laikrodis     | 19 | Žaidimo kauliukai |
-| 5 | Linzė        | 10 | Plaktukas             | 15 | Stiklo rutuliukai    | 20 | Žnyplės           |
+| 1 | Butelis      | 6  | Metalinė Dildė        | 11 | Ragas                | 16 | Žirklės                        |
+| 2 | Kastuvas     | 7  | Muzikinis Instrumentas | 12 | Riebalai             | 17 | Veido Dažai       |
+| 3 | Kortų Kaladė | 8  | Netikri Papuošalai    | 13 | Žvakė           | 18 | Sėkla                              |
+| 4 | Kvepalai     | 9  | Žemėlapis                     | 14 | Pusė Monetos         | 19 | Žaidimo Kauliukai |
+| 5 | Linzė        | 10 | Plunksna                            | 15 | Stiklo Rutuliukai    | 20 | Švilpukas           |
 
-#### 	Papildomi daiktai (ridenk atitinkamoje lentelėje)
+#### 	Papildomi Daiktai (ridenk atitinkamoje lentelėje)
 
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-| Įrankis arba smulkmena | Papildomi reikmenys | Ginklas arba Šarvas | Burtų Knygą |
+| Įrankis arba Smulkmena | Papildomi Reikmenys | Ginklas arba Šarvas | Burtų Knyga |
 
 <p></p>
 
-#### 	Burtų Knyga (d100)
+#### 	Burtų Knygos (k100)
 
-| 1  | Animuoti objektą      | 26 | Gravitacijos valdymas | 51 | Mirusiųjų Prikėlimas           | 76  | Statulos Iškvietimas   |
+|   |              |    |                       |    |                      |    |                   |
 | -- | --------------------- | -- | --------------------- | -- | ------------------------------ | --- | ---------------------- |
-| 2  | Antromorfizacija      | 27 | Greitumas             | 52 | Nakties Sfera                  | 77  | Stebuklinga Vila       |
+| 1  | Animuoti objektą      | 26 | Gravitacijos valdymas | 51 | Mirusiųjų Prikėlimas           | 76  | Statulos Iškvietimas   |
+| 2  | Antropomorfizãcija       | 27 | Greitumas             | 52 | Nakties Sfera                  | 77  | Stebuklinga Vila       |
 | 3  | Apkeitimas Vietomis   | 28 | Gyvūno forma          | 53 | Nematomas ryšis                | 78  | Sudaiktėjimas          |
-| 4  | Apkurtinimas          | 29 | Hipnozė               | 54 | Nesibiantys stiklo rutuliukais | 79  | Sugluminimas           |
+| 4  | Apkurtinimas          | 29 | Hipnozė               | 54 | Nesibaigiantys Stiklo Rutuliukai | 79  | Sugluminimas           |
 | 5  | Apsauga               | 30 | Ilgarankis            | 55 | Nuotolinis Stebėjimas          | 80  | Šuolis                 |
 | 6  | Apšvietimas           | 31 | Iliuzijų Spektaklis   | 56 | Nuraminimas                    | 81  | Supratimas             |
 | 7  | Apžavėjimas           | 32 | Įniršis               | 57 | Oro kontroliavimas             | 82  | Šviesulys              |
-| 8  | Arkaniška akis        | 33 | Įrenginys iš piešinio | 58 | Pamišimas                      | 83  | Taikinio Nukreipimas   |
-| 9  | Astralinis kalėjimas  | 34 | Jėgos siena           | 59 | Perkėlimas                     | 84  | Tarpdimensiniai vartai |
-| 10 | Atrakinimas           | 35 | Klastotė              | 60 | Portalas veidrodyje            | 85  | Telekinezė             |
+| 8  | Arkaniška Akis        | 33 | Įrenginys iš piešinio | 58 | Pamišimas                      | 83  | Taikinio Nukreipimas   |
+| 9  | Astralinis Kalėjimas  | 34 | Jėgos siena           | 59 | Perkėlimas                     | 84  | Tarpdimensiniai vartai |
+| 10 | Atrakinimas           | 35 | Klastotė              | 60 | Portalas Veidrodyje            | 85  | Telekinezė             |
 | 11 | Atspindėjimas         | 36 | Krūmas                | 61 | Praraja                        | 86  | Telepatija             |
 | 12 | Atstūmimas            | 37 | Kūno apkeitimas       | 62 | Prasiveržimas                  | 87  | Teleportavimas         |
-| 13 | Augalų kontroliavimas | 38 | Laiko Kontrolė        | 63 | Prikabinimas                   | 88  | Tikras Žvilgsnis       |
+| 13 | Augalų Kontroliavimas | 38 | Laiko Kontrolė        | 63 | Prikabinimas                   | 88  | Tikras Žvilgsnis       |
 | 14 | Burbėjimas            | 39 | Ledinis prisilietimas | 64 | Pritraukimas                   | 89  | Tinklas                |
 | 15 | Burtų Pjūklas         | 40 | Levitavimas           | 65 | Putų fontanas                  | 90  | Uoslė                  |
 | 16 | Burtų Ženklas         | 41 | Lipnumas              | 66 | Rekonstrukcija                 | 91  | Uždanga                |
@@ -447,18 +437,18 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 
 <p></p>
 
-## Daiktų Sąrašas (kaina auksu)
+## Daiktų Sąrašas (Kaina Auksu)
 
 #### Šarvai
 
 |||
 | ------------------------------------ | -- |
-| Skydas (+1 šarvai)                   | 10 |
-| Šalmas (+1 šarvai)                   | 10 |
-| Gambesonas (+1 šarvai)               | 15 |
-| Briuginė (1 šarvai, sunkūs)          | 20 |
-| Grandininė Kelnės (2 šarvai, sunkūs) | 40 |
-| Plieniniai Šarvai (3 šarvai, sunkūs) | 60 |
+| Skydas (+1 Šarvai)                   | 10 |
+| Šalmas (+1 Šarvai)                   | 10 |
+| Gambesonas (+1 Šarvai)               | 15 |
+| Briuginė (1 Šarvai, sunkūs)          | 20 |
+| Grandininė Kelnės (2 Šarvai, sunkūs) | 40 |
+| Plieniniai Šarvai (3 Šarvai, sunkūs) | 60 |
 
 #### Ginklai
 
