@@ -454,12 +454,12 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 
 | |     |
 |-----------------------------------------------------------|-----|
-| Durklas, kuoka, pjautuvas, lazdas ir kt. (d6 žala)               | 5  |
-| Ietis, kardas, kirvis ir kt. (d8 žala)                           | 10 |
-| Alebarda, karo plaktukas, ilgas kardas ir kt. (d10 žala, sunkus) | 20 |
-| Laidynė (d4 žala)                                                | 5  |
-| Lankas (d6 žala)                                                 | 20 |
-| Arbaletas (d8 žala, sunkus)                                      | 30 |
+| Durklas, kuoka, pjautuvas, lazdas ir kt. (k6 žala)               | 5  |
+| Ietis, kardas, kirvis ir kt. (k8 žala)                           | 10 |
+| Alebarda, karo plaktukas, ilgas kardas ir kt. (k10 žala, sunkus) | 20 |
+| Laidynė (k4 žala)                                                | 5  |
+| Lankas (k6 žala)                                                 | 20 |
+| Arbaletas (k8 žala, sunkus)                                      | 30 |
 
 #### Įrankiai
 
@@ -516,7 +516,7 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | Pjautuvas (1d6 žalos)             | Paprastas darbinis ginklas ir įrankis javams pjauti                                |
 | Lopais siūta striukė (+1 Šarvams) | Dėvėta, bet atspari striukė, suteikianti šiokią tokią apsaugą                      |
 | Švytuoklė                         | Padeda rasti vandens telkinius)                                                    |
-| Akies akmuo                       | Sustpirina visus jutimas, jei patalpintas į gėlą vandenį                           |
+| Akies akmuo                       | Patalpintas į gėlą sustiprina visus jutimas                           |
 | Pasidėvėjęs žemėlapis             | Padeda žiniuoniui geriau susigaudyti kelionėse                                     |
 | Žiūronai                          | Leidžia stebėti aplinką iš toli, ieškoti vandens šaltinių ar orientuotis kelionėse |
 
@@ -591,7 +591,7 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 ||
 |-----------------------------------------|
 | Du durklai (k6+k6)               | Puolant abiem iškart gali padaryti dvigubą žalą, metant po kauliuką d6 už kiekvieną durklą. |
-| Gobtuvuotas megztinis (1 Šarvai) | Lengvas šarvas, suteikiantis tam tikrą apsaugą nuo fizinės žalos.                           |
+| Gobtuvas megztinis (1 Šarvai) | Lengvas šarvas, suteikiantis tam tikrą apsaugą nuo fizinės žalos.                           |
 | Atrakinimo įrankiai              | vairūs įrankiai, skirti atrakinti užraktus bei spynas.                                      |
 | Trikampiai dygliai               | Maži metaliniai dygliai, mėtomi ant žemės. Užlipus ant jų, auka sulėtinama ar sužeidžiama.  |
 | Kablio virvė                     | Virvė su specialiu kabliu gale, naudojama kopimui ar daiktų pritraukimui.                   |
@@ -605,7 +605,7 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 | Kirvis (d6)                     | Lengvas ginklas artimoms kautynėms                       |
 | Paminkštintas šarvas (1 Šarvai) | Lengva apsauga, leidžianti išlikti judriam                  |
 | Dideli spąstai                  |                                |
-| Kraujošunis                          | Šuo seklys, gebantis sekti pagal kvapą - 2 GT, 12 VIK, kanda (d6) |
+| Seklys šuo                          | Geba sekti pagal kvapą - 2 GT, 12 VIK, kanda (d6) |
 | Griausmingas ragas              | Naudojamas signalizuoti ar priešams gąsdinti             |
 
 [Grįžti į turinį](#index)
@@ -622,7 +622,7 @@ Kiekvienas iš trijų pagrindinių **gebėjimų** naudojamas skirtingais atvejai
 **Valia** (VAL): Naudojama išbandymams, skirtiems įtikinėti, apgauti, tardyti, bauginti, žavėti, provokuoti, manipuliuoti burtais ir t.t.
 
 ### Išbandymai
-Išbandymai yra kauliukų metimai mėginant išvvengti blogų pasėkmių, su kuriomis galima susidurti dėl rizikingų pasirinkimų ar aplinkybių. Žaidėjo veikėjas (angl. player character, PC) meta d20 atinkamai savybei. Jeigu jie išridena skaičių, lygų arba mažesnį nei jų tikrinimas gebėjimas, jie išlaiko šį išbandymą sėkmingai. Priešingu atveju, jie neišlaiko šio išbandymo. Išridentas 1 visada reiškia sėkmę, o 20 - nesėkmę.
+Išbandymai yra kauliukų metimai mėginant išvvengti blogų pasėkmių, su kuriomis galima susidurti dėl rizikingų pasirinkimų ar aplinkybių. Žaidėjo veikėjas meta k20 atinkamai savybei. Jeigu jie išridena skaičių, lygų arba mažesnį nei jų tikrinimas gebėjimas, jie išlaiko šį išbandymą sėkmingai. Priešingu atveju, jie neišlaiko šio išbandymo. Išridentas 1 visada reiškia sėkmę, o 20 - nesėkmę.
 
 <details markdown="block">
   <summary>
@@ -634,7 +634,7 @@ Išbandymai yra kauliukų metimai mėginant išvvengti blogų pasėkmių, su kur
 ### Gydymas
 Trumpas poilsis ir gurkšnis vandens atstato praprastus Gyvybės Taškus (angl. Hit Protection, HP), tačiau palieka personažus neapsaugotus. Savybių praradimą paprastai galima atstatyti po savaitės poilsio, padedant gydytojui arba aplankant atitinkamas vietas. Kai kurios iš šių paslaugų yra nemokamos, o magiškos ar greitesnės gydytmo priemonės gali kainuoti.
 
-### Išsekimas ir nuovargis
+### Išsekimas ir Nuovargis
 Žaidėjo veikėjas negalintis patenkinti savo svarbiausių poreikių (tokių kaip alkis ir poilsis) negali atgauti Gynybos Taškų (GT) ir Gebėjimų Taškų. Jei personažas yra išsekęs ilgiau nei vieną dieną, jis prideda Nuovargį į savo inventorių už kiekvieną tokią dieną. Kiekvienas nuovargis užima vieną vietą inventoriuje ir juo negalima atsikratyti, kol veikėjas neras progas pailsėti ir sustiprėti (pavyzdžiui pamiegoti saugioje vietoje). Veikėjas taip pat patiria/gauna nuovargį leisdamas kerus arba dėl kitokių žaidimo pasaulyje vykstančių įvykių.
 
 ### Šarvai
@@ -643,7 +643,7 @@ Trumpas poilsis ir gurkšnis vandens atstato praprastus Gyvybės Taškus (angl. 
 - Skydai, pirštines ir šalmai gali suteikti ir kitokios naudos, o ne vien tik apsaugą nuo žalos.
 
 ### Reakcijos
-Žaidėjo veikėjui susidūrus su žaidimo personažais, kurių reakcija į žaidėją nėra akivaizdi, žaidimo meistras gali remtis žemiau esančia lentele (2d6), kad nustatytų šių personažų reakciją:
+Žaidėjo veikėjui susidūrus su žaidimo personažais, kurių reakcija į žaidėją nėra akivaizdi, žaidimo meistras gali remtis žemiau esančia lentele (2k6), kad nustatytų šių personažų reakciją:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
@@ -656,7 +656,7 @@ Priešai netekę savo pirmo bendro ir netekę pusės savo grupės narių, turi i
 ### Samdiniai
 Žaidėjų veikėjai gali pasisamdyti samdinius, kurie gali jiems padėti ekspedicijų metu. Norėdamas sukurti samdinį, mesk 3d6 kiekvienam savybės balui, duok jiems 1d6 gynybos taškų ir paprastą ginkl (d6). Tuomet ridnk personažo kūrimo lentelėse, kad suteiktum jiems daugiau detalių. Samdiniai kainuoja 1-3 aukso per dieną, arbą dalį bet kokio lobio, kurį suranda grupė.
 
-### Wealth & Treasure
+### Turtai ir Lobiai
 Dažniausia naudojama moneta yra auksinė (au), kuri yra lygi 10 sidabrinių monetų (si) ir 100 varinių monetų (va).
 
 Lobiai Kerne yra labai vertingi, dažniausiai didelių gabaritų ir retai kada naudingi kkiu kitu būdų, išskyrus savo turtinę vertę. Lobiai turėtų paskatinti žaidėjų personažus patraukti į pavojingas ir egzotiškas vietas. Dažnai jie yra saugomi bauginančių priešų.
