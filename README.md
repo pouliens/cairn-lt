@@ -13,7 +13,7 @@ permalink: /
 * Originalus Affinity Publisher failas taip pat yra prieinamas parsisiuntimui.
 
 Šiam žaidimui yra svarbus jo bendruomenės indėlis. Jeigu nori pasidalinti savo nuotykiais, modifikacijomis, monstrais ar adaptacijomis į kitas sistemas, gali rasti daugiau informacijos kaip prisidėti prie jo kūrimo čia:
-* Lietuviška versija
+* [Lietuviška versija](https://pouliens.github.io/cairn-lt/)
 * [Angliška versija](/submissions/submission-guide)
 
 <p></p>
