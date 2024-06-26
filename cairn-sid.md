@@ -654,21 +654,21 @@ Trumpas poilsis ir gurkšnis vandens atstato praprastus Gyvybės Taškus (angl. 
 Priešai netekę savo pirmo bendro ir netekę pusės savo grupės narių, turi išlaikyti VALIOS išbandymą, kad neišsibėgiotų. Kai kurios priešų grupės gali naudoti jų grupės vado VALIĄ šiems išbandymams. Atskiri priešai atlieka VALIOS išbandymą, kai jų gynybos taškai nukrenta iki 0. Moralė nedaro įtakos žaidėjų veikėjams.
 
 ### Samdiniai
-Žaidėjų veikėjai gali pasisamdyti samdinius, kurie gali jiems padėti ekspedicijų metu. Norėdamas sukurti samdinį, mesk 3d6 kiekvienam savybės balui, duok jiems 1d6 gynybos taškų ir paprastą ginkl (d6). Tuomet ridnk personažo kūrimo lentelėse, kad suteiktum jiems daugiau detalių. Samdiniai kainuoja 1-3 aukso per dieną, arbą dalį bet kokio lobio, kurį suranda grupė.
+Žaidėjai gali pasisamdyti samdinius, kurie padės ekspedicijų metu. Norėdamas sukurti samdinį, ridenk 3k6 kiekvienam savybės balui, duok jiems 1k6 gynybos taškų ir paprastą ginklą (k6). Tuomet ridenk [personažo savybių lentelėse](#). Samdiniai kainuoja 1-3 aukso per dieną, arba dalį bet kokio lobio, kurį suranda grupė.
 
 ### Turtai ir Lobiai
 Dažniausia naudojama moneta yra auksinė (au), kuri yra lygi 10 sidabrinių monetų (si) ir 100 varinių monetų (va).
 
-Lobiai Kerne yra labai vertingi, dažniausiai didelių gabaritų ir retai kada naudingi kkiu kitu būdų, išskyrus savo turtinę vertę. Lobiai turėtų paskatinti žaidėjų personažus patraukti į pavojingas ir egzotiškas vietas. Dažnai jie yra saugomi bauginančių priešų.
+Lobiai Kerne yra vertingi, dažniausiai gremėzdiški ir retai kada naudingi kitaip, nei savo turtine verte. Lobiai turėtų paskatinti žaidėjus traukti į pavojingas ir egzotiškas vietas. Lobiai dažniausiai yra saugomi bauginančių priešų.
 
 Kaimai, tvirtovės ir uostai prekiauja, remdamiesi vietiniu daikto ar prekės retumu ir verte.
 
 ## Magija
 **Burtų knygos** talpina vieną burtą ir užima vieną inventoriaus vietą. Jos negali būti perrašytos arba sukurtos; jos yra aptinkamos tokiose vietose kaip kapai, požemiai ir dvarai.
 
-Burtų knygos kartais pasižymi neįprastomis savybėmis ar apribojimais, pavyzdžiui, skleidžia nemalonų ar nežemišką kvapą atverstos, turi savitą intelektą, arba gali būti perskaitytos tik laikomos mėnesienoje.
+Burtų knygos kartais pasižymi neįprastomis savybėmis ar apribojimais, pavyzdžiui, atverstos skleidžia nemalonų ar nežemišką kvapą, turi savitą intelektą, arba gali būti perskaitytos tik laikomos mėnesienoje.
 
-Burtų knygos pritraukia tuos, kurie ieško jose slypinčios paslaptingos galios, todėl laikoma pavojinga jas atvirai demonstruoti.
+Burtų knygos pritraukia tuos, kurie ieško jose slypinčių mistinių galių, todėl laikoma pavojinga jas atvirai demonstruoti.
 
 **Burtų Raštai** yra panašūs į Burtų Knygas, tačiau jie:
 
@@ -677,10 +677,14 @@ Burtų knygos pritraukia tuos, kurie ieško jose slypinčios paslaptingos galios
 - Dingsta po vienkartinio panaudojimo
 
 ### Burtų Naudojimas
-Žaidėjų veikėjai norėdami naudoti burtus, turi laikyti burtų knygą abiejose rankose ir garsiai ją skaityti. Panaudojus burtus, jie turi pridėti Nuovargį į savo inventorių. Turėdami laiko ir būdami saugioje vietoje, žaidėjų personažai gali sustiprinti burto poveikį (pvz., paveikti kelis taikinius, padidinti jo galią ir pan.) be jokių papildomų reikalavimų. Jei žaidėjas yra pavargęs arba pavojuje, žaidimo meistras gali paprašyti žaidėjo atlikti Valios (VAL) išbandymą, kad išvengtų neigiamų burto naudojimo pasėkmių. Neišlaikius išbandymo, pasėkmės turėtų būti lygiavertės numatytam burto efektui. Jei burto efektas nebuvo itin galingas - žaidėjas nesėkmės atveju gali gauti tiesiog daugiau Nuovargio. Tačiau jei burtas buvo labai galingas ir žaidėjas neišlaikė VAL išbandymo, pasėkmės gali būti blogesnės - sunaikinta burtų knygą, sužeistas žaidėjas ar jo bendražygiai, o kai kurias atvejais galbūt net mirtis. 
+Žaidėjų veikėjai norėdami naudoti burtus, turi laikyti burtų knygą abiejose rankose ir garsiai ją skaityti. Panaudojus burtus, pridėk Nuovargį į savo inventorių. 
+
+Turėdami laiko ir būdami saugioje vietoje, žaidėjų personažai gali sustiprinti burto poveikį (pvz., paveikti kelis taikinius, padidinti jo galią ir pan.) be jokių papildomų reikalavimų.
+
+Jei personažas yra pavargęs arba pavojuje, žaidimo meistras gali paprašyti žaidėjo atlikti Valios (VAL) išbandymą, kad jie išvengtų neigiamų burto naudojimo pasekmių. Neišlaikius išbandymo, pasekmės turėtų būti lygiavertės panaudoto burto efektui. Jei burto efektas nebuvo itin galingas - žaidėjas nesėkmės atveju gali gauti daugiau Nuovargio. Tačiau, jei burtas buvo labai galingas ir žaidėjas neišlaikė VAL išbandymo, pasekmės gali būti blogesnės - sunaikinta burtų knygą, sužeistas žaidėjas ar jo bendražygiai, o kai kurias atvejais galbūt net mirtis. 
 
 ### Relikvijos
-**Relikvijos** yra daiktai, persmelkti magiškų burtų ar mistinių galių. Jos nesukelia nuovargio. Relikvijos paprastai turi ribotą panaudojimo skaičių ir specifines "atsinaujinimo" sąlygas. Keletas pavyzdžių:
+**Relikvijos** yra daiktai, persmelkti magiškų burtų ar mistinių galių. Jos nesukelia nuovargio. Relikvijos paprastai turi ribotą panaudojimo skaičių ir specifines „atsinaujinimo“ sąlygas. Pavyzdžiui:
 
 **Medaus Sagtis**, 3 panaudojimai. Surūdijęs žiedas, sumažinantis jį nešiojantį asmenį iki 20 cm dydžio. Atsinaujinimas: įdėti į bičių pienelio puodelį.
 
@@ -688,12 +692,12 @@ Burtų knygos pritraukia tuos, kurie ieško jose slypinčios paslaptingos galios
 
 **Tylos Lazda**, 1 panaudojimas. Šis pajuodęs strypas laikinai panaikina visą magiją 15m spinduliu. Atsinaujinimas: panardinti į vandenį pilnaties šviesoje.
 
-**Energetinis Grybas**, 1 panaudojimas. Bet kas, suvalgęs šį žalsvai dėmėtą grybą, praranda vieną Nuovargį, tačiau turi atlikti Valios (VAL) išbandymą, kad išvengtų jo priklausomybę sukeliančių savybių. Nepasisekus, žaidėjo veikėjas **Išsekęs** ir nesugebantis susikaupti, kol nesuvalgys kito Energetinio Grybo, suteiksiančio tik trumpą atokvėpį nuo priklausomybės.
+**Energetinis Grybas**, 1 panaudojimas. Bet kas suvalgęs šį žalsvai dėmėtą grybą, praranda vieną Nuovargį, tačiau turi atlikti Valios (VAL) išbandymą, kad išvengtų jo priklausomybę sukeliančių savybių. Nepasisekus, veikėjas tampa **Išsekęs** ir nesugebantis susikaupti, kol nesuvalgys kito Energetinio Grybo, suteiksiančio tik trumpą atokvėpį nuo priklausomybės.
 
 ## Kova
 
 ### Raundai
-Žaidimas dažniausiai nereikalauja labai tikslaus laiko skaičiavimo. Kovos metu ar kitomis aplinkybėmis, kur laikas gali būti svarbus, remkitės raundais, kad išlaikytumėte įvykių seką. Vienas raundas atitinka maždaug dešimt žaidimo sekundžių ir yra sudarytas iš **Ėjimų**.
+Žaidimas dažniausiai nereikalauja labai tikslaus laiko skaičiavimo. Kovos metu ar kitomis aplinkybėmis, kur laikas gali būti svarbus, remkitės raundais, kad išlaikytumėte įvykių seką. Vienas **raundas** atitinka maždaug dešimt žaidimo sekundžių ir yra sudarytas iš *ėjimų*.
 
 ### Veiksmai
 Savo ėjimo metu veikėjas gali nueiti iki 10 metrų ir atlikti vieną veiksmą. Tai gali būti burtažodžio skaitymas, puolimas, antras ėjimas ar kitas logiškas veiksmas.
@@ -703,32 +707,25 @@ Kiekvieną raundą, veikėjai paskelbia, ką darys, prieš metant kauliukus. Jei
 ### Ėjimai
 Žaidimo meistras turėtų pranešti apie labiausiai tikėtinus veiksmus, kuriuos gali atlikti nežeidėjų personažai arba pabaisos. Kovos pradžioje kiekvienas žaidėjo personažas turi atlikti Vikrumo (VIK) išbandymą. Išlaikius šį išbandymą, žaidėjas galės atlikti savo veiksmus prieš oponentus. Neišlaikius - oponentas eis pirmas.
 
-<details markdown="block">
-  <summary>
-    Pavyzdys
- </summary>
-    _Miško Trolis užsimoja savo kuoka ir trenkia ja į Bea, kuri turi 5 gynybos taškus (HP). Kuoka daro 1d10 žalos ir žaidimimo meistras išridena 4. Nuo šio skaičiaus jie atima 1, nes Bea vilki odinius šarvus, kurie jai suteikia šia apsaugą. Miško Trolis tada padaro Bėjai 3 žalos ir jai lieka 2 Gynybos Taškai (HP)._
-</details>
-
 ### Puolimas ir Žala
 Puolantis žaidėjas ridena savo giklo kauliuką ir atima priešo šarvų reikšmę - likęs skaičius bus žala padaryta priešo ginybos taškams (GT). Ataka be ginklo (kumščiais) visada daro 1k4 žalos.
 
 <details markdown="block">
   <summary>
-    Pavyzdys
+Pavyzdys
  </summary>
-    *Miško Trolis užsimoja savo kuoka ir trenkia ja į Bėja, kuri turi 5 gynybos taškus (HP). Kuoka daro 1d10 žalos ir žaidimimo meistras išridena 4. Nuo šio skaičiaus jie atima 1, nes Bėja vilki odinius šarvus, kurie jai suteikia apsaugos. Miško Trolis tada padaro Bėjai 3 žalos ir jai lieka 2 Gynybos Taškai (GT).*
+ _Miško Trolis užsimoja savo kuoka ir trenkia ja į Bėja, kuri turi 5 gynybos taškus (HP). Kuoka daro 1d10 žalos ir žaidimimo meistras išridena 4. Nuo šio skaičiaus jie atima 1, nes Bėja vilki odinius šarvus, kurie jai suteikia apsaugos. Miško Trolis tada padaro Bėjai 3 žalos ir jai lieka 2 Gynybos Taškai (GT)._
 </details>
 
 ### Keli Puolėjai
 Jei keli puolėjai atakuoja tą patį priešą, meskite visus žalos kauliukus ir pasilikit tik didžiausią rezultatą.
 
 ### Atakos Modifikatoriai
-*** Atakavimas iš silpnos pozicijos (pavyzdžiui, iš už uždangos ar surištomis rankomis)**: 
-Tokia ataka yra silpnesnė ir puolėjas turi mesti tik 1d4, nepaisant įprasto ginklo žalos kauliuko.
+**Atakavimas iš silpnos pozicijos (pavyzdžiui, iš už uždangos ar surištomis rankomis)**: 
+Tokia ataka yra silpnesnė ir puolėjas turi mesti tik 1k4, nepaisant įprasto ginklo žalos kauliuko.
 
-*** Atakavimas iš silpnos pozicijos (pavyzdžiui, iš už uždangos ar surištomis rankomis): **
-Tokia ataka yra silpnesnė ir puolėjas turi mesti tik 1d4, nepaisant įprasto ginklo žalos kauliuko.
+**Atakavimas iš stiprios pozicijos (pavyzdžiui, prieš silpną priešą ar palankios pozicijos):**
+Tokia ataka yra stipresnė ir puolėjas gali mesti 1k12, nepaisant įprasto ginklo žalos kauliuko.
 
 ### Dviejų Ginklų Naudojimas
 Jei žaidėjo veikėjas puola dviem ginklais, mesk abu žalos kauliukus ir pasilik tik didžiausią rezultatą.
@@ -741,11 +738,11 @@ Jei žaidėjo veikėjo ar priešo Gynybos Taškai (GT) nukrenta iki nulio - liku
 
 Žaidėjo veikėjas patyręs kritinę žalą, negali nieko daryti tik bejėgiškai ropoti, kabindamasis į gyvenimą. Jei jiems bus suteikta pagalba ir poilsis, jie stabilizuosis. Jei jie tos pagalbos negaus - mirs per valandą.
 
-### Gebėjimų Taškų Praradimas
+### Savybių Taškų Praradimas
 Jei žaidėjo Jėga (JĖG) nukrenta iki 0 - jie miršta. Jei jų Vikrumas (VIK) nukrenta iki 0 - jie yra paraližuojami. Jei jų Valia (VAL) nukrenta iki nulio - jie išprotėja. Visiškas Vikrumo ir Valios praradimas padaro veikėją visiškai neveikliu, kol šie taškai nebus atstatyti ilgu poilsiu arba magija ar kitokiais ypatingais gebėjimais.
 
 ### Randai
-Jei personažo gyvybės taškai nukrenta lygiai iki 0, jie įgija **Randą**, kuris juos negrįžtamai pakeičia. Įmanomi pokyčiai yra aprašyti [Randų lentelėje](#). Randas priklauso nuo personažui padarytos žalos, kuri prilygino ją nuliui. Randai turi tikimybę padaryti tavo personažą stipresniu.
+Jei personažo Gynybos Taškai nukrenta lygiai iki 0, jie įgija **Randą**, kuris juos negrįžtamai pakeičia. Įmanomi pokyčiai yra aprašyti [Randų lentelėje](#). Randas priklauso nuo personažui padarytos žalos, kuri prilygino ją nuliui. Randai turi tikimybę padaryti tavo personažą stipresniu.
 
 <details markdown="block">
   <summary>
@@ -836,7 +833,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 - Kritinė žala turėtų atspindėti priešų agresyvių priešų grėsmę ir keistumą.
 - Atmink, kad GT yra apsauga nuo smūgių (**Gynybos Taškai**), o ne Gyvybės Taškai (Hit Points)**.** Tai atsparumo, sėkmės ir atkaklumo – ne sveikatos – matas.
 
-<details markdown="block">
+<!-- <details markdown="block">
   <summary>
     Konvertavimas iš OSR (Old School Revival) Žaidimų
  </summary>
@@ -845,7 +842,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
     - Dauguma žmogiškų padarų turi bent 4 GT
     - Moralė taip pat gali būti naudojama kaip bazinis GT (Gynybos Taškai)
     - Žalos kauliukai dažniausiai yra panašūs tarp Cairn ir OSR ir nereikalauja vertimo. Tačiau atakos ginklu dažniausiai daro bent 1d6 žalos.
-</details>
+</details> -->
 
 **Keletas patarimų priešų kūrimui:**
 - Priešas puikiai išvengia tavo smūgių? Suteik jam daugiau GT (Gynybos Taškų).
