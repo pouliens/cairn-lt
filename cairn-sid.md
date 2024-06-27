@@ -739,7 +739,9 @@ Jei žaidėjo veikėjo ar priešo Gynybos Taškai (GT) nukrenta iki nulio - liku
 Žaidėjo veikėjas patyręs kritinę žalą, negali nieko daryti tik bejėgiškai ropoti, kabindamasis į gyvenimą. Jei jiems bus suteikta pagalba ir poilsis, jie stabilizuosis. Jei jie tos pagalbos negaus - mirs per valandą.
 
 ### Savybių Taškų Praradimas
-Jei žaidėjo Jėga (JĖG) nukrenta iki 0 - jie miršta. Jei jų Vikrumas (VIK) nukrenta iki 0 - jie yra paraližuojami. Jei jų Valia (VAL) nukrenta iki nulio - jie išprotėja. Visiškas Vikrumo ir Valios praradimas padaro veikėją visiškai neveikliu, kol šie taškai nebus atstatyti ilgu poilsiu arba magija ar kitokiais ypatingais gebėjimais.
+Jei žaidėjo Jėga (JĖG) nukrenta iki 0 - jie miršta. Jei jų Vikrumas (VIK) nukrenta iki 0 - jie yra paraližuojami. Jei jų Valia (VAL) nukrenta iki nulio - jie išprotėja. 
+
+Visiškas VIK ir VAL praradimas padaro veikėją neveikliu, kol šie taškai nebus atstatyti ilgu poilsiu, magija ar kitokiais ypatingais gebėjimais.
 
 ### Randai
 Jei personažo Gynybos Taškai nukrenta lygiai iki 0, jie įgija **Randą**, kuris juos negrįžtamai pakeičia. Įmanomi pokyčiai yra aprašyti [Randų lentelėje](#). Randas priklauso nuo personažui padarytos žalos, kuri prilygino ją nuliui. Randai turi tikimybę padaryti tavo personažą stipresniu.
@@ -756,24 +758,24 @@ Jei personažo Gynybos Taškai nukrenta lygiai iki 0, jie įgija **Randą**, kur
 | 1 | **Ilgalaikis randas:** Ridenk 1d6; 1: Kaklas, 2: Plaštakos, 3: Akis, 4: Krūtinė, 5: Kojos, 6: Ausis. Jei rezultatas yra didesnis nei tavo maksimalūs GT (gynybos taškai  - HP), šis skaičius bus tavo naujas GT. |
 | 2 | **Sukrečiantis smūgis:** Tu esi pasimetęs ir sutrikęs. Apibūdink, kaip tu atgauni koncentraciją. Ridenk 1d6. Jei rezultatas yra didesnis nei tavo maksimalūs GT (gynybos taškai  - HP), šis skaičius bus tavo naujas GT. |
 | 3 | **Sutrenkimas:** Smūgis tave nubloškia kelis metrus atgal ir tu nusileidu veidu ant žemės, pritrenktas. Tu būsi išsekęs kol keletą valandų negalėsi pailsėti. Tada ridenk 1d6. Pridėk šį rezultatą prie savo maksimalių GT (Gynybos taškų - HP). |
-| 4 | **Sulaužyta galūnė:** Mesk 1k6; 1-2: Koja, 3-4: Ranka, 5: Šonkaulis, 6: Kaukolė. Lūžiui sugijus, mesk 2k6. Jei rezultatas yra didesnis už tavo maksimalius GT (gyvybės taškai - HP), šis skaičius bus tavo naujas GT. |
+| 4 | **Sulaužyta Galūnė:** Mesk 1k6; 1-2: Koja, 3-4: Ranka, 5: Šonkaulis, 6: Kaukolė. Lūžiui sugijus, mesk 2k6. Jei rezultatas yra didesnis už tavo maksimalius GT (gyvybės taškai - HP), šis skaičius bus tavo naujas GT. |
 | 5 | **Susirgimas:** Tave vargina šlykšti, nemaloni infekcija. Kai pasveiksi, mesk 2k6. Jeigu bendra suma yra didesnė, negu tavo maksimalūs gyvybės taškai (HP), šis skaičius bus tavo naujas GT. |
-| 6 | **Smegenų sumušimas:** Ridenk 1k6; 1-2: JĖG, 3-4: VIK 5-6: VAL. Ridenk 3k6. Jeigu bendra suma yra didesnė nei esama savybės reikšmė, šis skaičius bus tavo nauja savybė. |
-| 7 | **Trūkęs raištis:** Kol negausi rimtos pagalbos, tau bus labai sunku judėti. Po pasveikimo ridenk 3k6. Jei bendra suma yra didesnė nei tavi maksimalus Vikrumas (VIK), šis skaičius bus tavo naujas VIK. |
+| 6 | **Smegenų Sumušimas:** Ridenk 1k6; 1-2: JĖG, 3-4: VIK 5-6: VAL. Ridenk 3k6. Jeigu bendra suma yra didesnė nei esama savybės reikšmė, šis skaičius bus tavo nauja savybė. |
+| 7 | **Trūkęs Raištis:** Kol negausi rimtos pagalbos, tau bus labai sunku judėti. Po pasveikimo ridenk 3k6. Jei bendra suma yra didesnė nei tavi maksimalus Vikrumas (VIK), šis skaičius bus tavo naujas VIK. |
 | 8 | **Apkurtintas:** Tu nieko negirdi, kol negausi pagalbos. Nepaisant to, atlik Valios (VAL) išbandymą. Jei šį išbandymą išlaikysi, padidink savo maksimalią VAL reiškmę 1k4. |
-| 9 | **Gilus smegenų sutrenkimas:** Smūgis buvo toks stiprus - atrodo, kad dalis tavo sąmonės atitrūko nuo tavo smegenų. Ridenk 3k6. Jei bendra suma yra didesnė neghu tavo maksimali Valia (VAL), šis skaičius bus tavo nauja Valia. |
-| 10 | **Nuplėšta galūnė:** Viena iš tavo galūnių buvo nuplėštą, suluošinta arba tapo visai nenaudinga. Žaidimo meistras nuspręs, kas jai nutiko. Tada atlik Valios (VAL) išbandymą. Išlaikius šį išbandymą, padidink savo maksimalią Valią 1d6. |
-| 11 | **Mirtina žaizda:** Tu esi išsekęs ir nebegali kovoti - mirsi per valandą, jei nebūsi išgydytas. Pasveikęs, ridenk 2k6. Šis rezultatas bus tavo nauja Gynybos Taškų (GT) reikšmė. |
+| 9 | **Gilus Smegenų Sutrenkimas:** Smūgis buvo toks stiprus - atrodo, kad dalis tavo sąmonės atitrūko nuo tavo smegenų. Ridenk 3k6. Jei bendra suma yra didesnė neghu tavo maksimali Valia (VAL), šis skaičius bus tavo nauja Valia. |
+| 10 | **Nuplėšta Galūnė:** Viena iš tavo galūnių buvo nuplėštą, suluošinta arba tapo visai nenaudinga. Žaidimo meistras nuspręs, kas jai nutiko. Tada atlik Valios (VAL) išbandymą. Išlaikius šį išbandymą, padidink savo maksimalią Valią 1d6. |
+| 11 | **Mirtina Žaizda:** Tu esi išsekęs ir nebegali kovoti - mirsi per valandą, jei nebūsi išgydytas. Pasveikęs, ridenk 2k6. Šis rezultatas bus tavo nauja Gynybos Taškų (GT) reikšmė. |
 | 12 | **Pasmerkimas:** Mirtis buvo nepaprastai arti, tačiau kažkaip išgyvenai. Jei neišlaikysi sekančio išbandymo prieš kritinę žalą, mirsi siaubinga mirtimi. Jei išlaikysi šį išbandymą, ridenk 3k6. Jei bendra suma yra didesnė už tavo maksimalią Gynybos Taškų (GT) reikšmę, šis skaičius bus tavo naujas GT. |
 
 ### Sąmonės Praradimas ir Mirtis
-Kai veikėjas miršta, žaidėjas gali laisvai sukurti naują veikėją arba perimti samdinio kontrolę. Naujas veikėjas ar samdinys nedelsiant prisijungia prie grupės, kad žaidėjui nereiktų laukti nieko neveikiant. Šis naujo veikėjo atsiradimas gali būti kaip nors įpintas į bendrai kuriamą istoriją. Galbūt kiti žaidėjai sutinka pasiklydusį karį, klajojantį šventiką ar išlaisvina plešikų pagrobtus įkaitus.
+Kai veikėjas miršta, žaidėjas gali susikurti naują veikėją arba perimti samdinio kontrolę. Naujas veikėjas ar samdinys nedelsiant prisijungia prie grupės, kad žaidėjui nereiktų laukti nieko neveikiant. Šis naujo veikėjo atsiradimas gali būti įpintas į bendrai kuriamą istoriją: galbūt kiti veikėjai sutinka pasiklydusį karį, klajojantį šventiką ar išlaisvina plėšikų pagrobtus įkaitus.
 
 ### Būriai
-Didelės grupės panašių kovotojų, besikaunančių kartu, yra laikomos vienu būriu. Kai būrys patiria kritinę žalą, jis išsisklaido arba yra smarkiai susilpninamas. Kuomet būrio Jėga (JĖG) pasiekia 0, jis syra sunaikinamas.
+Didelės grupės panašių kovotojų, besikaunančių kartu, yra laikomos vienu būriu. Kai būrys patiria kritinę žalą, jis išsisklaido arba yra smarkiai susilpninamas. Kuomet būrio Jėga (JĖG) pasiekia 0, jis yra sunaikinamas.
 
 * Pavienių kovotojų atakos prieš būrius yra **susilpnintos** (išskyrus sprogmenų žalą).
-* Būrių atakos prieš pavienius kovotojus yra **sustiprintos** ir daro sprogimo žalą.
+* Būrių atakos prieš pavienius kovotojus yra **sustiprintos** ir daro *sprogstamą* žalą.
 
 ### Atsitraukimas
 Pasprukimas iš pavojingos situacijos visada reikalauja sėkmingo Vikrumo (VIK) išbandymo, taip pat saugios vietos, kur būtų galima atsitraukti.
@@ -782,56 +784,56 @@ Pasprukimas iš pavojingos situacijos visada reikalauja sėkmingo Vikrumo (VIK) 
 [Grįžti į turinį](#index)
 <p></p>
 
-## Priešų sąrašas
+## Priešų Sąrašas
 
-**Šakniastiebis Goblinas**
+**Šakniastiebis Goblinas**\
 4 GT, 8 JĖG, 14 VIK, 8 VAL, ietis (k6)
 - Vengia kovos, nebent turi pranašumą (pavyzdžiui, gausesnes pajėgas).
 - Saugo savo pavogtus daiktus iki mirties.
 - Vertina Užkeikimų Knygas; noriai jas išmainys.
 
-**Raganiai su Gobtuvais**
-12 GT, 9 JĖG, 12 VIK, 14 VAL, burtų lazda (k8), Užkeikimų Knyga su vienu iš burtų (Ridenk 1d4: 1 - *Žavesys, 2 - Hipnozė, 3 - Pastūmimas/Patraukimas, 4 - Skydas*)
+**Raganiai su Gobtuvais**\
+12 GT, 9 JĖG, 12 VIK, 14 VAL, burtų lazda (k8), Užkeikimų Knyga su vienu iš burtų (Ridenk 1k4: 1 - *Žavesys, 2 - Hipnozė, 3 - Pastūmimas/Patraukimas, 4 - Skydas*)
 - Miško Stebėtojai; kultas, kuris savo galią semią iš požėmių, runų ir kitų nešventų vietų ir daiktų.
 - Kritinė žala: išsiurbia dalį aukos sielos (1k4 VAL žalos).
 
-**Akmeniniai Skalikai**
+**Akmeninis Skalikas**\
 12 GT, 2 Šarvai, 14 JĖG, 1 VIK, 8 VAL, įkandimas (k10)
 - Panašūs į nejudančias statulas, naudojamas didžių kapų ir šventovių suagojimui.
 - Atsparūs įprastiems įtikinėjimo metodamas - tačiau dievine gerą kaulą.
 
-**Miško Trolis**
+**Miško Trolis**\
 12 GT, 15 JĖG, 12 VIK, 7 VAL, nagai ir dantys (k8+k8 sprogstanti žala)
 - Savo ėjimo metu gali atgauti prarastu Gynybos Taškus (GT), išnaudodamas savo veiksmą
 - Kritinė žala: samanos ir šakos pradeda augti iš aukos žaizdų.
 
-**Šaltakraujis Elfas**
-14 GT, 1 Šarvai, 8 JĖG, 13 VIK, 14 VAL, ledo varveklio durklas (k6), Užkeikimų Knyga su vienu iš burtų (Ridenk 1d3: Miegas, Teleportacija, Magijos aptikimas)
-- Gražūs, amoralūs, ilgaamžiai.
+**Šaltakraujis Elfas**\
+14 GT, 1 Šarvai, 8 JĖG, 13 VIK, 14 VAL, ledo varveklio durklas (k6), Užkeikimų Knyga su vienu iš burtų (Ridenk 1k3: *Miegas, Teleportacija, Magijos aptikimas*)
+- Dailūs, be skrupulų, ilgaamžiai.
 - Atsparūs daugumai magijos formų.
 
-**Pelkių Kaukas**
+**Pelkių Kaukas**\
 3 GT, 4 JĖG, 17 VIK, 13 VAL, purvas (k4)
 - Laukinis, plaukuotas apgavikas, mėgstantis erzinti ir kelti sumaištį
 - Labiausiai vertina relikvijas ir blizgius niekučius, tačiau nenori jų mainyti į monetas.
 - Pelkių kaukai turi vardus, kurie apibūdina jų tikrąją prigimtį. Žinant tikrąjį kauko vardą, jį galima valdyti.
-- **Magija:** Pelkių Kaukas gali prikelti negyvus daiktusdaiktus, sėti sumaištį, kurti magiškas iliuzijas, naudoti telekinezę ir teleportaciją.
+- **Magija:** Pelkių Kaukas gali prikelti negyvus daiktus, sėti sumaištį, kurti magiškas iliuzijas, naudoti telekinezę ir teleportaciją.
 
 ### Monstrų Kūrimas
 Kurdamas žaidimo priešus ar personažus gali naudoti šį šabloną:
 
-**Vardas**
+**Vardas**\
 X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės)
 - Išvaizdos ir elgesio apibūdinimas
 - Keistenybė, taktika, ar ypatinga savybė, išskirianti šį priešą ar personažą
 - Specialus efektas arba kritinės žalos pasekmė
 
-**Bendri Principai**
-**Savybės**: 3 yra nevisavertis, 6 yra silpnas, 10 yra vidutiniškas, 14 yra išskirtinis gerai, 18 yra legendinis lygis. Pritaikyk šiuos skaičius pagal savo žaidimo poreikį.
-- Vidutinėms būtybėms suteikite 3 GT, atsparesnėms - 6 GT, o rimtai pavojingoms - 10 ar daugiau GT.
-- Suteik personažam unikalių savybių, kad jie būtų įsimintesni. Žaidėjai lengviau įsimins kiaulės veido humanoidą, ieškantį savo dingusios avies, nei įprastą goblinų lankininką.
-- Kritinė žala turėtų atspindėti priešų agresyvių priešų grėsmę ir keistumą.
-- Atmink, kad GT yra apsauga nuo smūgių (**Gynybos Taškai**), o ne Gyvybės Taškai (Hit Points)**.** Tai atsparumo, sėkmės ir atkaklumo – ne sveikatos – matas.
+**Bendri Principai**\
+**Savybės**: 3 - nevisavertis, 6 - silpnas, 10 - vidutiniškas, 14 - išskirtinis, 18 - legendinis lygis. Pritaikyk šiuos skaičius pagal savo žaidimo poreikį.
+- Vidutinėms būtybėms suteik 3 GT, atsparesnėms - 6 GT, o ypač pavojingoms - 10 ar daugiau GT.
+- Suteik personažams unikalių savybių, kad jie būtų įsimintesni. Žaidėjai lengviau įsimins karį su avino galva, ieškantį savo pamesto rago, nei įprastą gobliną.
+- Kritinė žala turėtų atspindėti priešų grėsmę ir keistumą.
+- Atmink, kad **GT** yra apsauga nuo smūgių (**Gynybos Taškai**), o ne Gyvybės Taškai (*HP - Hit Points*). Tai atsparumo, sėkmės ir ryžto, o ne sveikatos matas.
 
 <!-- <details markdown="block">
   <summary>
@@ -856,8 +858,8 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 
 ## 100 Burtų
 
-|      |                                         |                                                              |
-| ---- | --------------------------------------- | ------------------------------------------------------------ |
+|    |                                  |               |
+|----|----------------------------------------|---------|
 | 1 | [Animuoti Objektą](#animuoti-objektą) | Objektas geriausiai kaip įmanydamas paklūsta tavo komandoms. |
 | 2 | Antropomorfizuoti | Gyvūnas vienai dienai įgauna arba žmogaus intelektą, arba žmogaus išvaizdą. |
 | 3 | Apkurtimas | Visi aplinkiniai padarai apkursta. |
@@ -957,7 +959,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 | 97 | Žaizdų Gydymas | Atstato 1k4 JĖG per dieną padarui prie kurio tu prisilieti. |
 | 98 | Žemės Drebėjimas | Žemė pradeda smarkiai drebėti. Statiniai gali būti apgadinti arba sugriūti. |
 | 99 | Žvėries Pavidalas | Tu ir tavo daiktai pavirsta paprastu gyvūnu. |
-| 100 | Žybtelėjimas | Ryškus energijos kamuolys iššauna šviesos ruožą į dangų, kuris atskleidžia tavo būvimo vietą tiek draugams tiek priešams. |         | 
+| 100 | Žybtelėjimas | Ryškus energijos kamuolys iššauna šviesos ruožą į dangų, kuris atskleidžia tavo būvimo vietą tiek draugams tiek priešams. |
 
 [Grįžti į turinį](#index)
 <p></p>
