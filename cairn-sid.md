@@ -876,7 +876,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 | 14 | Burtininko ženklas | Iš tavo piršto iššauna ugnies spalvos energijos srautas, matomas tik tau. Gali jį stebėti bet kokiu atstumu, net per kietus objektus. |
 | 15 | Burtų Pjūklas | Iš tavo krūtinės išskrieja besisukantys ašmenys išvalantys bet kokią augalinę medžiagą. Ašmenys nedaro jokios žalos kitiems objektams. |
 | 16 | Daugiarankis | Trumpam laikui įgiji papildomą ranką. |
-| 17 | Drebučių/Želė Forma | Tu tampi gyvu ir sąmoningu želė. |
+| 17 | Drebučių Forma | Tu tampi gyvu ir sąmoningu drebučiu. |
 | 18 | Dūmų Forma | Tavo kūnas virsta gyvais dūmais, kuriuos tu gali valdyti. |
 | 19 | Duobė | Žemėje atsiveria 3 metrų pločio ir 3 metrų gylio duobė. |
 | 20 | Dvaras | Prieš tavo akis išdygas tvirtas, apstatytas namas. Jis egzistuos 12 valandų. Tu gali leisti arba uždrausti į jį patekti. |
@@ -884,7 +884,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 | 22 | Fobija | Netoliese esanti būtybė ima paniškai bijoti tavo pasirinkto daikto. |
 | 23 | Gamtos jėgų siena | Iš žemės iškyla ledo arba ugnies siena, kurios ilgis 15 metrų, o aukštis - 3 metrai. |
 | 24 | Godumas | Būtybė yra užvaldoma nenumaldomu troškimu turėti pasirinktą matomą daiktą. |
-| 25 | Gravitacijos poslinkis | Tu galite pakeisti gravitacijos kryptį, bet tik sau. |
+| 25 | Gravitacijos Poslinkis | Tu galite pakeisti gravitacijos kryptį, bet tik sau. |
 | 26 | Hipnozė | Būtybė pasineria į transą ir sąžiningai atsako į vieną taip/ne klausimą. |
 | 27 | Inkaras | Tvirta viela išdygsta iš tavo rankų, prisitvirtindama prie dviejų taškų, esančių 15 metrų atstumu abiejose pusėse. |
 | 28 | Įsakymas | Tavo pasirinktas padaras paklųsta vienam nurodymui iš trijų žodžių, kuris jam nepadarys žalos. |
@@ -892,35 +892,35 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 | 30 | Jutimas | Pasirink vienos rūšies daiktą (raktą, auksą, strėlę, ąsotį ir pan.). Tu gali pajausti artimiausią [tokio daikto] egzempliorių. |
 | 31 | Klausos Iliuzijos | Tu sukuri iliuzinius garsus, kurie, atrodo, sklinda iš tavo pasirinktos krypties. |
 | 32 | Kūnų Apsikeitimas | Tu apsikeiti kūnais su padaru, kurį palieti. Jei vienas kūnas miršta, kitas taip pat miršta. |
-| 33 | Laiko kontrolė | Laikas 15 metrų burbule sulėtėja arba pagreitėja 10% 30 sekundžių. |
-| 34 | Ledo prisilietimas | Liečiamą paviršių padengia storas ledo sluoksnis iki 3 metrų spinduliu. |
-| 35 | Lipdyti elementus | Negyva medžiaga tavo rankose įgyja molio savybes ir gali būti lipdoma. |
+| 33 | Laiko Kontrolė | Laikas 15 metrų burbule sulėtėja arba pagreitėja 10% 30 sekundžių. |
+| 34 | Ledo Prisilietimas | Liečiamą paviršių padengia storas ledo sluoksnis iki 3 metrų spinduliu. |
+| 35 | Lipdyti Elementus | Negyva medžiaga tavo rankose įgyja molio savybes ir gali būti lipdoma. |
 | 36 | Magijos Aptikimas | Gali matyti arba girdėti aplinkines magiškas auras. |
-| 37 | Magijos slopintuvas | Visų netoliese esančių magiškų efektų veiksmingumas sumažėja perpus. |
+| 37 | Magijos Slopintuvas | Visų netoliese esančių magiškų efektų veiksmingumas sumažėja perpus. |
 | 38 | Masalo Žiedas | Iš žemės išdygsta augalas, skleidžiantis pūvančios mėsos kvapą. |
 | 39 | Maskuotė | Tu gali pakeisti vieno iš veikėjų išvaizdą, bet jie turi išlikti žmonėmis. Bandymai klonuoti vieną iš egzistuojančių žaidimo personažų ar veikėjų atrodys nevykę. |
 | 40 | Maskuotė | Veikėjo išvaizda ir balsas tampa identiški priliesto veikėjo savybėms. |
 | 41 | Miegas | Matoma būtybė panyra į lengvą miegą. |
 | 42 | Nakties sfera | Prieš tave atsiranda 15 metrų skersmens tamsos sfera, kurioje atvaizduotas naktinis dangus. |
 | 43 | Neapykanta | Tavo pasirinktą būtybę užlieja didžiulė neapykanta kitai būtybei arba grupei, kartu atsiranda noras ją sunaikinti. |
-| 44 | Nematomas diržas | Du objektai negali nutolti vienas nuo kito daugiau kaip 3 metrai. |
-| 45 | Netikras regėjimas | Tu gali kontroliuoti, ką būtybė mato. |
+| 44 | Nematomas Diržas | Du objektai negali nutolti vienas nuo kito daugiau kaip 3 metrai. |
+| 45 | Netikras Regėjimas | Tu gali kontroliuoti, ką būtybė mato. |
 | 46 | Nuraminimas | Netoliese esanti būtybė pradeda jausti didelį priešiškumą smurtui. |
 | 47 | Oro Valdymas | Tu gali pakeisti esamą orą, bet neturi kitokios įtakos jam. |
-| 48 | Pavirtimas daiktu | Tu tampi bet kokiu negyvu objektu, kurio dydis yra nuo obuolio iki fortepijono. |
-| 49 | Pirmykštis antplūdis | Būtybė greitai evoliucionuoja į būsimą savo rūšies versiją. |
+| 48 | Pavirtimas Daiktu | Tu tampi bet kokiu negyvu objektu, kurio dydis yra nuo obuolio iki fortepijono. |
+| 49 | Pirmykštis Antplūdis | Būtybė greitai evoliucionuoja į būsimą savo rūšies versiją. |
 | 50 | Plepumas | Tavo pasirinktas padaras privalo garsiai ir aiškiai atkartoti viską, ką tu galvoji. Kitais atvejais jis yra nebylus. |
 | 51 | Poslinkis | Tavo pasirinktas objektas atrodys esąs už 5 metrų nuo jo tikrosios būvimo vietos. |
-| 52 | Prikelti dvasią | Netoliese esančio negyvėlio dvasia pasireiškia priešais tave ir atsako į 1 klausimą. |
-| 53 | Prikelti skeletą | Iš žemės pakyla tau paklūstantis skeletas. Skeletai yra nepaprastai kvaili ir gali vykdyti tik paprastus nurodymus. |
+| 52 | Prikelti Dvasią | Netoliese esančio negyvėlio dvasia pasireiškia priešais tave ir atsako į 1 klausimą. |
+| 53 | Prikelti Skeletą | Iš žemės pakyla tau paklūstantis skeletas. Skeletai yra nepaprastai kvaili ir gali vykdyti tik paprastus nurodymus. |
 | 54 | Prilipimas | Objektas pasidengia ypatingai lipiu gleivių sluoksniu. |
 | 55 | Pritraukti | Du objektai yra magnetiškai pritraukiami vienas prie kito, jei atsiduria maždaug 3 metrų atstumu vienas nuo kito. |
 | 56 | Prototipas | Primityvi nupiešto įrankio ar daikto versija atsiranda prieš tave ir po trumpo laiko išnyksta. Ji atrodo kaip tikras daiktas, bet nefunkcionuoja kaip jis. |
 | 57 | Putų Kūgis | Iš tavo rankos ištrykšta tankios putos, padengiančios pasirinktą taikinį. |
 | 58 | Regėjimas | Tu gali matyti akimis būtybės, prie kurios šiandien buvai prisilietęs. |
 | 59 | Reginys | Aiškiai netikra, bet vis vien įspūdinga iliuzija pasirodo priešais tave. Ji gali būti net iki rūmų dydžio. |
-| 60 | Rentgeno regėjimas | Gali matyti kiaurai sienas, purvą, drabužius ir pan. |
-| 61 | Rūko debesis | Aplink tave pasklinda tirštas rūkas. |
+| 60 | Rentgeno Regėjimas | Gali matyti kiaurai sienas, purvą, drabužius ir pan. |
+| 61 | Rūko Debesis | Aplink tave pasklinda tirštas rūkas. |
 | 62 | Rūšiavimas | Negyvi daiktai išsirikiuoja pagal tavo nustatytas kategorijas. |
 | 63 | Šaltinis | Šalia tavęs pasirodo jūros vandens šaltinis. |
 | 64 | Skaityti mintis | Tu gali girdėti paviršutiniškas šalia esančių būtybių mintis. |
@@ -928,13 +928,13 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 | 66 | Sklandymas | Objektas gali sklęsti vieną metrą virš žemės ir išlaikyti vieną žmogų ant jo. |
 | 67 | Skuba | Tavojudėjimo greitis patrigubėja. |
 | 68 | Skydas | Būtybė, kurią palieti, vienai minutei yra apsaugota nuo paprastų atakų. |
-| 69 | Skystas oras | Oras aplink tave tampa toks, kad juo galima plaukti. |
+| 69 | Skystas Oras | Oras aplink tave tampa toks, kad juo galima plaukti. |
 | 70 | Slidumas | Kiekvienas paviršius 10 metrų spinduliu tampa itin slidus. |
-| 71 | Šnabždesių girdėjimas | Tu girdi net ir pačius tyliausius šnabždesius. |
+| 71 | Šnabždesių Girdėjimas | Tu girdi net ir pačius tyliausius šnabždesius. |
 | 72 | Spiečius | Tu tampi varnų, žiurkių ar piranijų spiečiumi. Tau gali pakenkti tik sporgstamosios atakos. |
-| 73 | Stabo iškvietimas | Iš žemės iškyla 2m dydžio išraižyta akmens statula. |
-| 74 | Stikliukų manija | Tavo kišenės pasidaro pilnos apvalių stikliukų; kad ir kiek jų betrauktum, kas trisdešimt sekundžių jos vėl prisipildo. |
-| 75 | Sukurti žemės kubą | Kartą per sekundę tu gali sukurti arba pašalinti 1 metro pločio žemės kubą. Nauji kubai turi būti pritvirtinti prie žemės arba prie kitų kubų. |
+| 73 | Stabo Iškvietimas | Iš žemės iškyla 2m dydžio išraižyta akmens statula. |
+| 74 | Stikliukų Manija | Tavo kišenės pasidaro pilnos apvalių stikliukų; kad ir kiek jų betrauktum, kas trisdešimt sekundžių jos vėl prisipildo. |
+| 75 | Sukurti Žemės Kubą: | Kartą per sekundę tu gali sukurti arba pašalinti 1 metro pločio žemės kubą. Nauji kubai turi būti pritvirtinti prie žemės arba prie kitų kubų. |
 | 76 | Sumaišymas | Dvi būtybės tavo matymo zonoje akimirksniu susikeičia vietomis. |
 | 77 | Sumažinimas | Būtybė, kurią tu prilieti, susitraukia iki pelės dydžio. |
 | 78 | Šuolis | Vieną kartą pašoki iki 3 metrų aukščio. |
@@ -945,15 +945,15 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 | 83 | Telekinezė | Tu gali psichiškai judinti daiktą, sveriantį mažiau nei 30 kg. |
 | 84 | Telepatija | Dvi būtybės girdi viena kitos mintis, kad ir kaip toli viena nuo kitos būtų. |
 | 85 | Teleportacija | Matomas objektas arba asmuo yra transportuojamas iš vienos vietos į kitą 15 metrų spinduliu. |
-| 86 | Teleportacinis čiuptuvas | Matomas daiktas teleportuojasi į tavo rankas. |
+| 86 | Teleportacinis Čiuptuvas | Matomas daiktas teleportuojasi į tavo rankas. |
 | 87 | Tikras Regėjimas | Tu gali lengvai atskirti šalia esančias iliuzijas. |
 | 88 | Traukimas/Stūmimas | Tu gali pritraukti arba pastumti bet kokio dydžio objektą net neprisiliesdamas prie jo vieno žmogaus jėga. |
 | 89 | Uoslė | Tu gali užuosti net silpniausius kvapų pėdsakus. |
 | 90 | Užgesinti | Akimirksniu užgesinamas bet koks matomas paprastas šviesos šaltinis. |
 | 91 | Vartai | Atsiveria portalas į atsitiktinę dimensiją. |
-| 92 | Veidrodinis atvaizdas | Atsiranda iliuzinė jūsų kopija, kurią galite valdyti. |
-| 93 | Veidrodinis perėjimas | Veidrodis tampa vartais į kitą veidrodį, kurį šiandien matei. |
-| 94 | Vizualinė iliuzija | Tu sukuria nejudančią, tylią, kambario dydžio iliuziją. |
+| 92 | Veidrodinis Atvaizdas | Atsiranda iliuzinė jūsų kopija, kurią galite valdyti. |
+| 93 | Veidrodinis Perėjimas | Veidrodis tampa vartais į kitą veidrodį, kurį šiandien matei. |
+| 94 | Vizualinė Iliuzija | Tu sukuria nejudančią, tylią, kambario dydžio iliuziją. |
 | 95 | Voratinklis | Tavo riešai šaudo storus voratinklius. |
 | 96 | Voro Kojos | Gali laipioti paviršiais kaip voras. |
 | 97 | Žaizdų Gydymas | Atstato 1k4 JĖG per dieną padarui prie kurio tu prisilieti. |
