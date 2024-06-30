@@ -4,6 +4,7 @@ title: Spellbooks
 parent: 2e
 grand_parent: WIP
 nav_exclude: true
+search_exclude: true
 ---
 
 # Spellbooks

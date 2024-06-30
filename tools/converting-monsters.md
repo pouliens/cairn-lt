@@ -3,6 +3,8 @@ layout: default
 title: Converting Monsters
 parent: Tools
 redirect_from: /resources/tools/converting-monsters/
+nav_exclude: true
+search_exclude: true
 ---
 
 # Converting Monsters

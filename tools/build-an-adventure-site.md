@@ -3,6 +3,8 @@ layout: default
 title: Build An Adventure Site
 parent: Tools
 redirect_from: /resources/tools/build-an-adventure-site/
+nav_exclude: true
+search_exclude: true
 ---
 
 # Build An Adventure Site
