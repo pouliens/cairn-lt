@@ -12,7 +12,7 @@ nav_order: 2
 **Cairn** naudoja [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenziją.  
 
 Šio projekto failai yra prieinami [čia](https://github.com/pouliens/cairn-lt). Taip pat gali šį žaidimą parsisiųsti ir kitais formatais:
-* [PDF lietuvių kalba](../pdf/exported/CairnLT%20v1.0.pdf)
+* [PDF lietuvių kalba](https://drive.google.com/file/d/1bfubYYBDa9XH-qGwoxnfcpsskBuZlzdU/view?usp=sharing)
 * [Word, Affinity, Google Docs, ir t.t. anglų kalba](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) ().
 
 ---

@@ -3,6 +3,8 @@ layout: default
 title: Adventure Conversions
 nav_order: 3
 parent: Submissions
+nav_exclude: true
+search_exclude: true
 ---
 
 # Adventure Conversions
