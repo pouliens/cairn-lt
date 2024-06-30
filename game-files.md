@@ -7,5 +7,5 @@ nav_order: 3
 
 Žaidimo failai:
 
-> * [Lietuvių kalba](https://drive.google.com/file/d/1bfubYYBDa9XH-qGwoxnfcpsskBuZlzdU/view?usp=sharing)
-> * [Anglų kalba](https://drive.google.com/drive/folders/1x9wUazUOSzeu29Eoq43NH8_k9R5wghg-)
+> * [PDF Lietuvių kalba](https://drive.google.com/file/d/1bfubYYBDa9XH-qGwoxnfcpsskBuZlzdU/view?usp=sharing)
+> * [PDF, Word, Affinity ir kiti failai Anglų kalba](https://drive.google.com/drive/folders/1x9wUazUOSzeu29Eoq43NH8_k9R5wghg-)
