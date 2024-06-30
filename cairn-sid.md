@@ -966,21 +966,21 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 
 # Taisyklių Santrauka
 
-**Veiksmai**  
-Savo ėjimo metu veikėjas nueiti iki  m ir atliki vieną veiksmą. Veiksmais yra laikomi burtų naudojimai, atakos, atnras ėjimas arba kiti pagrįsti veiksmai. Laikoma, kad žaidėjo veiksmai, puolimai ir judesiai vyksta vienu metu. Kai ėjimo tvarkar neaiški, veikėjai turėtų atlikti Vikrumo (VIK - DEX) išbandymą, kad išsiaiškintų ar jie eina prieš savo priešus.
+**VEIKSMAI**  
+Savo ėjimo metu veikėjas gali nueiti iki 10m ir atliki vieną veiksmą. Veiksmais yra laikomi *burtų naudojimai*, *atakos*, *antras ėjimas* arba *kiti pagrįsti veiksmai*. Laikoma, kad žaidėjo veiksmai, puolimai ir judesiai vyksta vienu metu. Kai ėjimo tvarka neaiški, veikėjai turėtų atlikti Vikrumo (VIK) išbandymą, kad išsiaiškintų ar jie eina pirma savo priešų.
 
-**Pabėgimas** iš pavojingos sitaucijos visada reikalauja sėkmingo Vikrumo (VIK) išbandymo, pat pat saugios vietos, į kurią galima pabėgti.
+**Pabėgimas** iš pavojingos sitaucijos visada reikalauja sėkmingo Vikrumo (VIK) išbandymo, taip pat saugios vietos, į kurią galima pabėgti.
 
-**GEBĖJIMAI**  
-**Jėga (JĖG)**: Fizinė jėga, meistriškumas ir atsparumas.
-**Vikrumas (VIK)**: Išsisukinėjimas, slapstymasis ir refleksai.
-**Valia (VAL)**: Įtikinėjimas, bauginimas ir magija.
+**GEBĖJIMAI**\
+**Jėga (JĖG)**: Jėga, meistriškumas ir atsparumas.\
+**Vikrumas (VIK)**: Išsisukinėjimas, slapstymasis ir refleksai.\
+**Valia (VAL)**: Įtikinėjimas, bauginimas ir magija.\
 
 **IŠBANDYMAI**
-- Ridenk K20; jei rezultas yra lygus arba mažesnis už tavo gebėjimą, tu išlaikai išbandymą, jei didesnis - neišlaikai.
+- Ridenk k20; jei rezultas yra lygus arba mažesnis už tavo gebėjimą, tu išlaikai išbandymą, jei didesnis - neišlaikai.
 - 1 visada yra sėkmė, 20 visada yra nesėkmė.
 
-**GYNYBOS TAŠKAI (GT)**  
+**GYNYBOS TAŠKAI**  
 **GT** nurodo veikėjo gebėjimą išvengti sužeidimų. Jie yra prarandami mūšio metu, bet gali būti atstatyti pasibaigus mūšiui, po kelių akimirkų poilsio.
 
 **INVENTORIUS**  
@@ -992,7 +992,7 @@ Užpildžius visas dešimt inventoriasu vietų, veikėjo gynybos taškai (GT) su
 **Išsekę** veikėjai negali atgauti Gynybos Taškų. Jei išsekimas tęsias ilgiau nei dieną, į veikėjo inventorių yra pridedamas Nuovargis. **Nuovargis** užima vieną inventoriaus vietą ir tęsiasi tol, kol veikėjas gali saugiai atsigauti. Kiekviena diena praleista išsekimo būsenoje prideda naują Nuovargį į veikėjo inventorių.
 
 **GYDYMAS**  
-Trumpas poilsis ar gurkšnis vandens akuria prarasus GT (Gynybos Taškus), tačiau veikėjai gali būti pažeidžiami šio poilsio metu. Norint atstatyti prarastas Savybes prireiks ilgesnio poilsio ir įgudusio gydūno pagalbos.
+Trumpas poilsis ar gurkšnis vandens akuria prarasus GT (Gynybos Taškus), tačiau veikėjai gali būti pažeidžiami šio poilsio metu. Norint atstatyti prarastus **Gebėjimus** prireiks ilgesnio poilsio ir įgudusio gydūno pagalbos.
 
 **BURTŲ KNYGOS**  
 Burtų knygos talpiną vieną kerą ir užima vieną inventoriaus vietą. Bet kas gali naudoti kerus laikydamas burtų knygą abiejose rankose ir garsiai skaitydamas ją. burtų naudojimas sukuria **Nuovargį** veikėjo inventoriuje.
@@ -1008,11 +1008,11 @@ Niekas negali turėti daugiau nei 3 Šarvus.
 
 **Atakos plikomis rankomis** (unarmed) visada daro 1k4 žalos. Jeigu keli veikėjai atakuoja tą patį priešą, ridenk visus žalos kauliukus ir pasilik tik didžiausią rezultatą.  Jeigu tuo pačiu metu veikėjas atakuoja dviem ginklais, mesk du žalos kauliukai, pasilik vieną didžiausią rezultatą.
 
-Jei yra koks nors **trukdis** atakai, žalos kauliukas yra sumažinimas iki 1k4, neatsižvelgiant į ginklą. Jei ataka yra sustiprinta, puolėjas ridena 1k12. Atakos su **sprogimo efektu** veikia visus taikinius paveikiamoje zonoje, o žala metama atskirai kiekvienam taikiniui.
+Jei yra koks nors **trukdis** atakai, žalos kauliukas yra sumažinimas iki 1k4, neatsižvelgiant į ginklą. Jei ataka yra **sustiprinta**, puolėjas ridena 1k12. Atakos su **sprogimo efektu** veikia visus taikinius paveikiamoje zonoje, o žala metama atskirai kiekvienam taikiniui.
 
 **ŽALA**  
-Jei ataka sumažina žaidėjo veikėja Gynybos Taškus (GT) iki 0, tada jis gauna [randą](#randai).
+Jei ataka sumažina žaidėjo veikėja Gynybos Taškus (GT) iki 0 - jis gauna [Randą](#randai).
 
 Žala, sumažinanti taikinio Gynybos Taškus (GT) **žemiau** 0, tuo pačiu sumažina taikinio JĖG (Jėgą) likusia suma. Po to jis turi atlikti JĖG išbandymą su likusia Jėga, kad išvengtų **kritinės žalos**. Nesėkmės atveju žaidėjas personažas yra pašalinamas iš kovos; jei jis negauna pagalbos greitu metu, jis miršta.
 
-0 Jėgos reiškia mirtį; 0 Vikrumo  – paralyžių; 0 Valios – kliedesius.
+0 JĖG reiškia mirtį; 0 VIK  – paralyžių; 0 VAL – kliedesius.
