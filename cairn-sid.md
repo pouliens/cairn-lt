@@ -72,7 +72,7 @@ Nevertėtų pasikliauti kauliukais kiekvienoje situacijoje, kad išsiaiškintum 
 - Pirmenybė turėtų būti teikiama istorijos kontekstui ir realizmui, o ne žaidimo mechanikai ar kauliukų ridenimams.
 - Jei žaidėjas nori atlikti veiksmą, kuris yra visiškai neįmanomas, joks sėkmingas ridenimas neleis jam to padaryti.
 - Ar žaidėjo norimas atlikti veiksmas yra logiškas ir prasmingai dera su esama situacija? Leisk jam jį atlikti be jokio kauliukų ridenimo.
-- Išbandymai bus naudingi rizikingose situacijose ir jie labiausiai pravers, kai žaidėjas norės atlikti kokį nors rizikinga veiksmą.
+- Išbandymai bus naudingi nenuspėjamose situacijose ir jie pravers, kai žaidėjas norės atlikti kokį nors rizikingą veiksmą.
 
 ### Pasiruošimas
 - Žaidimo pasaulis yra organiškas, besikeičiantis ir su prieskoniu atsitiktinumo. Jame yra daug aštrių istorijos posūkių.
