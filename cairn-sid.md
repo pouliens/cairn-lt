@@ -158,15 +158,15 @@ Tada, išsiridenk savo personažo bruožus (išvaizdą, kalbą, manieras, įsiti
 
 Tada, išsiridenk savo personažo **amžių** (2d20+10).
 
-#### Savybių Taškai
-Žaidėjo personažas (ŽP) turi tik tris savybes:
-**Jėga (JĖG)**, **Vikrumą (VIK)** ir **Valią (VAL)**. Kurdami žaidimo personažą, žaidėjai ridena 3k6 paeiliui kiekvienai iš savybių. Tada jie gali sukeisti bet kuriuos du rezultatus.
+#### Gebėjimų Taškai
+Žaidėjo Personažas (ŽP) turi tris gebėjimus:
+**Jėga (JĖG)**, **Vikrumą (VIK)** ir **Valią (VAL)**. Kurdami žaidimo personažą, žaidėjai ridena 3k6 paeiliui kiekvienam iš gebėjimų. Tada jie gali sukeisti bet kuriuos du rezultatus.
 
 <details markdown="block">
   <summary>
 Pavyzdys
  </summary>
-  Inesa ridena savo personažo **JĖG** ir išridena **2**, **4** ir **6** - bendroje sumoje **12**. Kitoms dviem savybėms ji išridena **9** **VIK** ir **13** **VAL**. Tada ji nusprendžia sukeisti **12** ir **9**. Jos personažas turės **9 JĖG**, **12 VIK** ir **13 VAL**.
+  Inesa ridena savo personažo **JĖG** ir išridena **2**, **4** ir **6** - bendroje sumoje **12**. Kitiems dviem gebėjimams ji išridena **9** **VIK** ir **13** **VAL**. Tada ji nusprendžia sukeisti **12** ir **9**. Jos personažas turės **9 JĖG**, **12 VIK** ir **13 VAL**.
 </details>
 
 ### Gynybos Taškai
@@ -624,7 +624,7 @@ Kiekvienas iš trijų pagrindinių **gebėjimų** naudojamas skirtingais atvejai
 **Valia** (VAL): Naudojama išbandymams, skirtiems įtikinėti, apgauti, tardyti, bauginti, žavėti, provokuoti, manipuliuoti burtais ir t.t.
 
 ### Išbandymai
-Išbandymai yra kauliukų metimai mėginant išvvengti blogų pasėkmių, su kuriomis galima susidurti dėl rizikingų pasirinkimų ar aplinkybių. Žaidėjo veikėjas meta k20 atinkamai savybei. Jeigu jie išridena skaičių, lygų arba mažesnį nei jų tikrinimas gebėjimas, jie išlaiko šį išbandymą sėkmingai. Priešingu atveju, jie neišlaiko šio išbandymo. Išridentas 1 visada reiškia sėkmę, o 20 - nesėkmę.
+Išbandymai yra kauliukų metimai mėginant išvengti blogų pasekmių, su kuriomis galima susidurti dėl rizikingų pasirinkimų ar aplinkybių. Žaidėjo veikėjas meta k20 atitinkamam gebėjimui. Jeigu jie išridena skaičių, lygų arba mažesnį nei jų tikrinima **gebėjimas**, jie išlaiko šį išbandymą sėkmingai. Priešingu atveju, jie neišlaiko šio išbandymo. Išridentas 1 visada reiškia sėkmę, o 20 - nesėkmę.
 
 <details markdown="block">
   <summary>
@@ -634,7 +634,7 @@ Išbandymai yra kauliukų metimai mėginant išvvengti blogų pasėkmių, su kur
 </details>
 
 ### Gydymas
-Trumpas poilsis ir gurkšnis vandens atstato praprastus Gyvybės Taškus (angl. Hit Protection, HP), tačiau palieka personažus neapsaugotus. Savybių praradimą paprastai galima atstatyti po savaitės poilsio, padedant gydytojui arba aplankant atitinkamas vietas. Kai kurios iš šių paslaugų yra nemokamos, o magiškos ar greitesnės gydytmo priemonės gali kainuoti.
+Trumpas poilsis ir gurkšnis vandens atstato prarastus Gynybos Taškus (angl. Hit Protection, HP), tačiau gali padaryti veikėjus pažeidžiamais. Gebėjimų praradimą paprastai galima atstatyti po savaitės poilsio, padedant gydytojui arba aplankant gydančių galių turinčias vietas. Kai kurios iš šių paslaugų yra nemokamos, o magiškos ar greitesnės gydymo priemonės gali kainuoti.
 
 ### Išsekimas ir Nuovargis
 Žaidėjo veikėjas negalintis patenkinti savo svarbiausių poreikių (tokių kaip alkis ir poilsis) negali atgauti Gynybos Taškų (GT) ir Gebėjimų Taškų. Jei personažas yra išsekęs ilgiau nei vieną dieną, jis prideda Nuovargį į savo inventorių už kiekvieną tokią dieną. Kiekvienas nuovargis užima vieną vietą inventoriuje ir juo negalima atsikratyti, kol veikėjas neras progas pailsėti ir sustiprėti (pavyzdžiui pamiegoti saugioje vietoje). Veikėjas taip pat patiria/gauna nuovargį leisdamas kerus arba dėl kitokių žaidimo pasaulyje vykstančių įvykių.
@@ -656,7 +656,7 @@ Trumpas poilsis ir gurkšnis vandens atstato praprastus Gyvybės Taškus (angl. 
 Priešai netekę savo pirmo bendro ir netekę pusės savo grupės narių, turi išlaikyti VALIOS išbandymą, kad neišsibėgiotų. Kai kurios priešų grupės gali naudoti jų grupės vado VALIĄ šiems išbandymams. Atskiri priešai atlieka VALIOS išbandymą, kai jų gynybos taškai nukrenta iki 0. Moralė nedaro įtakos žaidėjų veikėjams.
 
 ### Samdiniai
-Žaidėjai gali pasisamdyti samdinius, kurie padės ekspedicijų metu. Norėdamas sukurti samdinį, ridenk 3k6 kiekvienam savybės balui, duok jiems 1k6 gynybos taškų ir paprastą ginklą (k6). Tuomet ridenk [personažo savybių lentelėse](#). Samdiniai kainuoja 1-3 aukso per dieną, arba dalį bet kokio lobio, kurį suranda grupė.
+Žaidėjai gali pasisamdyti samdinius, kurie padės ekspedicijų metu. Norėdamas sukurti samdinį, ridenk 3k6 kiekvienam gebėjimo balui, duok jiems 1k6 gynybos taškų ir paprastą ginklą (k6). Tuomet ridenk [personažo savybių lentelėse](#). Samdiniai kainuoja 1-3 aukso per dieną, arba dalį bet kokio lobio, kurį suranda grupė.
 
 ### Turtai ir Lobiai
 Dažniausia naudojama moneta yra auksinė (au), kuri yra lygi 10 sidabrinių monetų (si) ir 100 varinių monetų (va).
@@ -704,7 +704,7 @@ Jei personažas yra pavargęs arba pavojuje, žaidimo meistras gali paprašyti �
 ### Veiksmai
 Savo ėjimo metu veikėjas gali nueiti iki 10 metrų ir atlikti vieną veiksmą. Tai gali būti burtažodžio skaitymas, puolimas, antras ėjimas ar kitas logiškas veiksmas.
 
-Kiekvieną raundą, veikėjai paskelbia, ką darys, prieš metant kauliukus. Jei žaidėjo veikėjas bando kažką rizikingo, žaidimo meistras paprašo atlikti atitinkamos savybės išbandymą savo personažui arba kuriam nors žaidimo personažui (NPC).
+Kiekvieną raundą, veikėjai paskelbia, ką darys, prieš metant kauliukus. Jei žaidėjo veikėjas bando kažką rizikingo, žaidimo meistras paprašo atlikti atitinkamo gebėjimo išbandymą savo personažui arba kuriam nors žaidimo personažui (NPC).
 
 ### Ėjimai
 Žaidimo meistras turėtų pranešti apie labiausiai tikėtinus veiksmus, kuriuos gali atlikti nežeidėjų personažai arba pabaisos. Kovos pradžioje kiekvienas žaidėjo personažas turi atlikti Vikrumo (VIK) išbandymą. Išlaikius šį išbandymą, žaidėjas galės atlikti savo veiksmus prieš oponentus. Neišlaikius - oponentas eis pirmas.
@@ -740,7 +740,7 @@ Jei žaidėjo veikėjo ar priešo Gynybos Taškai (GT) nukrenta iki nulio - liku
 
 Žaidėjo veikėjas patyręs kritinę žalą, negali nieko daryti tik bejėgiškai ropoti, kabindamasis į gyvenimą. Jei jiems bus suteikta pagalba ir poilsis, jie stabilizuosis. Jei jie tos pagalbos negaus - mirs per valandą.
 
-### Savybių Taškų Praradimas
+### Gebėjimo Taškų Praradimas
 Jei žaidėjo Jėga (JĖG) nukrenta iki 0 - jie miršta. Jei jų Vikrumas (VIK) nukrenta iki 0 - jie yra paraližuojami. Jei jų Valia (VAL) nukrenta iki nulio - jie išprotėja. 
 
 Visiškas VIK ir VAL praradimas padaro veikėją neveikliu, kol šie taškai nebus atstatyti ilgu poilsiu, magija ar kitokiais ypatingais gebėjimais.
@@ -831,7 +831,7 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 - Specialus efektas arba kritinės žalos pasekmė
 
 **Bendri Principai**\
-**Savybės**: 3 - nevisavertis, 6 - silpnas, 10 - vidutiniškas, 14 - išskirtinis, 18 - legendinis lygis. Pritaikyk šiuos skaičius pagal savo žaidimo poreikį.
+**Gebėjimai**: 3 - nevisavertis, 6 - silpnas, 10 - vidutiniškas, 14 - išskirtinis, 18 - legendinis lygis. Pritaikyk šiuos skaičius pagal savo žaidimo poreikį.
 - Vidutinėms būtybėms suteik 3 GT, atsparesnėms - 6 GT, o ypač pavojingoms - 10 ar daugiau GT.
 - Suteik personažams unikalių savybių, kad jie būtų įsimintesni. Žaidėjai lengviau įsimins karį su avino galva, ieškantį savo pamesto rago, nei įprastą gobliną.
 - Kritinė žala turėtų atspindėti priešų grėsmę ir keistumą.
@@ -851,8 +851,8 @@ X GT, X Šarvai, X JĖG, X VIK, X VAL, ginklas (kx. specialūs daiktai, savybės
 **Keletas patarimų priešų kūrimui:**
 - Priešas puikiai išvengia tavo smūgių? Suteik jam daugiau GT (Gynybos Taškų).
 - Labai atsparus įvairiai žalai? Suteik didelę Šarvų reikmę.
-- Stiprus? Suteik jiems aukštą JĖG atributą.
-- Vikrus? Suteik jiems aukštą VIK atributą.
+- Stiprus? Suteik jiems aukštą JĖG reikšmę.
+- Vikrus? Suteik jiems aukštą VIK reikšmę.
 - Charizmatiškas? Suteik jiems aukštą VAL reikšmę.
 
 [Grįžti į turinį](#index)
@@ -997,7 +997,7 @@ Užpildžius visas dešimt inventoriasu vietų, veikėjo gynybos taškai (GT) su
 Trumpas poilsis ar gurkšnis vandens akuria prarasus GT (Gynybos Taškus), tačiau veikėjai gali būti pažeidžiami šio poilsio metu. Norint atstatyti prarastus **Gebėjimus** prireiks ilgesnio poilsio ir įgudusio gydūno pagalbos.
 
 **BURTŲ KNYGOS**  
-Burtų knygos talpiną vieną kerą ir užima vieną inventoriaus vietą. Bet kas gali naudoti kerus laikydamas burtų knygą abiejose rankose ir garsiai skaitydamas ją. burtų naudojimas sukuria **Nuovargį** veikėjo inventoriuje.
+Burtų knygos talpiną vieną kerą ir užima vieną inventoriaus vietą. Bet kas gali naudoti kerus laikydamas burtų knygą abiejose rankose ir garsiai skaitydamas ją. Burtų naudojimas sukuria **Nuovargį** veikėjo inventoriuje.
 
 Turėdami laiko ir būdami saugioje vietoje, žaidėjų veikėjai gali patobulinti sustiprinti turimų burtų poveikį be papildomų išlaidų. Jei jie yra išsekę arba pavojuje, žaidėjai turi atlikti VAL išbandymą, kad išvengtų neigiamų burtų pasėkmių.
 
@@ -1013,8 +1013,8 @@ Niekas negali turėti daugiau nei 3 Šarvus.
 Jei yra koks nors **trukdis** atakai, žalos kauliukas yra sumažinimas iki 1k4, neatsižvelgiant į ginklą. Jei ataka yra **sustiprinta**, puolėjas ridena 1k12. Atakos su **sprogimo efektu** veikia visus taikinius paveikiamoje zonoje, o žala metama atskirai kiekvienam taikiniui.
 
 **ŽALA**  
-Jei ataka sumažina žaidėjo veikėja Gynybos Taškus (GT) iki 0 - jis gauna [Randą](#randai).
+Jei ataka sumažina veikėjo Gynybos Taškus (GT) lygiai iki 0 - jis gauna [Randą](#randai).
 
-Žala, sumažinanti taikinio Gynybos Taškus (GT) **žemiau** 0, tuo pačiu sumažina taikinio JĖG (Jėgą) likusia suma. Po to jis turi atlikti JĖG išbandymą su likusia Jėga, kad išvengtų **kritinės žalos**. Nesėkmės atveju žaidėjas personažas yra pašalinamas iš kovos; jei jis negauna pagalbos greitu metu, jis miršta.
+Žala, sumažinanti taikinio Gynybos Taškus (GT) **žemiau** 0, tuo pačiu sumažina taikinio Jėgą (JĖG) likusia suma. Po to jis turi atlikti išbandymą su likusia Jėga, kad išvengtų **kritinės žalos**. Nesėkmės atveju žaidėjo personažas yra pašalinamas iš kovos; jei jis negauna pagalbos greitu metu, jis miršta.
 
 0 JĖG reiškia mirtį; 0 VIK  – paralyžių; 0 VAL – kliedesius.
