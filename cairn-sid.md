@@ -357,14 +357,16 @@ Jei nori labiau tradicinių klasių, jas gali rasti [**paruoštų klasių lentel
 
 #### Šalmai ir Skydai
 
+|  |            |           |       |
+| :---: | :--------: | :-------: | :---: |
 | 1-3   | 4-16   | 17-19  | 20               |
-| ----- | ------ | ------ | ---------------- |
 | Jokių | Šalmas | Skydas | Šalmas ir Skydas |
 
 #### Ginklai
 
+|  |            |           |       |
+| :---: | :--------: | :-------: | :---: |
 | 1-5            | 6-14                             | 15-19                      | 20                            |
-| -------------- | -------------------------------- | -------------------------- | ----------------------------- |
 | Durklas, Lazda | Kardas, Vėzdas, Paprastas Kirvis | Lankas, Arbaletas, Laidynė | Alebarda, Kūjis, Kovos Kirvis |
 
 
